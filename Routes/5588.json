@@ -1,0 +1,194 @@
+[
+    {
+        "stationid": 4046,
+        "stationname": "Khajrana Ganesh Mandir",
+        "totaldistance": 0,
+        "totaltime": "0"
+    },
+    {
+        "stationid": 4337,
+        "stationname": "Siddhivinayak hospital",
+        "totaldistance": 0.3,
+        "totaltime": "1"
+    },
+    {
+        "stationid": 4049,
+        "stationname": "Khajrana Ring Road",
+        "totaldistance": 0.8,
+        "totaltime": "2"
+    },
+    {
+        "stationid": 4084,
+        "stationname": "Mayur Hospital",
+        "totaldistance": 1.6,
+        "totaltime": "4"
+    },
+    {
+        "stationid": 4175,
+        "stationname": "Bangali Ringroad - 1",
+        "totaldistance": 2.1,
+        "totaltime": "6"
+    },
+    {
+        "stationid": 4118,
+        "stationname": "Patrakar Chouraha",
+        "totaldistance": 3.2,
+        "totaltime": "12"
+    },
+    {
+        "stationid": 4006,
+        "stationname": "Gayatri Mandir",
+        "totaldistance": 3.6,
+        "totaltime": "13"
+    },
+    {
+        "stationid": 3868,
+        "stationname": "Badwani Plaza",
+        "totaldistance": 3.9,
+        "totaltime": "14"
+    },
+    {
+        "stationid": 4107,
+        "stationname": "Palasiya 56 Shop",
+        "totaldistance": 4.3,
+        "totaltime": "16"
+    },
+    {
+        "stationid": 4025,
+        "stationname": "Indraprastha Tower",
+        "totaldistance": 4.6,
+        "totaltime": "18"
+    },
+    {
+        "stationid": 4017,
+        "stationname": "City Centre / High Court_1",
+        "totaldistance": 5.4,
+        "totaltime": "21"
+    },
+    {
+        "stationid": 3915,
+        "stationname": "Regal Square",
+        "totaldistance": 5.8,
+        "totaltime": "22"
+    },
+    {
+        "stationid": 3925,
+        "stationname": "Gandhi Hall/Palika Plaza_1",
+        "totaldistance": 6.4,
+        "totaltime": "25"
+    },
+    {
+        "stationid": 4137,
+        "stationname": "Ranipura/ Kothari Market_1",
+        "totaldistance": 6.6,
+        "totaltime": "26"
+    },
+    {
+        "stationid": 4191,
+        "stationname": "Shree Krishna Talkies/ Krishnapura Pul_2",
+        "totaldistance": 7.09,
+        "totaltime": "29"
+    },
+    {
+        "stationid": 4222,
+        "stationname": "Nagar Nigam Depot_2",
+        "totaldistance": 7.4,
+        "totaltime": "30"
+    },
+    {
+        "stationid": 4305,
+        "stationname": "Ram Bagh",
+        "totaldistance": 7.5,
+        "totaltime": "32"
+    },
+    {
+        "stationid": 4024,
+        "stationname": "Imli Bazar",
+        "totaldistance": 7.9,
+        "totaltime": "33"
+    },
+    {
+        "stationid": 3958,
+        "stationname": "Smrati Talkies",
+        "totaldistance": 8.12,
+        "totaltime": "35"
+    },
+    {
+        "stationid": 4142,
+        "stationname": "Badwali Chouki",
+        "totaldistance": 8.38,
+        "totaltime": "36"
+    },
+    {
+        "stationid": 4192,
+        "stationname": "Chouthi Paltan",
+        "totaldistance": 8.5,
+        "totaltime": "37"
+    },
+    {
+        "stationid": 3793,
+        "stationname": "Jinsi Square",
+        "totaldistance": 8.7,
+        "totaltime": "38"
+    },
+    {
+        "stationid": 3794,
+        "stationname": "Kandilpura",
+        "totaldistance": 9.04,
+        "totaltime": "39"
+    },
+    {
+        "stationid": 3801,
+        "stationname": "Badaganpati",
+        "totaldistance": 9.38,
+        "totaltime": "40"
+    },
+    {
+        "stationid": 3803,
+        "stationname": "Antim Square",
+        "totaldistance": 9.6,
+        "totaltime": "42"
+    },
+    {
+        "stationid": 3805,
+        "stationname": "Rajmohalla",
+        "totaldistance": 9.9,
+        "totaltime": "43"
+    },
+    {
+        "stationid": 3808,
+        "stationname": "Gangwal Bus Stand",
+        "totaldistance": 10.2,
+        "totaltime": "44"
+    },
+    {
+        "stationid": 4086,
+        "stationname": "Mhow Naka",
+        "totaldistance": 11.1,
+        "totaltime": "48"
+    },
+    {
+        "stationid": 3933,
+        "stationname": "Ranjit Hanuman",
+        "totaldistance": 12.09,
+        "totaltime": "52"
+    },
+    {
+        "stationid": 4012,
+        "stationname": "Gumasta Nagar/Arihant Hospital",
+        "totaldistance": 12.5,
+        "totaltime": "53"
+    },
+    {
+        "stationid": 3917,
+        "stationname": "Footi Kothi",
+        "totaldistance": 13.13,
+        "totaltime": "55"
+    },
+    {
+        "stationid": 4016,
+        "stationname": "Hawa Bangla",
+        "totaldistance": 14.42,
+        "totaltime": "60"
+    }
+]

@@ -1,0 +1,3920 @@
+[
+    {
+        "StationName": "7 Vinay Nagar",
+        "Lat1": "22.68938000",
+        "Long1": "75.84364000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "9 Mil",
+        "Lat1": "22.58064000",
+        "Long1": "75.90151000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Abhay Prashal",
+        "Lat1": "22.72565000",
+        "Long1": "75.87777000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Abhinandan Pump",
+        "Lat1": "22.69995000",
+        "Long1": "75.79824000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "AB Road",
+        "Lat1": "22.66256000",
+        "Long1": "75.82461000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "ADVANCED ACADEMY",
+        "Lat1": "22.75126000",
+        "Long1": "75.92542000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Agrasen Chauraha",
+        "Lat1": "22.70368000",
+        "Long1": "75.87329000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Agrawal Public School",
+        "Lat1": "22.70314000",
+        "Long1": "75.91824000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Agrawal Tol Kanta",
+        "Lat1": "22.78167000",
+        "Long1": "75.90475000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Agriculture College",
+        "Lat1": "22.70951000",
+        "Long1": "75.89095000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ahilya Ashram",
+        "Lat1": "22.73401000",
+        "Long1": "75.86032000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "AiCTSL",
+        "Lat1": "22.71443000",
+        "Long1": "75.88364000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "AiCTSL",
+        "Lat1": "22.71443000",
+        "Long1": "75.88364000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Airport",
+        "Lat1": "22.72978000",
+        "Long1": "75.81067000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Airport",
+        "Lat1": "22.72978000",
+        "Long1": "75.81067000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Airport Gate",
+        "Lat1": "22.7292",
+        "Long1": "75.80718000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Airport Thana Stop",
+        "Lat1": "22.72668000",
+        "Long1": "75.81635000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Akashwani Kendra",
+        "Lat1": "22.6464",
+        "Long1": "75.81923000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Allahabad Bank/ Krishnapuri Colony",
+        "Lat1": "22.6901",
+        "Long1": "75.89608000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Allahabad Bank/ Krishnapuri Colony",
+        "Lat1": "22.6901",
+        "Long1": "75.89608000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Alpha",
+        "Lat1": "22.62317000",
+        "Long1": "75.80257000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Amar Nagar",
+        "Lat1": "22.70518000",
+        "Long1": "75.81537000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Anand Nagar",
+        "Lat1": "22.72809000",
+        "Long1": "75.89452000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Annapurna Mandir",
+        "Lat1": "22.68935000",
+        "Long1": "75.83725000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Annapurna Nagar",
+        "Lat1": "22.68774000",
+        "Long1": "75.83683000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ansal Town",
+        "Lat1": "22.79758000",
+        "Long1": "75.91797000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Antim Chauraha",
+        "Lat1": "22.71787000",
+        "Long1": "75.84091000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Antim Chauraha",
+        "Lat1": "22.71787000",
+        "Long1": "75.84091000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Antim Square",
+        "Lat1": "22.71747000",
+        "Long1": "75.84085000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "A P J Abdul Kalam University",
+        "Lat1": "22.79588000",
+        "Long1": "75.93319000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Apollo DB City",
+        "Lat1": "22.75847000",
+        "Long1": "75.9217",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Arjun Nagar",
+        "Lat1": "22.67382000",
+        "Long1": "75.84129000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Arjun Nagar",
+        "Lat1": "22.67382000",
+        "Long1": "75.84129000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Arvindo",
+        "Lat1": "22.79788000",
+        "Long1": "75.8473",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Arvindo",
+        "Lat1": "22.79788000",
+        "Long1": "75.8473",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Ashram Chauraha/IT Park",
+        "Lat1": "22.68538000",
+        "Long1": "75.87344000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ashram Chauraha/IT Park",
+        "Lat1": "22.68538000",
+        "Long1": "75.87344000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Astha Anup/Anup Talkies",
+        "Lat1": "22.74385000",
+        "Long1": "75.88437000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Azad Nagar",
+        "Lat1": "22.70066000",
+        "Long1": "75.88506000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Baank",
+        "Lat1": "22.70107000",
+        "Long1": "75.80219000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Babul Nagar",
+        "Lat1": "22.68772000",
+        "Long1": "75.89447000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bada Bangarda",
+        "Lat1": "22.75843000",
+        "Long1": "75.79431000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Badaganpati",
+        "Lat1": "22.72056000",
+        "Long1": "75.84171000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Badaganpati",
+        "Lat1": "22.72056000",
+        "Long1": "75.84171000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Badwali Chouki",
+        "Lat1": "22.7225",
+        "Long1": "75.84988000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Badwani Plaza",
+        "Lat1": "22.72332000",
+        "Long1": "75.88849000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bakery Gali",
+        "Lat1": "22.73647000",
+        "Long1": "75.87761000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Balaji Enclave",
+        "Lat1": "22.79679000",
+        "Long1": "75.92822000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Balaji Heights",
+        "Lat1": "22.76206000",
+        "Long1": "75.91226000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "BAL VINAY MANDIR/ NEHRU PARK RAILWAY STATION",
+        "Lat1": "22.72489000",
+        "Long1": "75.8691",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Baneshwari Kund",
+        "Lat1": "22.7475",
+        "Long1": "75.84991000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bangali Colony",
+        "Lat1": "22.7193",
+        "Long1": "75.90843000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bangali Colony",
+        "Lat1": "22.7193",
+        "Long1": "75.90843000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Bangali Ringroad",
+        "Lat1": "22.71879000",
+        "Long1": "75.90613000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Bangali Ringroad - 1",
+        "Lat1": "22.72006000",
+        "Long1": "75.90539000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bangali Ringroad - 1",
+        "Lat1": "22.72006000",
+        "Long1": "75.90539000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Banganga",
+        "Lat1": "22.74445000",
+        "Long1": "75.85122000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bangarda Road",
+        "Lat1": "22.75334000",
+        "Long1": "75.8037",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bank Colony",
+        "Lat1": "22.69451000",
+        "Long1": "75.8387",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bapat",
+        "Lat1": "22.75561000",
+        "Long1": "75.87815000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bapat",
+        "Lat1": "22.75561000",
+        "Long1": "75.87815000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "B.C.M. Paradise",
+        "Lat1": "22.75223000",
+        "Long1": "75.92148000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "B C School",
+        "Lat1": "22.73232000",
+        "Long1": "75.80077000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "B C School",
+        "Lat1": "22.73232000",
+        "Long1": "75.80077000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Best Price",
+        "Lat1": "22.7496",
+        "Long1": "75.93441000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhagirathpura",
+        "Lat1": "22.74579000",
+        "Long1": "75.86117000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhagirathpura Pul",
+        "Lat1": "22.74653000",
+        "Long1": "75.86611000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhagwati Dwar",
+        "Lat1": "22.68545000",
+        "Long1": "75.8239",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhairav Baba Mandir",
+        "Lat1": "22.75735000",
+        "Long1": "75.76962000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhamori",
+        "Lat1": "22.74662000",
+        "Long1": "75.88795000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhandari Mill",
+        "Lat1": "22.72985000",
+        "Long1": "75.86328000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhangarh Square",
+        "Lat1": "22.77391000",
+        "Long1": "75.87368000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bhangiya Gaon",
+        "Lat1": "22.77667000",
+        "Long1": "75.87281000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bholaram/Deendayal Upadhyay Garden",
+        "Lat1": "22.68805000",
+        "Long1": "75.8626",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bholaram/Deendayal Upadhyay Garden",
+        "Lat1": "22.68805000",
+        "Long1": "75.8626",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Bicholi Hapsi",
+        "Lat1": "22.71583000",
+        "Long1": "75.93964000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bicholi Mardana",
+        "Lat1": "22.6989",
+        "Long1": "75.92823000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bijalpur",
+        "Lat1": "22.67169000",
+        "Long1": "75.83487000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bijalpur",
+        "Lat1": "22.67169000",
+        "Long1": "75.83487000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Bijalpur",
+        "Lat1": "22.67169000",
+        "Long1": "75.83487000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Bijasan / Bijasan Central School",
+        "Lat1": "22.73272000",
+        "Long1": "75.80021000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Biyabani",
+        "Lat1": "22.71169000",
+        "Long1": "75.84197000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bohra Colony",
+        "Lat1": "22.74604000",
+        "Long1": "75.8011",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "BOI Zonal Office",
+        "Lat1": "22.74561000",
+        "Long1": "75.92922000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bombay Hospital",
+        "Lat1": "22.75361000",
+        "Long1": "75.90408000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bombay Hospital",
+        "Lat1": "22.75361000",
+        "Long1": "75.90408000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "BSF Colony",
+        "Lat1": "22.76766000",
+        "Long1": "75.76494000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Budhaniya",
+        "Lat1": "22.77079000",
+        "Long1": "75.7649",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Bypass",
+        "Lat1": "22.70112000",
+        "Long1": "75.92634000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "California City",
+        "Lat1": "22.74521000",
+        "Long1": "75.98173000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Casa Green Township",
+        "Lat1": "22.79763000",
+        "Long1": "75.92058000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "CAT",
+        "Lat1": "22.66941000",
+        "Long1": "75.81457000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Celebration Mall",
+        "Lat1": "31.63942000",
+        "Long1": "74.88999000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chameli Devi Clg",
+        "Lat1": "22.61529000",
+        "Long1": "75.88765000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chameli Devi School",
+        "Lat1": "22.67685000",
+        "Long1": "75.83788000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chanakyapuri Square",
+        "Lat1": "22.68423000",
+        "Long1": "75.83581000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chanakyapuri Square_1",
+        "Lat1": "22.6839",
+        "Long1": "75.8362",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chanakyapuri Square_1",
+        "Lat1": "22.6839",
+        "Long1": "75.8362",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Chandan Nagar",
+        "Lat1": "22.70725000",
+        "Long1": "75.82426000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chandralok",
+        "Lat1": "22.72962000",
+        "Long1": "75.89729000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chhota Bangarda",
+        "Lat1": "22.74651000",
+        "Long1": "75.81374000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chhoti Gwaltoli",
+        "Lat1": "22.71586000",
+        "Long1": "75.87085000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "ChimanBagh",
+        "Lat1": "22.7240",
+        "Long1": "75.86206000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chitawad_1",
+        "Lat1": "22.68598000",
+        "Long1": "75.88179000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chitawad_1",
+        "Lat1": "22.68598000",
+        "Long1": "75.88179000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Chitawad_2",
+        "Lat1": "22.69211000",
+        "Long1": "75.88225000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Chitawad_2",
+        "Lat1": "22.69211000",
+        "Long1": "75.88225000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Choithram Hospital",
+        "Lat1": "22.68828000",
+        "Long1": "75.85532000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Choithram Hospital",
+        "Lat1": "22.68828000",
+        "Long1": "75.85532000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Choithram Mandi",
+        "Lat1": "22.68339000",
+        "Long1": "75.85544000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Choithram Mandi",
+        "Lat1": "22.68339000",
+        "Long1": "75.85544000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Choithram Mandi Gate",
+        "Lat1": "22.68188000",
+        "Long1": "75.85246000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Choithram Mandi Gate",
+        "Lat1": "22.68188000",
+        "Long1": "75.85246000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Chouthi Paltan",
+        "Lat1": "22.72271000",
+        "Long1": "75.84841000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Christian Eminent",
+        "Lat1": "22.73594000",
+        "Long1": "75.88671000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "City Bus Depot",
+        "Lat1": "22.73763000",
+        "Long1": "75.90207000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "City Bus Depot",
+        "Lat1": "22.73763000",
+        "Long1": "75.90207000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "City Centre / High Court_1",
+        "Lat1": "22.72077000",
+        "Long1": "75.8740",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Collectorate",
+        "Lat1": "22.70837000",
+        "Long1": "75.85452000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Collectorate",
+        "Lat1": "22.70837000",
+        "Long1": "75.85452000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Damru Ustad Chouraha",
+        "Lat1": "22.74606000",
+        "Long1": "75.8687",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dashrath Bagh",
+        "Lat1": "22.74835000",
+        "Long1": "75.83614000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "D A V V",
+        "Lat1": "22.68915000",
+        "Long1": "75.87031000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "D A V V",
+        "Lat1": "22.68915000",
+        "Long1": "75.87031000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Dawa Bazar",
+        "Lat1": "22.71371000",
+        "Long1": "75.87587000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dawa Bazar",
+        "Lat1": "22.71371000",
+        "Long1": "75.87587000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Deepmala Dhaba",
+        "Lat1": "22.77653000",
+        "Long1": "75.84794000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Deoguradiya Temple",
+        "Lat1": "22.67399000",
+        "Long1": "75.93444000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Devguradiya",
+        "Lat1": "22.6755",
+        "Long1": "75.93377000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dewas Naka",
+        "Lat1": "22.7718",
+        "Long1": "75.90217000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dhanvantri Nagar",
+        "Lat1": "22.67199000",
+        "Long1": "75.83024000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Diamond Colony",
+        "Lat1": "22.72561000",
+        "Long1": "75.92302000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Diamond Colony",
+        "Lat1": "22.72561000",
+        "Long1": "75.92302000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "D-Mart",
+        "Lat1": "22.66652000",
+        "Long1": "75.8232",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dravid Nagar",
+        "Lat1": "22.70127000",
+        "Long1": "75.83794000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "DRP Line",
+        "Lat1": "22.7278",
+        "Long1": "75.8629",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dudhia",
+        "Lat1": "22.67625000",
+        "Long1": "75.94377000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Durga Nagar",
+        "Lat1": "22.66531000",
+        "Long1": "75.82676000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Durga Nagar",
+        "Lat1": "22.66531000",
+        "Long1": "75.82676000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Dutt Mandir",
+        "Lat1": "22.66706000",
+        "Long1": "75.8256",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Dwarkapuri",
+        "Lat1": "22.69245000",
+        "Long1": "75.82613000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Eicher Chouraha",
+        "Lat1": "22.61107000",
+        "Long1": "75.67722000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Electronic Complex",
+        "Lat1": "22.75065000",
+        "Long1": "75.86936000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Essar Pump/ Pawanpuri Colony",
+        "Lat1": "22.68982000",
+        "Long1": "75.88923000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Essar Pump/ Pawanpuri Colony",
+        "Lat1": "22.68982000",
+        "Long1": "75.88923000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Excellent School",
+        "Lat1": "22.73584000",
+        "Long1": "75.83723000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Eye Care Hospital",
+        "Lat1": "22.57937000",
+        "Long1": "75.77742000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Footi Kothi",
+        "Lat1": "22.69364000",
+        "Long1": "75.82756000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Footi Kothi-1",
+        "Lat1": "22.69377000",
+        "Long1": "75.82792000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Footi Kothi-2",
+        "Lat1": "22.69394000",
+        "Long1": "75.82785000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Fortune Hotel",
+        "Lat1": "22.75344000",
+        "Long1": "75.88469000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Fortune Hotel",
+        "Lat1": "22.75344000",
+        "Long1": "75.88469000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Gadbadi Pulia2",
+        "Lat1": "22.6754",
+        "Long1": "75.84674000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Gadbadi Pulia2",
+        "Lat1": "22.6754",
+        "Long1": "75.84674000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Gamla Pulia",
+        "Lat1": "22.65906000",
+        "Long1": "75.82423000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gamla Pulia",
+        "Lat1": "22.65906000",
+        "Long1": "75.82423000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Gamla Pulia",
+        "Lat1": "22.65906000",
+        "Long1": "75.82423000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Gandhi Hall/Palika Plaza_1",
+        "Lat1": "22.71976000",
+        "Long1": "75.86529000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gandhi Hall/Palika Plaza_2",
+        "Lat1": "22.71901000",
+        "Long1": "75.86575000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gandhi Nagar",
+        "Lat1": "22.73908000",
+        "Long1": "75.79089000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gandhi Nagar",
+        "Lat1": "22.73908000",
+        "Long1": "75.79089000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Ganesh Bagh",
+        "Lat1": "22.74406000",
+        "Long1": "75.83943000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ganesh Dham",
+        "Lat1": "22.76073000",
+        "Long1": "75.84784000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gangwal Bus Stand",
+        "Lat1": "22.71313000",
+        "Long1": "75.84063000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gareeb Nawaj Colony",
+        "Lat1": "22.73756000",
+        "Long1": "75.82684000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gayatri Mandir",
+        "Lat1": "22.72321000",
+        "Long1": "75.89301000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "G.D.C",
+        "Lat1": "22.72872000",
+        "Long1": "75.84611000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "G.D.C College",
+        "Lat1": "22.70685000",
+        "Long1": "75.8500",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "G.D.C College",
+        "Lat1": "22.70685000",
+        "Long1": "75.8500",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Girdhar Mahal",
+        "Lat1": "22.74929000",
+        "Long1": "75.89009000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gita Bhawan",
+        "Lat1": "22.71903000",
+        "Long1": "75.88444000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "GOMATGIRI CHOURAHA",
+        "Lat1": "22.74245000",
+        "Long1": "75.77641000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "GOMATGIRI CHOURAHA",
+        "Lat1": "22.74245000",
+        "Long1": "75.77641000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "GOMATGIRI TEMPLE",
+        "Lat1": "22.7457",
+        "Long1": "75.77553000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "GOMATGIRI TEMPLE",
+        "Lat1": "22.7457",
+        "Long1": "75.77553000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Gopur Square",
+        "Lat1": "22.68422000",
+        "Long1": "75.82914000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gopur Square",
+        "Lat1": "22.68422000",
+        "Long1": "75.82914000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Gouri Nagar",
+        "Lat1": "22.75462000",
+        "Long1": "75.86985000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Govt. College Rau",
+        "Lat1": "22.63977000",
+        "Long1": "75.80426000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "GOVT. SCHOOL GANDHI NAGAR",
+        "Lat1": "22.74852000",
+        "Long1": "75.7749",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "GOVT. SCHOOL GANDHI NAGAR",
+        "Lat1": "22.74852000",
+        "Long1": "75.7749",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "GPO BRT",
+        "Lat1": "22.70658000",
+        "Long1": "75.87883000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "GPO City Bus",
+        "Lat1": "22.70737000",
+        "Long1": "75.87878000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "GPO City Bus",
+        "Lat1": "22.70737000",
+        "Long1": "75.87878000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Greater Vaishali",
+        "Lat1": "22.68378000",
+        "Long1": "75.83066000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "G.S.I.T.S.",
+        "Lat1": "22.72519000",
+        "Long1": "75.87421000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "GSITS Chauraha (Marimata Mandir)",
+        "Lat1": "22.72535000",
+        "Long1": "75.86913000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gumasta Nagar/Arihant Hospital",
+        "Lat1": "22.69719000",
+        "Long1": "75.83247000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gurudwara",
+        "Lat1": "22.71626000",
+        "Long1": "75.85539000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Gurudwara",
+        "Lat1": "22.71626000",
+        "Long1": "75.85539000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Guru Nanak Dev University",
+        "Lat1": "31.63107000",
+        "Long1": "74.82719000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Haji Colony",
+        "Lat1": "22.7413",
+        "Long1": "75.91878000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Haji House",
+        "Lat1": "22.73075000",
+        "Long1": "75.85078000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hammal Colony",
+        "Lat1": "22.73287000",
+        "Long1": "75.83338000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hanuman Mandir",
+        "Lat1": "22.71151000",
+        "Long1": "75.90582000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hanuman Mandir",
+        "Lat1": "22.71151000",
+        "Long1": "75.90582000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Hanuman Mandir Mangliya",
+        "Lat1": "22.80957000",
+        "Long1": "75.92023000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hardia Hospital",
+        "Lat1": "22.62713000",
+        "Long1": "75.80548000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hardia Hospital",
+        "Lat1": "22.62713000",
+        "Long1": "75.80548000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Hari Fatak",
+        "Lat1": "22.56262000",
+        "Long1": "75.76457000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Harsiddhi ",
+        "Lat1": "22.71291000",
+        "Long1": "75.85606000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hatod",
+        "Lat1": "22.79406000",
+        "Long1": "75.74192000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hawa Bangla",
+        "Lat1": "22.68355000",
+        "Long1": "75.82227000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Hawa Bangla",
+        "Lat1": "22.68355000",
+        "Long1": "75.82227000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "H.D.Bansal College",
+        "Lat1": "22.59715000",
+        "Long1": "75.78813000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Hiranagar",
+        "Lat1": "22.7589",
+        "Long1": "75.87609000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Holkar City Bus",
+        "Lat1": "22.69419000",
+        "Long1": "75.8705",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Holkar City Bus",
+        "Lat1": "22.69419000",
+        "Long1": "75.8705",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Holkar Subway BRT",
+        "Lat1": "22.69505000",
+        "Long1": "75.87211000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "IET/SOPA",
+        "Lat1": "22.6809",
+        "Long1": "75.87598000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "IET/SOPA",
+        "Lat1": "22.6809",
+        "Long1": "75.87598000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "IIM Indore",
+        "Lat1": "22.63151000",
+        "Long1": "75.7918",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "IIT Indore",
+        "Lat1": "22.58675000",
+        "Long1": "75.78129000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "IIT Simrol",
+        "Lat1": "22.52974000",
+        "Long1": "75.91229000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "IIT Simrol Gate No - 2",
+        "Lat1": "22.51903000",
+        "Long1": "75.91524000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Imli Bazar",
+        "Lat1": "22.72286000",
+        "Long1": "75.85393000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Index Medical College",
+        "Lat1": "22.68164000",
+        "Long1": "76.05086000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indian Oil Petrol Pump",
+        "Lat1": "22.82512000",
+        "Long1": "75.93248000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indira Colony",
+        "Lat1": "22.56484000",
+        "Long1": "75.76837000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Indira Pratima",
+        "Lat1": "22.70344000",
+        "Long1": "75.8765",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indira Pratima",
+        "Lat1": "22.70344000",
+        "Long1": "75.8765",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Indo German",
+        "Lat1": "22.7800",
+        "Long1": "75.84786000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indorama Pithampur Sector III",
+        "Lat1": "22.63812000",
+        "Long1": "75.5815",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indorama Pithampur Sector III",
+        "Lat1": "22.63812000",
+        "Long1": "75.5815",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Indore Wire Factory",
+        "Lat1": "22.72694000",
+        "Long1": "75.84163000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indraprastha / 56 Dukan",
+        "Lat1": "22.7271",
+        "Long1": "75.88345000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Indraprastha Tower",
+        "Lat1": "22.72278000",
+        "Long1": "75.88235000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Industry House",
+        "Lat1": "22.72895000",
+        "Long1": "75.88861000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Industry-House",
+        "Lat1": "22.72775000",
+        "Long1": "75.88728000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Infosys Company",
+        "Lat1": "22.75971000",
+        "Long1": "75.80857000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "IPS",
+        "Lat1": "22.65582000",
+        "Long1": "75.82297000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "IPS",
+        "Lat1": "22.65582000",
+        "Long1": "75.82297000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "IPS",
+        "Lat1": "22.65582000",
+        "Long1": "75.82297000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Isha Avenue Gate",
+        "Lat1": "22.73633000",
+        "Long1": "75.82843000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jabran Colony/Juni Indore",
+        "Lat1": "22.7077",
+        "Long1": "75.85902000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jain Nursery",
+        "Lat1": "22.7595",
+        "Long1": "75.89802000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jairam Toll Kanta",
+        "Lat1": "22.68395000",
+        "Long1": "75.91371000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jamniya Khurd",
+        "Lat1": "22.63973000",
+        "Long1": "75.96125000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Janjir Wala",
+        "Lat1": "22.72655000",
+        "Long1": "75.88103000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Janta Colony",
+        "Lat1": "22.7218",
+        "Long1": "75.84231000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jawahar Tekri",
+        "Lat1": "22.69676000",
+        "Long1": "75.78635000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jhalaria Bypass",
+        "Lat1": "22.74489000",
+        "Long1": "75.93411000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jila Hospital",
+        "Lat1": "22.70956000",
+        "Long1": "75.83054000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Jinsi Square",
+        "Lat1": "22.72288000",
+        "Long1": "75.84609000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kalani Nagar",
+        "Lat1": "22.7248",
+        "Long1": "75.82447000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kalani Nagar",
+        "Lat1": "22.7248",
+        "Long1": "75.82447000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Kalindi",
+        "Lat1": "22.68683000",
+        "Long1": "75.93041000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kali Puliya",
+        "Lat1": "22.69788000",
+        "Long1": "75.89078000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kampel",
+        "Lat1": "22.62041000",
+        "Long1": "76.04865000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kanad",
+        "Lat1": "22.57156000",
+        "Long1": "75.90339000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kanadiya Gram",
+        "Lat1": "22.73535000",
+        "Long1": "75.96719000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kanadiya Thana",
+        "Lat1": "22.7296",
+        "Long1": "75.9370",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kandilpura",
+        "Lat1": "22.72283000",
+        "Long1": "75.8433",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kankad",
+        "Lat1": "22.7795",
+        "Long1": "75.85702000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kankad",
+        "Lat1": "22.7795",
+        "Long1": "75.85702000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Kankeshwari Mata Mandir",
+        "Lat1": "22.74816000",
+        "Long1": "75.8691",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Karuna Sagar",
+        "Lat1": "22.73469000",
+        "Long1": "75.95199000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kasturba Gram",
+        "Lat1": "22.64545000",
+        "Long1": "75.88745000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kasturba Gram",
+        "Lat1": "22.64545000",
+        "Long1": "75.88745000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Kelod Kartal(Lotus garden)",
+        "Lat1": "22.63011000",
+        "Long1": "75.88751000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kesharbagh Bridge",
+        "Lat1": "22.68246000",
+        "Long1": "75.84427000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kesharbagh Bridge",
+        "Lat1": "22.68246000",
+        "Long1": "75.84427000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Keshav Park",
+        "Lat1": "22.60712000",
+        "Long1": "75.79406000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Khada Ganpati",
+        "Lat1": "22.73699000",
+        "Long1": "75.84698000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Khajrana Dargah",
+        "Lat1": "22.73639000",
+        "Long1": "75.91452000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Khajrana Ganesh Mandir",
+        "Lat1": "22.73085000",
+        "Long1": "75.90775000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Khajrana Ring Road",
+        "Lat1": "22.73217000",
+        "Long1": "75.90206000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Khajrana Ring Road",
+        "Lat1": "22.73217000",
+        "Long1": "75.90206000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Khajrana Ring Road 1",
+        "Lat1": "22.7308",
+        "Long1": "75.90276000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Khajrana Ring Road 5",
+        "Lat1": "22.73165000",
+        "Long1": "75.90239000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kharcha",
+        "Lat1": "22.75121000",
+        "Long1": "75.84934000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Khudel",
+        "Lat1": "22.68832000",
+        "Long1": "76.02612000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kila Maidan/Laxmi Bai Pratima",
+        "Lat1": "22.72607000",
+        "Long1": "75.84571000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kishan Ganj1",
+        "Lat1": "22.5747",
+        "Long1": "75.77464000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Krishna Nagar",
+        "Lat1": "22.67175000",
+        "Long1": "75.82383000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kshipra",
+        "Lat1": "22.89784000",
+        "Long1": "75.97919000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kukkut Bhawan",
+        "Lat1": "22.70285000",
+        "Long1": "75.84011000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Kumhar Khadi",
+        "Lat1": "22.73814000",
+        "Long1": "75.84966000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kundan Nagar",
+        "Lat1": "22.67626000",
+        "Long1": "75.81845000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Kushwah Nagar Naka / Ujain Naka",
+        "Lat1": "22.74709000",
+        "Long1": "75.84999000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Lakhani Bypass",
+        "Lat1": "22.68046000",
+        "Long1": "75.92071000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Lal Baug_1",
+        "Lat1": "22.70538000",
+        "Long1": "75.84605000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Lal Baug_1",
+        "Lat1": "22.70538000",
+        "Long1": "75.84605000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Lal Baug_2",
+        "Lat1": "22.70536000",
+        "Long1": "75.84727000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Lanturn Chouraha",
+        "Lat1": "22.72451000",
+        "Long1": "75.87419000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Lasudiya",
+        "Lat1": "22.78526000",
+        "Long1": "75.90584000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Laxmibai Mandi",
+        "Lat1": "22.72989000",
+        "Long1": "75.8374",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Laxmi Pump",
+        "Lat1": "22.77471000",
+        "Long1": "75.90269000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "LIG",
+        "Lat1": "22.73396000",
+        "Long1": "75.88969000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "L.I.G. Square",
+        "Lat1": "22.73445000",
+        "Long1": "75.89039000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Limbodi/Ashram",
+        "Lat1": "22.66851000",
+        "Long1": "75.8819",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Limbodi/Ashram",
+        "Lat1": "22.66851000",
+        "Long1": "75.8819",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Lokhande Bridge",
+        "Lat1": "22.72849000",
+        "Long1": "75.85966000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Lokmanya Nagar",
+        "Lat1": "22.69601000",
+        "Long1": "75.84431000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Luv Kush / MR 10 SQ",
+        "Lat1": "22.78996000",
+        "Long1": "75.84743000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Luv Kush / MR 10 SQ",
+        "Lat1": "22.78996000",
+        "Long1": "75.84743000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Luv Kush/ Super Corridor",
+        "Lat1": "22.78985000",
+        "Long1": "75.84645000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Luv Kush Supermarket",
+        "Lat1": "22.79522000",
+        "Long1": "75.84719000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Maa Vihar1",
+        "Lat1": "22.67794000",
+        "Long1": "75.84998000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Maa Vihar1",
+        "Lat1": "22.67794000",
+        "Long1": "75.84998000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Machli Farm",
+        "Lat1": "22.6569",
+        "Long1": "75.88516000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Machli Farm",
+        "Lat1": "22.6569",
+        "Long1": "75.88516000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Madhu Milan",
+        "Lat1": "22.71397000",
+        "Long1": "75.87477000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Madhu Milan",
+        "Lat1": "22.71397000",
+        "Long1": "75.87477000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Mahak Vatika",
+        "Lat1": "22.74068000",
+        "Long1": "75.90703000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mahalakshmi Nagar",
+        "Lat1": "22.75374000",
+        "Long1": "75.90734000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mahesh Guard Line/Police Line Pump",
+        "Lat1": "22.73266000",
+        "Long1": "75.84669000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mahima Smart City",
+        "Lat1": "22.75657000",
+        "Long1": "75.79834000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Malganj",
+        "Lat1": "22.71535000",
+        "Long1": "75.84527000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Malganj",
+        "Lat1": "22.71535000",
+        "Long1": "75.84527000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Malviya Nagar",
+        "Lat1": "22.74121000",
+        "Long1": "75.90245000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Malviya Nagar",
+        "Lat1": "22.74121000",
+        "Long1": "75.90245000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Malviya Pump",
+        "Lat1": "22.74856000",
+        "Long1": "75.90341000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Malviya Pump",
+        "Lat1": "22.74856000",
+        "Long1": "75.90341000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Malwa Mill",
+        "Lat1": "22.7342",
+        "Long1": "75.8750",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mama ji Dhaba",
+        "Lat1": "22.6319",
+        "Long1": "75.80839000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mama ji Dhaba",
+        "Lat1": "22.6319",
+        "Long1": "75.80839000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Mama ji Dhaba",
+        "Lat1": "22.6319",
+        "Long1": "75.80839000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Manavata ByPass",
+        "Lat1": "22.72771000",
+        "Long1": "75.93204000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Manavata ByPass",
+        "Lat1": "22.72771000",
+        "Long1": "75.93204000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Manavata Nagar",
+        "Lat1": "22.72688000",
+        "Long1": "75.92779000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Manavata Nagar",
+        "Lat1": "22.72688000",
+        "Long1": "75.92779000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Mangal City",
+        "Lat1": "22.75132000",
+        "Long1": "75.8963",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mangliya Bypass Toll Naka",
+        "Lat1": "22.82378000",
+        "Long1": "75.93834000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mangliya Gao",
+        "Lat1": "22.81773000",
+        "Long1": "75.9264",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mangliya Toll Naka",
+        "Lat1": "22.82724000",
+        "Long1": "75.93415000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Manik Baug",
+        "Lat1": "22.69758000",
+        "Long1": "75.85478000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Manushree Nagar",
+        "Lat1": "22.73294000",
+        "Long1": "75.81547000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Marimata Chouraha",
+        "Lat1": "22.73386000",
+        "Long1": "75.84969000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mata Gujri",
+        "Lat1": "22.68671000",
+        "Long1": "75.86126000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Mayur Hospital",
+        "Lat1": "22.72465000",
+        "Long1": "75.90547000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mayur Hospital",
+        "Lat1": "22.72465000",
+        "Long1": "75.90547000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Medicaps",
+        "Lat1": "22.62063000",
+        "Long1": "75.8010",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Medicaps",
+        "Lat1": "22.62063000",
+        "Long1": "75.8010",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Meghdoot",
+        "Lat1": "22.75277000",
+        "Long1": "75.88781000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Meghdoot",
+        "Lat1": "22.75277000",
+        "Long1": "75.88781000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Mhow Naka",
+        "Lat1": "22.7050",
+        "Long1": "75.84289000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Mhow Naka City Bus",
+        "Lat1": "22.70537000",
+        "Long1": "75.84432000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mhow Naka City Bus",
+        "Lat1": "22.70537000",
+        "Long1": "75.84432000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Mhow Railway Station",
+        "Lat1": "22.55472000",
+        "Long1": "75.77019000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Mhow Railway Station",
+        "Lat1": "22.55472000",
+        "Long1": "75.77019000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "MIG Thana",
+        "Lat1": "22.73718000",
+        "Long1": "75.88483000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Modern Square",
+        "Lat1": "22.76436000",
+        "Long1": "75.84756000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "M.O.G Line",
+        "Lat1": "22.70871000",
+        "Long1": "75.84163000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Morod",
+        "Lat1": "22.62164000",
+        "Long1": "75.86781000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mouni Baba Ashram",
+        "Lat1": "22.76904000",
+        "Long1": "75.84766000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "MPPT",
+        "Lat1": "22.62387000",
+        "Long1": "75.88641000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "MR 10/ Chandragupt mourya square",
+        "Lat1": "22.76408000",
+        "Long1": "75.87101000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "MR 10/ Chandragupt mourya square",
+        "Lat1": "22.76408000",
+        "Long1": "75.87101000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "M R-10 Toll Plaza",
+        "Lat1": "22.77568000",
+        "Long1": "75.8603",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "M R-10 Toll Plaza",
+        "Lat1": "22.77568000",
+        "Long1": "75.8603",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "M. R. 9  Square",
+        "Lat1": "22.74339000",
+        "Long1": "75.89313000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "M.T.H._1",
+        "Lat1": "22.71984000",
+        "Long1": "75.86429000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "M.T.H._1",
+        "Lat1": "22.71984000",
+        "Long1": "75.86429000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "M.T.H._2",
+        "Lat1": "22.71883000",
+        "Long1": "75.86425000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mukti Dham",
+        "Lat1": "22.73957000",
+        "Long1": "75.87127000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Mundla",
+        "Lat1": "22.6330",
+        "Long1": "75.99139000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Musakhedi",
+        "Lat1": "22.69285000",
+        "Long1": "75.89966000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Musakhedi",
+        "Lat1": "22.69285000",
+        "Long1": "75.89966000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Musakhedi Mandi",
+        "Lat1": "22.69325000",
+        "Long1": "75.89707000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Musakhedi Tempo Station",
+        "Lat1": "22.69454000",
+        "Long1": "75.89522000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "M.Y. Hospital Gate",
+        "Lat1": "22.71296000",
+        "Long1": "75.87857000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "M.Y. Std / MY Chauraha/White Church/Dental Clg",
+        "Lat1": "22.71262000",
+        "Long1": "75.8795",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "M.Y. Std / MY Chauraha/White Church/Dental Clg",
+        "Lat1": "22.71262000",
+        "Long1": "75.8795",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Nagar Nigam Depot_1",
+        "Lat1": "22.72374000",
+        "Long1": "75.85922000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nagar Nigam Depot_2",
+        "Lat1": "22.72445000",
+        "Long1": "75.85892000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "NaidunIa",
+        "Lat1": "22.64902000",
+        "Long1": "75.80682000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nai Sadak",
+        "Lat1": "22.76676000",
+        "Long1": "75.90028000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Naka Bhatta",
+        "Lat1": "22.74134000",
+        "Long1": "75.86815000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nanda Nagar",
+        "Lat1": "22.74213000",
+        "Long1": "75.87692000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nandbagh",
+        "Lat1": "22.74997000",
+        "Long1": "75.83457000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nandlalpura",
+        "Lat1": "22.71643000",
+        "Long1": "75.85815000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nandlalpura",
+        "Lat1": "22.71643000",
+        "Long1": "75.85815000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Narmada Chouraha",
+        "Lat1": "22.67381000",
+        "Long1": "75.82438000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Narmada Project",
+        "Lat1": "22.69627000",
+        "Long1": "75.89328000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Narsingh Bazar",
+        "Lat1": "22.71563000",
+        "Long1": "75.85033000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Narsingh Bazar",
+        "Lat1": "22.71563000",
+        "Long1": "75.85033000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Narsingh Chouraha",
+        "Lat1": "22.71559000",
+        "Long1": "75.84937000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Narval",
+        "Lat1": "22.77264000",
+        "Long1": "75.84778000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nath Mandir 1",
+        "Lat1": "22.72108000",
+        "Long1": "75.87584000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Navdapanth",
+        "Lat1": "22.68937000",
+        "Long1": "75.76951000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nav Factory",
+        "Lat1": "22.73473000",
+        "Long1": "75.96065000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Navlakha Bus Stop City Bus",
+        "Lat1": "22.7014",
+        "Long1": "75.87736000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Navlakha Chouraha",
+        "Lat1": "22.69931000",
+        "Long1": "75.87791000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Navlakha Chouraha",
+        "Lat1": "22.69931000",
+        "Long1": "75.87791000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Navlakha Square BRT",
+        "Lat1": "22.69806000",
+        "Long1": "75.87747000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Navneet Garden",
+        "Lat1": "22.6764",
+        "Long1": "75.83368000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Navneet Tower",
+        "Lat1": "22.72543000",
+        "Long1": "75.89196000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Naya Basera",
+        "Lat1": "22.74143000",
+        "Long1": "75.78182000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Naya Basera",
+        "Lat1": "22.74143000",
+        "Long1": "75.78182000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Nayta Mundla",
+        "Lat1": "22.66952000",
+        "Long1": "75.9103",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nayta Mundla Bypass",
+        "Lat1": "22.6651",
+        "Long1": "75.91563000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nehru Stadium/MY Hospital Bus Std",
+        "Lat1": "22.71139000",
+        "Long1": "75.88066000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Nehru Stadium/MY Hospital Bus Std",
+        "Lat1": "22.71139000",
+        "Long1": "75.88066000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Nipaniya Gram",
+        "Lat1": "22.76102000",
+        "Long1": "75.9293",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Niranjanpur",
+        "Lat1": "22.77081000",
+        "Long1": "75.90151000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Nirmal Dham",
+        "Lat1": "22.73462000",
+        "Long1": "75.95341000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Noorani Nagar",
+        "Lat1": "22.70389000",
+        "Long1": "75.81209000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palash Parisar",
+        "Lat1": "22.63445000",
+        "Long1": "75.83561000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palasiya",
+        "Lat1": "22.72471000",
+        "Long1": "75.8871",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Palasiya 56 Shop",
+        "Lat1": "22.72362000",
+        "Long1": "75.88533000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palasiya Thana",
+        "Lat1": "22.72546000",
+        "Long1": "75.88816000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palda Naka",
+        "Lat1": "22.68565000",
+        "Long1": "75.88889000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palhar Nagar Water Tank",
+        "Lat1": "22.72829000",
+        "Long1": "75.83026000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palsikar",
+        "Lat1": "22.70692000",
+        "Long1": "75.85579000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Palsikar",
+        "Lat1": "22.70692000",
+        "Long1": "75.85579000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Panchsheel",
+        "Lat1": "22.72894000",
+        "Long1": "75.8150",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Panchsheel",
+        "Lat1": "22.72894000",
+        "Long1": "75.8150",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Panchwati",
+        "Lat1": "22.79151000",
+        "Long1": "75.90773000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Paraspar Nagar",
+        "Lat1": "22.67568000",
+        "Long1": "75.82553000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pardeshipura Thana",
+        "Lat1": "22.73916000",
+        "Long1": "75.86748000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pardesipura",
+        "Lat1": "22.74503000",
+        "Long1": "75.87168000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Patel Bridge",
+        "Lat1": "22.71506000",
+        "Long1": "75.87056000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Patel Nagar",
+        "Lat1": "22.72387000",
+        "Long1": "75.8282",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Patel Pratima",
+        "Lat1": "22.71453000",
+        "Long1": "75.87182000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Patnipura",
+        "Lat1": "22.73983000",
+        "Long1": "75.88091000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Patrakar Chouraha",
+        "Lat1": "22.72221000",
+        "Long1": "75.89483000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pharmacy",
+        "Lat1": "22.68448000",
+        "Long1": "75.8790",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pharmacy",
+        "Lat1": "22.68448000",
+        "Long1": "75.8790",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Pigdamber",
+        "Lat1": "22.61441000",
+        "Long1": "75.79795000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Pink City",
+        "Lat1": "22.69958000",
+        "Long1": "75.90671000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pipli Bazar",
+        "Lat1": "22.71615000",
+        "Long1": "75.85373000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pipli Bazar",
+        "Lat1": "22.71615000",
+        "Long1": "75.85373000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Pipliyahana Gram",
+        "Lat1": "22.70741000",
+        "Long1": "75.9003",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pipliya Hana Square",
+        "Lat1": "22.70605000",
+        "Long1": "75.90583000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pipliya Hana Square",
+        "Lat1": "22.70605000",
+        "Long1": "75.90583000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Pithampura By Pass1",
+        "Lat1": "22.61021000",
+        "Long1": "75.79602000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Pitra Parvat",
+        "Lat1": "22.7540",
+        "Long1": "75.77168000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pitra Parvat",
+        "Lat1": "22.7540",
+        "Long1": "75.77168000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Pivday",
+        "Lat1": "22.62323000",
+        "Long1": "76.0283",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Polo Ground",
+        "Lat1": "22.73456000",
+        "Long1": "75.85739000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Power House_1",
+        "Lat1": "22.66012000",
+        "Long1": "75.88457000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Power House_1",
+        "Lat1": "22.66012000",
+        "Long1": "75.88457000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Power House_2",
+        "Lat1": "22.70012000",
+        "Long1": "75.88906000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Power House_2",
+        "Lat1": "22.70012000",
+        "Long1": "75.88906000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Prabhu Nagar",
+        "Lat1": "22.67934000",
+        "Long1": "75.83449000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Prakash Nagar_1",
+        "Lat1": "22.69485000",
+        "Long1": "75.88044000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Prakash Nagar_2",
+        "Lat1": "22.69595000",
+        "Long1": "75.87971000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Prem Nagar",
+        "Lat1": "22.70389000",
+        "Long1": "75.85541000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Prem Nagar",
+        "Lat1": "22.70389000",
+        "Long1": "75.85541000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Press Complex",
+        "Lat1": "22.73737000",
+        "Long1": "75.89125000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Pushpkunj",
+        "Lat1": "22.65269000",
+        "Long1": "75.88601000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Pushpkunj",
+        "Lat1": "22.65269000",
+        "Long1": "75.88601000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Radhaswami",
+        "Lat1": "22.67508000",
+        "Long1": "75.87926000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Radhaswami",
+        "Lat1": "22.67508000",
+        "Long1": "75.87926000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Radisson Hotel",
+        "Lat1": "22.74975000",
+        "Long1": "75.90318000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Railway Station",
+        "Lat1": "22.71768000",
+        "Long1": "75.86885000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Railway Station",
+        "Lat1": "22.71768000",
+        "Long1": "75.86885000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Rajdhara",
+        "Lat1": "22.63714000",
+        "Long1": "75.97479000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rajendra Nagar",
+        "Lat1": "22.67021000",
+        "Long1": "75.83235000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rajendra Nagar",
+        "Lat1": "22.67021000",
+        "Long1": "75.83235000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Rajendra Nagar",
+        "Lat1": "22.67021000",
+        "Long1": "75.83235000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Rajendra Nagar Rly Station",
+        "Lat1": "22.66993000",
+        "Long1": "75.82848000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rajendra Nagar Square",
+        "Lat1": "22.67008000",
+        "Long1": "75.8286",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rajiv Gandhi",
+        "Lat1": "22.68392000",
+        "Long1": "75.8582",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Rajiv Gandhi",
+        "Lat1": "22.68392000",
+        "Long1": "75.8582",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Rajkumar Mill1/ Rajkumar Bridge ",
+        "Lat1": "22.72733000",
+        "Long1": "75.86464000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rajmohalla",
+        "Lat1": "22.71519000",
+        "Long1": "75.84062000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rajmohalla",
+        "Lat1": "22.71519000",
+        "Long1": "75.84062000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Rajwada",
+        "Lat1": "22.71842000",
+        "Long1": "75.85562000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rambagh",
+        "Lat1": "22.72299000",
+        "Long1": "75.85797000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ram Bagh",
+        "Lat1": "31.6359",
+        "Long1": "74.87983000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rambali Chouraha",
+        "Lat1": "22.73756000",
+        "Long1": "75.84443000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rambali Nagar",
+        "Lat1": "22.73435000",
+        "Long1": "75.84081000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ramchandra Pump / APTC",
+        "Lat1": "22.72214000",
+        "Long1": "75.8346",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ramchandra Pump / APTC",
+        "Lat1": "22.72214000",
+        "Long1": "75.8346",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Ramkrishna Hospital",
+        "Lat1": "22.72996000",
+        "Long1": "75.8102",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ranipura/ Kothari Market_1",
+        "Lat1": "22.71989000",
+        "Long1": "75.86331000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ranipura/ Kothari Market_2",
+        "Lat1": "22.71876000",
+        "Long1": "75.86355000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rani Sati Gate",
+        "Lat1": "22.72858000",
+        "Long1": "75.87449000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ranjeet Singh College",
+        "Lat1": "22.6792",
+        "Long1": "75.87691000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ranjeet Singh College",
+        "Lat1": "22.6792",
+        "Long1": "75.87691000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Ranjit Hanuman",
+        "Lat1": "22.69967000",
+        "Long1": "75.83583000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ranjit Hanuman",
+        "Lat1": "22.69967000",
+        "Long1": "75.83583000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Rasoma",
+        "Lat1": "22.74865000",
+        "Long1": "75.89406000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rau Bus Stand",
+        "Lat1": "22.63663000",
+        "Long1": "75.8106",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rau Bus Stand",
+        "Lat1": "22.63663000",
+        "Long1": "75.8106",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Rau Bus Stand",
+        "Lat1": "22.63663000",
+        "Long1": "75.8106",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Rau Bypass",
+        "Lat1": "22.63015000",
+        "Long1": "75.80739000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rau Bypass",
+        "Lat1": "22.63015000",
+        "Long1": "75.80739000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Rau Bypass",
+        "Lat1": "22.63015000",
+        "Long1": "75.80739000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Rau Circle",
+        "Lat1": "22.62916000",
+        "Long1": "75.80823000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rau Petrol Pump",
+        "Lat1": "22.63865000",
+        "Long1": "75.81401000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Rau Petrol Pump",
+        "Lat1": "22.63865000",
+        "Long1": "75.81401000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Rau Rangwasa Chauraha",
+        "Lat1": "22.63903000",
+        "Long1": "75.80693000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Regal (Shastri Bridge)",
+        "Lat1": "22.71982000",
+        "Long1": "75.86903000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Regal Square",
+        "Lat1": "22.7201",
+        "Long1": "75.87128000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Regional Park (A.B. Road)",
+        "Lat1": "22.68243000",
+        "Long1": "75.8552",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Regional Park (A.B. Road)",
+        "Lat1": "22.68243000",
+        "Long1": "75.8552",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Regional Park Gate",
+        "Lat1": "22.67736000",
+        "Long1": "75.85555000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Relax Garden",
+        "Lat1": "22.68945000",
+        "Long1": "75.82558000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Residency Area",
+        "Lat1": "22.70436000",
+        "Long1": "75.88607000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Reti Mandi1",
+        "Lat1": "22.66752000",
+        "Long1": "75.82353000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Reti Mandi2",
+        "Lat1": "22.66232000",
+        "Long1": "75.82524000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Reti Mandi2",
+        "Lat1": "22.66232000",
+        "Long1": "75.82524000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Reti Mandi Chouraha",
+        "Lat1": "22.66381000",
+        "Long1": "75.82298000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Rewati Range",
+        "Lat1": "22.80976000",
+        "Long1": "75.84786000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Riverside_1",
+        "Lat1": "22.71907000",
+        "Long1": "75.85896000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Riverside_2",
+        "Lat1": "22.71993000",
+        "Long1": "75.85974000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Roberts Nursing Home",
+        "Lat1": "22.71014000",
+        "Long1": "75.88842000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Royal Bungalow",
+        "Lat1": "22.76231000",
+        "Long1": "75.92565000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Royal Bungalow (Sukhliya)",
+        "Lat1": "22.76251000",
+        "Long1": "75.87349000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Royal Bungalow (Sukhliya)",
+        "Lat1": "22.76251000",
+        "Long1": "75.87349000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "R.T.O",
+        "Lat1": "22.69989000",
+        "Long1": "75.84477000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "RTO Office",
+        "Lat1": "22.67331000",
+        "Long1": "75.90682000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ruchi Soya",
+        "Lat1": "22.80491000",
+        "Long1": "75.91689000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sadar Bazar",
+        "Lat1": "22.7255",
+        "Long1": "75.85272000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sadar Bazar Pani Ki Tanki",
+        "Lat1": "22.72838000",
+        "Long1": "75.85157000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sage University",
+        "Lat1": "22.63915000",
+        "Long1": "75.85226000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sagour Kuti",
+        "Lat1": "22.6293",
+        "Long1": "75.61344000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sai Dwar",
+        "Lat1": "22.68657000",
+        "Long1": "75.82475000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Saifee Hotel",
+        "Lat1": "22.71611000",
+        "Long1": "75.8640",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Saifi Nagar",
+        "Lat1": "22.69519000",
+        "Long1": "75.85495000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Saifi Nagar",
+        "Lat1": "22.69519000",
+        "Long1": "75.85495000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Samar park",
+        "Lat1": "22.7632",
+        "Long1": "75.92182000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanawadiya",
+        "Lat1": "22.65636000",
+        "Long1": "75.94163000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanchar Nagar",
+        "Lat1": "22.72248000",
+        "Long1": "75.91727000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanchar Nagar",
+        "Lat1": "22.72248000",
+        "Long1": "75.91727000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Sangam Nagar",
+        "Lat1": "22.74049000",
+        "Long1": "75.83765000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sangam Nagar Road",
+        "Lat1": "22.73428000",
+        "Long1": "75.83147000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanghi Motors",
+        "Lat1": "22.78859000",
+        "Long1": "75.90684000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanjay Setu_1",
+        "Lat1": "22.71866000",
+        "Long1": "75.85933000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanjay Setu_1",
+        "Lat1": "22.71866000",
+        "Long1": "75.85933000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Sanjay Setu_2",
+        "Lat1": "22.71645000",
+        "Long1": "75.86005000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanmati Hospital",
+        "Lat1": "22.73801000",
+        "Long1": "75.83437000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sanwer",
+        "Lat1": "22.9758",
+        "Long1": "75.83107000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sapera Colony",
+        "Lat1": "22.60906000",
+        "Long1": "75.89037000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sapna Sangeeta",
+        "Lat1": "22.69971000",
+        "Long1": "75.86739000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sarwate Bus Stand",
+        "Lat1": "22.71381000",
+        "Long1": "75.8686",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Satya Sai",
+        "Lat1": "22.75457000",
+        "Long1": "75.89653000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Satya Sai City Bus",
+        "Lat1": "22.75527000",
+        "Long1": "75.89704000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Satya Sai City Bus",
+        "Lat1": "22.75527000",
+        "Long1": "75.89704000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Sawariya Temple",
+        "Lat1": "22.69178000",
+        "Long1": "75.90882000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sayaji",
+        "Lat1": "22.75202000",
+        "Long1": "75.89107000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sayaji",
+        "Lat1": "22.75202000",
+        "Long1": "75.89107000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Scheme NO.134",
+        "Lat1": "22.74971000",
+        "Long1": "75.93043000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Scheme No. 78",
+        "Lat1": "22.76603000",
+        "Long1": "75.90002000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Scheme No. 78",
+        "Lat1": "22.76603000",
+        "Long1": "75.90002000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Sch. No. 51",
+        "Lat1": "22.73997000",
+        "Long1": "75.84261000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sewa Kunj",
+        "Lat1": "22.74032000",
+        "Long1": "75.97398000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shalimar Township BRT",
+        "Lat1": "22.76233000",
+        "Long1": "75.89893000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Shalimar Township City Bus",
+        "Lat1": "22.76298000",
+        "Long1": "75.89913000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shanti Nagar",
+        "Lat1": "22.69762000",
+        "Long1": "75.90504000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shanti Nagar",
+        "Lat1": "22.69762000",
+        "Long1": "75.90504000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Shell City",
+        "Lat1": "22.56207000",
+        "Long1": "75.90468000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shikshak Nagar",
+        "Lat1": "22.72429000",
+        "Long1": "75.82648000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shivaji Vatika BRT",
+        "Lat1": "22.71107000",
+        "Long1": "75.88197000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Shivaji Vatika City Bus",
+        "Lat1": "22.71079000",
+        "Long1": "75.88315000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shivalik Parisar",
+        "Lat1": "22.67559000",
+        "Long1": "75.94032000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shiv Chowk Rangwasa",
+        "Lat1": "22.64447000",
+        "Long1": "75.78835000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shiv City Gate",
+        "Lat1": "22.65174000",
+        "Long1": "75.8290",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shiv City square",
+        "Lat1": "22.65104000",
+        "Long1": "75.83103000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shiv Nagar",
+        "Lat1": "22.68512000",
+        "Long1": "75.91005000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shivshakti Nagar",
+        "Lat1": "22.71965000",
+        "Long1": "75.91076000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shivshakti Nagar",
+        "Lat1": "22.71965000",
+        "Long1": "75.91076000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Shramik Colony/Jivan Jyoti",
+        "Lat1": "22.64311000",
+        "Long1": "75.8175",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shramik Colony/Jivan Jyoti",
+        "Lat1": "22.64311000",
+        "Long1": "75.8175",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Shramik Colony/Jivan Jyoti",
+        "Lat1": "22.64311000",
+        "Long1": "75.8175",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Shree Krishna Talkies/ Krishnapura Pul_1",
+        "Lat1": "22.71993000",
+        "Long1": "75.85927000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shree Krishna Talkies/ Krishnapura Pul_2",
+        "Lat1": "22.71931000",
+        "Long1": "75.85878000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shreenath Colony",
+        "Lat1": "22.73566000",
+        "Long1": "75.82934000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shree Vinayak Colony",
+        "Lat1": "22.68066000",
+        "Long1": "75.93199000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shrinath Colony",
+        "Lat1": "22.73512000",
+        "Long1": "75.83015000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shri Pandharinath Mandir_1",
+        "Lat1": "22.71356000",
+        "Long1": "75.85655000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shri Pandharinath Mandir_2",
+        "Lat1": "22.71342000",
+        "Long1": "75.85589000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Shubh City",
+        "Lat1": "22.67853000",
+        "Long1": "75.89975000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Siddhipuram",
+        "Lat1": "22.67964000",
+        "Long1": "75.82897000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Siddhivinayak hospital",
+        "Lat1": "22.7297",
+        "Long1": "75.9033",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Silicon City",
+        "Lat1": "22.64597000",
+        "Long1": "75.8276",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Silicon City",
+        "Lat1": "22.64597000",
+        "Long1": "75.8276",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Silicon City Gate",
+        "Lat1": "22.64862000",
+        "Long1": "75.82024000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Silicon City Gate",
+        "Lat1": "22.64862000",
+        "Long1": "75.82024000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Silver City",
+        "Lat1": "22.65987000",
+        "Long1": "75.91095000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Simrol",
+        "Lat1": "22.5392",
+        "Long1": "75.91245000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sindhi Colony",
+        "Lat1": "22.70085000",
+        "Long1": "75.86308000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sirpur",
+        "Lat1": "22.70642000",
+        "Long1": "75.82118000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Smrati Talkies",
+        "Lat1": "22.72244000",
+        "Long1": "75.85266000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Spring Valley School",
+        "Lat1": "22.73069000",
+        "Long1": "75.9403",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Star Square",
+        "Lat1": "22.74625000",
+        "Long1": "75.92285000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Subhash Nagar_1",
+        "Lat1": "22.74302000",
+        "Long1": "75.8704",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Subhash Nagar_2",
+        "Lat1": "22.74332000",
+        "Long1": "75.87088000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sukhliya",
+        "Lat1": "22.76108000",
+        "Long1": "75.87496000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sukhliya",
+        "Lat1": "22.76108000",
+        "Long1": "75.87496000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Sukhliya (Ujjain Road)",
+        "Lat1": "22.75823000",
+        "Long1": "75.84816000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Sun City",
+        "Lat1": "22.75301000",
+        "Long1": "75.91547000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Super Corridor",
+        "Lat1": "22.73544000",
+        "Long1": "75.79558000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Super Corridor Bridge",
+        "Lat1": "22.78599000",
+        "Long1": "75.83605000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Surajbali Nagar",
+        "Lat1": "22.73997000",
+        "Long1": "75.82355000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Suryadev Nagar",
+        "Lat1": "22.68017000",
+        "Long1": "75.82067000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Surya Mandir",
+        "Lat1": "22.65822000",
+        "Long1": "75.8064",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Swami Vivekanand Clg",
+        "Lat1": "22.5967",
+        "Long1": "75.89627000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Swarn Bagh",
+        "Lat1": "22.7353",
+        "Long1": "75.90126000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Talawali Chanda",
+        "Lat1": "22.79839000",
+        "Long1": "75.91219000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Talawali Chanda Panchayat",
+        "Lat1": "22.80197000",
+        "Long1": "75.91471000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tantya Bheel Chouraha (Bhawarkua)",
+        "Lat1": "22.69266000",
+        "Long1": "75.86776000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tantya Bheel Chouraha (Bhawarkua)",
+        "Lat1": "22.69266000",
+        "Long1": "75.86776000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Tantya Bheel Chouraha (Bhawarkua) BRT",
+        "Lat1": "22.69204000",
+        "Long1": "75.8669",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tantya Bheel Chouraha (Bhawarkua) BRT",
+        "Lat1": "22.69204000",
+        "Long1": "75.8669",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Tata Tower & Godown",
+        "Lat1": "22.79007000",
+        "Long1": "75.90733000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "TCS Square",
+        "Lat1": "22.77251000",
+        "Long1": "75.81971000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Teen Imli",
+        "Lat1": "22.68889000",
+        "Long1": "75.88449000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Teen Imli",
+        "Lat1": "22.68889000",
+        "Long1": "75.88449000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Teenpuliya ",
+        "Lat1": "22.74381000",
+        "Long1": "75.87409000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tejaji Chowk",
+        "Lat1": "22.68146000",
+        "Long1": "75.89518000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tejaji Nagar",
+        "Lat1": "22.63999000",
+        "Long1": "75.88834000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tejaji Nagar",
+        "Lat1": "22.63999000",
+        "Long1": "75.88834000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Telephone Nagar",
+        "Lat1": "22.72061000",
+        "Long1": "75.90222000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "T.I.",
+        "Lat1": "22.72158000",
+        "Long1": "75.87766000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tigariya Badshah",
+        "Lat1": "22.76223000",
+        "Long1": "75.82946000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tigriya Badshah Kakad",
+        "Lat1": "22.75605000",
+        "Long1": "75.83071000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tilak Nagar",
+        "Lat1": "22.72112000",
+        "Long1": "75.89869000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Timber Market",
+        "Lat1": "22.71139000",
+        "Long1": "75.83457000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tirupati Nagar",
+        "Lat1": "22.72351000",
+        "Long1": "75.82969000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tirupati Nagar",
+        "Lat1": "22.72351000",
+        "Long1": "75.82969000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Toll Naka Ujjain Road",
+        "Lat1": "22.81725000",
+        "Long1": "75.84916000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tower Chouraha_1",
+        "Lat1": "22.69772000",
+        "Long1": "75.86488000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tower Chouraha_2",
+        "Lat1": "22.6982",
+        "Long1": "75.8646",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Treasure Fantasy",
+        "Lat1": "22.65694000",
+        "Long1": "75.80611000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Trenching Ground Indore",
+        "Lat1": "22.67837000",
+        "Long1": "75.92474000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Trimala Pride",
+        "Lat1": "22.77829000",
+        "Long1": "75.87501000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Triveni Chouraha",
+        "Lat1": "22.74223000",
+        "Long1": "75.84104000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Tulsi Nagar",
+        "Lat1": "22.75285000",
+        "Long1": "75.91879000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Udhyog Nagar",
+        "Lat1": "22.68678000",
+        "Long1": "75.9067",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Ujjaini",
+        "Lat1": "22.64482000",
+        "Long1": "75.9979",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Umariya",
+        "Lat1": "22.60103000",
+        "Long1": "75.79121000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Umrikheda",
+        "Lat1": "22.6063",
+        "Long1": "75.89167000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Usha Nagar",
+        "Lat1": "22.69679000",
+        "Long1": "75.83935000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vaibhav Nagar",
+        "Lat1": "22.72173000",
+        "Long1": "75.91554000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vaibhav Nagar",
+        "Lat1": "22.72173000",
+        "Long1": "75.91554000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Vaishali Nagar",
+        "Lat1": "22.68372000",
+        "Long1": "75.8296",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vaishnav College",
+        "Lat1": "22.82474000",
+        "Long1": "75.85019000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Veena nagar",
+        "Lat1": "22.75897000",
+        "Long1": "75.8702",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Velocity Talkies",
+        "Lat1": "22.74521000",
+        "Long1": "75.90292000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Velocity Talkies",
+        "Lat1": "22.74521000",
+        "Long1": "75.90292000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Venktesh Gate",
+        "Lat1": "22.69582000",
+        "Long1": "75.83067000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Venktesh Gate",
+        "Lat1": "22.69582000",
+        "Long1": "75.83067000",
+        "route_type_name": "iBus Feeder"
+    },
+    {
+        "StationName": "Verka Railway Station",
+        "Lat1": "31.66521000",
+        "Long1": "74.9332",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vidhyadham",
+        "Lat1": "22.72574000",
+        "Long1": "75.82043000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vidhyadham",
+        "Lat1": "22.72574000",
+        "Long1": "75.82043000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Vidhyanjali School",
+        "Lat1": "22.69804000",
+        "Long1": "75.79378000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vijay Nagar BRT",
+        "Lat1": "22.74933000",
+        "Long1": "75.89493000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vijay Nagar BRT",
+        "Lat1": "22.74933000",
+        "Long1": "75.89493000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Vijay Nagar City Bus",
+        "Lat1": "22.75083000",
+        "Long1": "75.89482000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vijay Nagar City Bus",
+        "Lat1": "22.75083000",
+        "Long1": "75.89482000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    },
+    {
+        "StationName": "Vikas Pradhikaran",
+        "Lat1": "22.74591000",
+        "Long1": "75.83805000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Vishnupuri",
+        "Lat1": "22.68944000",
+        "Long1": "75.86402000",
+        "route_type_name": "iBus"
+    },
+    {
+        "StationName": "Vrindavan Colony",
+        "Lat1": "22.7401",
+        "Long1": "75.84995000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "White Church",
+        "Lat1": "22.71112000",
+        "Long1": "75.88412000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Yadav Dharmshala",
+        "Lat1": "22.7386",
+        "Long1": "75.82552000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Yashwant Plaza",
+        "Lat1": "22.7191",
+        "Long1": "75.86917000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Zam Zam Chouraha",
+        "Lat1": "22.73184000",
+        "Long1": "75.91324000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Zoo",
+        "Lat1": "22.70483000",
+        "Long1": "75.87799000",
+        "route_type_name": "Atal City Bus"
+    },
+    {
+        "StationName": "Zoo",
+        "Lat1": "22.70483000",
+        "Long1": "75.87799000",
+        "route_type_name": "Atal City Bus (C.N.G)"
+    }
+]

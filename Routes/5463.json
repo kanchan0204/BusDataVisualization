@@ -1,0 +1,96 @@
+[{
+    "stationid": 3945,
+    "stationname": "Rajwada",
+    "totaldistance": 0,
+    "totaltime": "0"
+}, {
+    "stationid": 4013,
+    "stationname": "Gurudwara",
+    "totaldistance": 0.3,
+    "totaltime": "2"
+}, {
+    "stationid": 4193,
+    "stationname": "Shri Pandharinath Mandir_1",
+    "totaldistance": 0.7,
+    "totaltime": "5"
+}, {
+    "stationid": 3818,
+    "stationname": "Collectorate",
+    "totaldistance": 1.2,
+    "totaltime": "7"
+}, {
+    "stationid": 4028,
+    "stationname": "Jabran Colony/Juni Indore",
+    "totaldistance": 1.7,
+    "totaltime": "9"
+}, {
+    "stationid": 3962,
+    "stationname": "Sindhi Colony",
+    "totaldistance": 2.6,
+    "totaltime": "12"
+}, {
+    "stationid": 3890,
+    "stationname": "Tower Chouraha_1",
+    "totaldistance": 3,
+    "totaltime": "14"
+}, {
+    "stationid": 3980,
+    "stationname": "Tantya Bheel Chouraha (Bhawarkua)",
+    "totaldistance": 4,
+    "totaltime": "16"
+}, {
+    "stationid": 3999,
+    "stationname": "D A V V",
+    "totaldistance": 4.4,
+    "totaltime": "17"
+}, {
+    "stationid": 4143,
+    "stationname": "Ashram Chauraha/IT Park",
+    "totaldistance": 4.9,
+    "totaltime": "19"
+}, {
+    "stationid": 4022,
+    "stationname": "IET/SOPA",
+    "totaldistance": 5.5,
+    "totaltime": "21"
+}, {
+    "stationid": 3934,
+    "stationname": "Ranjeet Singh College",
+    "totaldistance": 5.7,
+    "totaltime": "23"
+}, {
+    "stationid": 4156,
+    "stationname": "Radhaswami",
+    "totaldistance": 6.4,
+    "totaltime": "26"
+}, {
+    "stationid": 4061,
+    "stationname": "Limbodi/Ashram",
+    "totaldistance": 7,
+    "totaltime": "28"
+}, {
+    "stationid": 4125,
+    "stationname": "Power House_1",
+    "totaldistance": 8,
+    "totaltime": "32"
+}, {
+    "stationid": 4070,
+    "stationname": "Machli Farm",
+    "totaldistance": 8.5,
+    "totaltime": "34"
+}, {
+    "stationid": 4132,
+    "stationname": "Pushpkunj",
+    "totaldistance": 8.9,
+    "totaltime": "37"
+}, {
+    "stationid": 4042,
+    "stationname": "Kasturba Gram",
+    "totaldistance": 9.8,
+    "totaltime": "39"
+}, {
+    "stationid": 3899,
+    "stationname": "Tejaji Nagar",
+    "totaldistance": 10.5,
+    "totaltime": "41"
+}]

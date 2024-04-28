@@ -1,0 +1,110 @@
+[
+    {
+        "stationid": 4206,
+        "stationname": "Star Square",
+        "totaldistance": 0,
+        "totaltime": "0"
+    },
+    {
+        "stationid": 4209,
+        "stationname": "Haji Colony",
+        "totaldistance": 1.1,
+        "totaltime": "3"
+    },
+    {
+        "stationid": 4045,
+        "stationname": "Khajrana Dargah",
+        "totaldistance": 1.6,
+        "totaltime": "5"
+    },
+    {
+        "stationid": 4031,
+        "stationname": "Zam Zam Chouraha",
+        "totaldistance": 2.1,
+        "totaltime": "10"
+    },
+    {
+        "stationid": 4046,
+        "stationname": "Khajrana Ganesh Mandir",
+        "totaldistance": 2.45,
+        "totaltime": "12"
+    },
+    {
+        "stationid": 4050,
+        "stationname": "Khajrana Ring Road 5",
+        "totaldistance": 3.2,
+        "totaltime": "15"
+    },
+    {
+        "stationid": 3986,
+        "stationname": "Chandralok",
+        "totaldistance": 3.7,
+        "totaltime": "17"
+    },
+    {
+        "stationid": 3856,
+        "stationname": "Anand Nagar",
+        "totaldistance": 4.2,
+        "totaltime": "18"
+    },
+    {
+        "stationid": 4208,
+        "stationname": "Navneet Tower",
+        "totaldistance": 4.8,
+        "totaltime": "20"
+    },
+    {
+        "stationid": 4108,
+        "stationname": "Palasiya Thana",
+        "totaldistance": 5.2,
+        "totaltime": "21"
+    },
+    {
+        "stationid": 18,
+        "stationname": "Industry House Cross Road",
+        "totaldistance": 5.65,
+        "totaltime": "23"
+    },
+    {
+        "stationid": 4207,
+        "stationname": "Indraprastha / 56 Dukan",
+        "totaldistance": 6.05,
+        "totaltime": "24"
+    },
+    {
+        "stationid": 4032,
+        "stationname": "Janjir Wala",
+        "totaldistance": 6.3,
+        "totaltime": "25"
+    },
+    {
+        "stationid": 4058,
+        "stationname": "Lanturn Chouraha",
+        "totaldistance": 7,
+        "totaltime": "27"
+    },
+    {
+        "stationid": 4017,
+        "stationname": "City Centre / High Court_1",
+        "totaldistance": 7.4,
+        "totaltime": "29"
+    },
+    {
+        "stationid": 3915,
+        "stationname": "Regal Square",
+        "totaldistance": 7.6,
+        "totaltime": "30"
+    },
+    {
+        "stationid": 4174,
+        "stationname": "Ranipura/ Kothari Market_2",
+        "totaldistance": 8.74,
+        "totaltime": "35"
+    },
+    {
+        "stationid": 4191,
+        "stationname": "Shree Krishna Talkies/ Krishnapura Pul_2",
+        "totaldistance": 9.5,
+        "totaltime": "40"
+    }
+]

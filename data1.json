@@ -1,0 +1,6627 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      
+      "type": "Feature",
+      "properties": {
+        "stationid": 4207,
+        "name": "56 Dukaan"
+      },
+      "geometry": {
+        "coordinates": [
+          22.723628292738553, 75.88505674791216
+        ],
+        "type": "Point"
+      }
+      
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4207,
+        "name": "56 Dukan"
+      },
+      "geometry": {
+        "coordinates": [
+          22.723628292738553, 75.88505674791216
+        ],
+        "type": "Point"
+      }
+  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4107,
+        "name": "56 Dukan Or Palasia"
+      },
+      "geometry": {
+        "coordinates": [
+          22.723791343918585, 75.88668148580814
+        ],
+        "type": "Point"
+      }
+  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7 Meel"
+      },
+      "geometry": {
+        "coordinates": [
+          22.680753887852806, 75.98357109072296
+        ],
+        "type": "Point"
+      }
+  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8 Meel"
+      },
+      "geometry": {
+        "coordinates": [
+          22.681490680873825, 75.9986244353485
+        ],
+        "type": "Point"
+      }
+  
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4397,
+        "name": "9 Mile"
+      },
+      "geometry": {
+        "coordinates": [
+          22.719567351904296, 75.85772166492528
+        ],
+        "type": "Point"
+      }
+  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3864,
+        "name": "Aastha Talkies"
+      },
+      "geometry": {
+        "coordinates": [
+          22.743287048002184, 75.88398445218135
+        ],
+        "type": "Point"
+      }
+  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abhvaj Udyan Or Choithram Chouraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.683232758277196, 75.85571884875647
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Advanced Academy"
+      },
+      "geometry": {
+        "coordinates": [
+          22.750618283211217, 75.92497483500732
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4449,
+        "name": "Agarwal Public School"
+      },
+      "geometry": {
+        "coordinates": [
+          22.702905322804405, 75.9186502903182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4314,
+        "name": "Agrashen Chauraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.70366359675995, 75.87315800131407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3848,
+        "name": "Agrawal Toll Kanta"
+      },
+      "geometry": {
+        "coordinates": [
+          22.6867651915231, 75.9042786223209
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3849,
+        "name": "Ahilya Ashram"
+      },
+      "geometry": {
+        "coordinates": [
+          22.734090140270908, 75.86034567677423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3850,
+        "name": "Airport"
+      },
+      "geometry": {
+        "coordinates": [
+          22.729365025842977, 75.80694969718915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid":[ 3850, 4329],
+        "name": "Airport Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          22.729365025842977, 75.80694969718915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4386,
+        "name": "Akashwani"
+      },
+      "geometry": {
+        "coordinates": [
+          22.700599378699412, 75.88534944384472
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4210,
+        "name": "Ambikapuri Or Venkatesh Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72908178576306, 75.82023843382407
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amrapali Restrorant"
+      },
+      "geometry": {
+        "coordinates": [
+          22.8006001303552, 75.84751762892279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3856,
+        "name": "Anand Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.728134654449686, 75.89467799298188
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3859,
+        "name": "Annapurna Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.68707278098808, 75.83656531950703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3858,
+        "name": "Annapurna Temple"
+      },
+      "geometry": {
+        "coordinates": [
+          22.690190964995708, 75.83756728853533
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anshal Town"
+      },
+      "geometry": {
+        "coordinates": [
+          22.797624421092767, 75.91787313438093
+        ],
+        "type": "Point"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3803, 3862],
+        "name": "Antim Chauraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.717783230372127, 75.84088536039577
+        ],
+        "type": "Point"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3864,
+        "name": "Anup Talkies"
+      },
+      "geometry": {
+        "coordinates": [
+          22.743810974648248, 75.88418279735151
+        ],
+        "type": "Point"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4476,
+        "name": "Apj Abdul Kalam Univercity"
+      },
+      "geometry": {
+        "coordinates": [
+          22.796023680910274, 75.93138807769128
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3851,
+        "name": "Arodam Thana"
+      },
+      "geometry": {
+        "coordinates": [
+          22.726859992420888, 75.81582212533887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4061,
+        "name": "Ashram Limbda Or Queens College"
+      },
+      "geometry": {
+        "coordinates": [
+          22.668408815032205, 75.8820064765281
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3863,
+        "name": "Aurobindo"
+      },
+      "geometry": {
+        "coordinates": [
+          22.796418793359713, 75.84699433955578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3865,
+        "name": "Azad Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.698321393957322, 75.89052944373744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4226, 3867],
+        "name": "B C M"
+      },
+      "geometry": {
+        "coordinates": [
+          22.697838025020836, 75.87741862265243
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4330,
+        "name": "Babu Murai Or Ramkrishna Hospital"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72984770809398, 75.81060759403542
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4369,
+        "name": "Babul Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.68770252417888, 75.89476493550087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3801,
+        "name": "Bada Ganpati"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72050256441356, 75.84162424248295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.746745871541982, 75.88809016425816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4142,
+        "name": "Badwali Chowki"
+      },
+      "geometry": {
+        "coordinates": [
+          22.722449011298092, 75.84962317621195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3870,
+        "name": "Bakery Gali"
+      },
+      "geometry": {
+        "coordinates": [
+          22.736279936558105, 75.8775041431928
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4477,
+        "name": "Balaji Enclave"
+      },
+      "geometry": {
+        "coordinates": [
+          22.796947101308845, 75.92726634854057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4325,
+        "name": "Baneswari Kund"
+      },
+      "geometry": {
+        "coordinates": [
+          22.747274238700868, 75.84979319207442
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4185,
+        "name": "Banganga"
+      },
+      "geometry": {
+        "coordinates": [
+          22.744316912956226, 75.85124692019531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4467,
+        "name": "Bangrada Road Or Chota And Bada Bangadda"
+      },
+      "geometry": {
+        "coordinates": [
+          22.745829733401106, 75.81478843806718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3880,
+        "name": "Bapat Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.75509581795086, 75.8785378907746
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barsana Garden"
+      },
+      "geometry": {
+        "coordinates": [
+          22.702414809722864, 75.92121062901452
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4139,
+        "name": "Bengali Chouraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71931021993489, 75.90883035499266
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid":[ 4139,3872],
+        "name": "Bengali Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71931021993489, 75.90883035499266
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3883,
+        "name": "Bhagirathpura"
+      },
+      "geometry": {
+        "coordinates": [
+          22.745914104832735, 75.86117687003743
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3897,
+        "name": "Bhamori"
+      },
+      "geometry": {
+        "coordinates": [
+          22.746735648218177, 75.88810264216414
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3979,
+        "name": "Bhandari Mill Agniban"
+      },
+      "geometry": {
+        "coordinates": [
+          22.729850047880507, 75.86320520666507
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4497,
+        "name": "Bhangad Squre Shalimar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.773445608684828, 75.87355213547806
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4486,
+        "name": "Bhawani Nagar Or Super Coridor Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          22.78547778818137, 75.8352410173417
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3982,
+        "name": "Bholaram Chouraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.681084558798332, 75.86361793566493
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4447,
+        "name": "Bicholi Mardana"
+      },
+      "geometry": {
+        "coordinates": [
+          22.70196852721781, 75.92701321470896
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3770,
+        "name": "Bijalpur"
+      },
+      "geometry": {
+        "coordinates": [
+          22.671584433325165, 75.83450961615232
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4488,
+        "name": "California City"
+      },
+      "geometry": {
+        "coordinates": [
+          22.745170202335725, 75.98157474048645
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4478,
+        "name": "Casa Green Township"
+      },
+      "geometry": {
+        "coordinates": [
+          22.797601726875556, 75.920339579002
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4327,
+        "name": "Cat Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.66921929394455, 75.81449447704583
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4392,
+        "name": "Chameli Devi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.614826753428247, 75.88780748965566
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4361,
+        "name": "Chameli Devi School"
+      },
+      "geometry": {
+        "coordinates": [
+          22.676897275244766, 75.83797740842891
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chanakya Complex"
+      },
+      "geometry": {
+        "coordinates": [
+          22.677484917137143, 75.83820108649398
+        ],
+        "type": "Point"
+      }
+      
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4138, 3985, 4043],
+        "name": "Chanakyapuri Or Kesar Bagh Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          22.683754795620242, 75.83571844065935
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4194,1832],
+        "name": "Chandan Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.70726560409944, 75.82435077207752
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3986,
+        "name": "Chandralok"
+      },
+      "geometry": {
+        "coordinates": [
+          22.729650583923352, 75.89727990956297
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapda"
+      },
+      "geometry": {
+        "coordinates": [
+          22.70608624808037, 76.32161585508042
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4144,
+        "name": "Chhoti Gwaltoli"
+      },
+      "geometry": {
+        "coordinates": [
+          22.715192870938026, 75.87018487583312
+        ],
+        "type": "Point"
+      }
+      
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3987,
+        "name": "Chiman Bagh"
+      },
+      "geometry": {
+        "coordinates": [
+          22.724007271306725, 75.86220747256739
+        ],
+        "type": "Point"
+      }
+      
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3988, 4173],
+        "name": "Chitawad"
+      },
+      "geometry": {
+        "coordinates": [
+          22.686023111628757, 75.88179241503356
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3827,
+        "name": "Choithram Hospital"
+      },
+      "geometry": {
+        "coordinates": [
+          22.688307956042692, 75.85532260927768
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3828,3989],
+        "name": "Choithram Mandi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.683646987338463, 75.85552443388804
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3758,
+        "name": "Chota Bangarda"
+      },
+      "geometry": {
+        "coordinates": [
+          22.74580405963452, 75.81482179889446
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4192,
+        "name": "Chowthi-paltan"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72270891307784, 75.84845575631894
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4003,3991],
+        "name": "City Bus Depo"
+      },
+      "geometry": {
+        "coordinates": [
+          22.714406383600878, 75.88372763318095
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4003,
+        "name": "City Bus Depo"
+      },
+      "geometry": {
+        "coordinates": [
+          22.714457400090563, 75.88373130212435
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4017,
+        "name": "City Center"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72083388720503, 75.87447547419026
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3818,
+        "name": "Collector Office"
+      },
+      "geometry": {
+        "coordinates": [
+          22.708508516036716, 75.85445634265625
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3999,
+        "name": "D A V V Campus"
+      },
+      "geometry": {
+        "coordinates": [
+          22.689204428775405, 75.87027515772635
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3908,
+        "name": "D R P Line"
+      },
+      "geometry": {
+        "coordinates": [
+          22.727205220404976, 75.86262850285615
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakachya"
+      },
+      "geometry": {
+        "coordinates": [
+          22.857830680294374, 75.95555852642312
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3996,
+        "name": "Damru-ustaad"
+      },
+      "geometry": {
+        "coordinates": [
+          22.746036755369047, 75.86814820996224
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3879,
+        "name": "Dashera Maidan Or Bank Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          22.6943882982143, 75.8388002254966
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dashrath Bagh Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          22.74887236884286, 75.8355721185518
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dastur Garden"
+      },
+      "geometry": {
+        "coordinates": [
+          22.697702667668906, 75.82770536564855
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3998,
+        "name": "Datta Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.66578001593053, 75.82712154975822
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4000,
+        "name": "Dawa Bazaar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71366791897028, 75.87600443929531
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4195,
+        "name": "Db City"
+      },
+      "geometry": {
+        "coordinates": [
+          22.75869380014469, 75.92192449956353
+        ],
+        "type": "Point"
+      }
+      
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deendayal Garden"
+      },
+      "geometry": {
+        "coordinates": [
+          22.688020346260547,
+          75.86231308500123
+          
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4177,
+          "name": "Deepmala Dhaba"
+        },
+      "geometry": {
+        "coordinates": [
+          22.776408291485982, 75.8477552728323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4372,
+          "name": "Deoguradiya Temple"
+        },
+      "geometry": {
+        "coordinates": [
+          22.675486872810428, 75.93364197980817
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Dewas Bus Stand"
+        },
+      "geometry": {
+        "coordinates": [
+          22.96621613624212, 76.05744264434965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4001,
+          "name": "Dewas Naka"
+        },
+      "geometry": {
+        "coordinates": [
+          22.78575477215289, 75.90593357606097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Dhakkanwala Kuan"
+        },
+      "geometry": {
+        "coordinates": [
+          22.717633262249205, 75.87962081991326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3901,
+          "name": "Dhanwantri Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.67002750121522, 75.82933073876632
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Dhar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.71016591175562, 75.8280714192907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3995,
+          "name": "Diamond Colony Or Karnataka Vidya Niketan"
+        },
+      "geometry": {
+        "coordinates": [
+          22.724416589286104, 75.9201941206838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Dodi"
+        },
+      "geometry": {
+        "coordinates": [
+          22.71859288497461, 75.88453279475942
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Double Chowki"
+        },
+      "geometry": {
+        "coordinates": [
+          22.703995251347262, 76.13056308269684
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3906,
+          "name": "Dravid Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.70161570728945, 75.83799545705862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Dudhia"
+        },
+      "geometry": {
+        "coordinates": [
+          22.676273933765152, 75.94436479875829
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4328,
+          "name": "Dwarka Puri Or Bhagwati Dwar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.685608813948456, 75.82364508922296
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3913,
+          "name": "Electronic Complex"
+        },
+      "geometry": {
+        "coordinates": [
+          22.75270965410932, 75.86941886644424
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Emerald Heights School"
+        },
+      "geometry": {
+        "coordinates": [
+          22.652007729610034, 75.82099282339277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Energy Hospital"
+        },
+      "geometry": {
+        "coordinates": [
+          22.675718923767505, 75.94074431525333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4197,
+          "name": "Fortune Hotel"
+        },
+      "geometry": {
+        "coordinates": [
+          22.753874024456213, 75.88445465290462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Fortune Landmark Hotel"
+        },
+      "geometry": {
+        "coordinates": [
+          22.75359851567524, 75.8836886855333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3816, 3919],
+          "name": "G D C College"
+        },
+      "geometry": {
+        "coordinates": [
+          22.706754553738364, 75.85000482346575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4003,
+          "name": "G P O"
+        },
+      "geometry": {
+        "coordinates": [
+          22.706280317987733, 75.87867400377567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 3922,
+          "name": "G S I T S Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7252432563728, 75.8743763818848
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3788,
+          "name": "Gamla Wali Puliya"
+        },
+      "geometry": {
+        "coordinates": [
+          22.658313211121516, 75.82410603908865
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3925, 3923],
+          "name": "Gandhi Hall Or Palika Plaza"
+        },
+      "geometry": {
+        "coordinates": [
+          22.71988558325049, 75.8654323863495
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3926,
+          "name": "Gandhi Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7395169740033, 75.79054615593935
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Ganesh Bagh Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.744564538798244, 75.83939465866828
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4181,
+          "name": "Ganesh Dham"
+        },
+      "geometry": {
+        "coordinates": [
+          22.761103800597027, 75.84799976649383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3808,
+          "name": "Gangwal Bus Stand"
+        },
+      "geometry": {
+        "coordinates": [
+          22.712970834972637, 75.84093324801718
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3772,
+          "name": "Garib Nawaj Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.74015590998682, 75.82339171918606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4006,
+          "name": "Gaytri Mandir"
+        },
+      "geometry": {
+        "coordinates": [
+          22.74218978298402, 75.88723144317434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": [22,23],
+          "name": "Geeta Bhawan Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.719080027751826, 75.88444141737617
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4008,
+          "name": "Girdhar Mahal"
+        },
+      "geometry": {
+        "coordinates": [
+          22.74954529471235, 75.89011381078097
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4387, 4010],
+          "name": "Gomatgiri"
+        },
+      "geometry": {
+        "coordinates": [
+          22.742901231190427, 75.7764448944528
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4387,
+          "name": "Gomatgiri Power House"
+        },
+      "geometry": {
+        "coordinates": [
+          22.749668947742737, 75.77428422849728
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4009,
+          "name": "Gopur Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.684009927378437, 75.82983083591724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4011,
+          "name": "Gouri Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.75534780982288, 75.8670901687819
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4440,
+          "name": "Goverment College Rau"
+        },
+      "geometry": {
+        "coordinates": [
+          22.639578492769143, 75.80507213061112
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": [4261, 4121],
+          "name": "Gram Pipliyahana"
+        },
+      "geometry": {
+        "coordinates": [
+          22.706314327450755, 75.90450135762755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Grampanchayat Rangwasa"
+        },
+      "geometry": {
+        "coordinates": [
+          22.643544297194726, 75.78881608329554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4012,
+          "name": "Gumasta Nagar Or Sudama Nagar Or Arihant"
+        },
+      "geometry": {
+        "coordinates": [
+          22.698116805736785, 75.83229554421399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Guran"
+        },
+      "geometry": {
+        "coordinates": [
+          22.93055707216489, 75.88671488103658
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4013,
+          "name": "Gurudwara"
+        },
+      "geometry": {
+        "coordinates": [
+          22.72039632569455, 75.8627408610352
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Gurukul Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.638468372482137, 75.81407318676138
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4188, 
+          "name": "Haj House"
+        },
+      "geometry": {
+        "coordinates": [
+          22.730830273096114, 75.85072867484098
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4209,
+          "name": "Haji Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.73876058366912, 75.9146140009205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3789,
+          "name": "Hammal Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.732043027116475, 75.83432463527318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4356,4014],
+          "name": "Hanuman Mandir"
+        },
+      "geometry": {
+        "coordinates": [
+          22.711729219476407, 75.9057897308704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3896,
+          "name": "Hanuman Mandir Or Tilak Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7215603832046, 75.89856960333732
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Harda"
+        },
+      "geometry": {
+        "coordinates": [
+          22.34072792679404, 77.09756634984366
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3796,
+          "name": "Hardias Eye Hospital"
+        },
+      "geometry": {
+        "coordinates": [
+          22.62756775309399, 75.80575416273686
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4333,
+          "name": "Harsiddhi"
+        },
+      "geometry": {
+        "coordinates": [
+          22.713405874897916, 75.85594123404239
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4250,
+          "name": "Hatod Hospital"
+        },
+      "geometry": {
+        "coordinates": [
+          22.797683128634397, 75.74432277894319
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4250,
+          "name": "Hatod Village"
+        },
+      "geometry": {
+        "coordinates": [
+          22.794903427235482, 75.74759349577609
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+
+        "stationid": 4016,
+          "name": "Hawa Bangla"
+        },
+      "geometry": {
+        "coordinates": [
+          22.683961235323213, 75.82209085161894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4017,
+          "name": "High Court"
+        },
+      "geometry": {
+        "coordinates": [
+          22.72091527545044, 75.8744343824999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4019,
+          "name": "Hira Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.764463856840106, 75.87073384714067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Hoshangabad"
+        },
+      "geometry": {
+        "coordinates": [
+          22.754632044615438, 77.72892475063436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Hp Gas Plant"
+        },
+      "geometry": {
+        "coordinates": [
+          22.84601293813005, 75.94494139757364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4022,
+          "name": "I E T College"
+        },
+      "geometry": {
+        "coordinates": [
+          22.679217970569553, 75.87708914186483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3785,
+          "name": "I P S Acadamy"
+        },
+      "geometry": {
+        "coordinates": [
+          22.656730519633843, 75.82309963867905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4143,
+          "name": "I T Park Or Ashram Chauraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.686323532844458, 75.8730005185456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4433,
+          "name": "Iit Gate No 2"
+        },
+      "geometry": {
+        "coordinates": [
+          22.519143394132765, 75.91537800852578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4266,
+          "name": "Iit Simrol"
+        },
+      "geometry": {
+        "coordinates": [
+          22.529862076924896, 75.91221148960769
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4024,
+          "name": "Imli Bazar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.722856220216247, 75.85384260659944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Index Medical College"
+        },
+      "geometry": {
+        "coordinates": [
+          22.681861650544008, 76.0502751112063
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4176,
+          "name": "Indo German"
+        },
+      "geometry": {
+        "coordinates": [
+          22.77980002474849, 75.84782055085326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Indore"
+        },
+      "geometry": {
+        "coordinates": [
+          22.714706127693912, 75.86803217255569
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3950,
+          "name": "Indore Railway Station"
+        },
+      "geometry": {
+        "coordinates": [
+          22.716893586748512, 75.86923641592652
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4207,
+          "name": "Indra Prasth Chouraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.723935665158, 75.88373084351372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4207,
+          "name": "Indraprasth Choutaha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.723935665158, 75.88373084351372
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4025,
+          "name": "Indraprastha Tower"
+        },
+      "geometry": {
+        "coordinates": [
+          22.722623031357106, 75.88228123240376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [17,18],
+          "name": "Industry House"
+        },
+      "geometry": {
+        "coordinates": [
+          22.72916411748987, 75.88863947980529
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4469,
+          "name": "Infosys Compony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7584013327593, 75.80730572158005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3777,
+          "name": "Isha Avanue Gate"
+        },
+      "geometry": {
+        "coordinates": [
+          22.73647511230497, 75.82871855095947
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4196,
+          "name": "Jain Nursary"
+        },
+      "geometry": {
+        "coordinates": [
+          22.758857302599658, 75.8983085067761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4368,
+          "name": "Jairam Toll Kata"
+        },
+      "geometry": {
+        "coordinates": [
+          22.683927888164163, 75.91381200861784
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Jamgod Road"
+        },
+      "geometry": {
+        "coordinates": [
+          22.96734104785683, 76.17293548128274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4374,
+          "name": "Jamniya Khurd"
+        },
+      "geometry": {
+        "coordinates": [
+          22.641081408457065, 75.96133080547544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4032,
+          "name": "Janjeerwala Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.72658610873933, 75.88117965919706
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4033,
+          "name": "Jawahar Tekri"
+        },
+      "geometry": {
+        "coordinates": [
+          22.69702603618383, 75.78637812360708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Jawar Jod Bus Stop"
+        },
+      "geometry": {
+        "coordinates": [
+          22.983422611788118, 76.51790530676477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Jhabua"
+        },
+      "geometry": {
+        "coordinates": [
+          22.771902095132948, 74.5923517844174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4034,
+          "name": "Jila Hospital"
+        },
+      "geometry": {
+        "coordinates": [
+          22.710402758716995, 75.83062677931284
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3793,
+          "name": "Jinsi Chauraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.722969164638663, 75.84601022247072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Jivan Jyoti"
+        },
+      "geometry": {
+        "coordinates": [
+          22.631904786074728, 75.59546305743737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Juni Indore"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7122708977893, 75.85990394260288
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Kadwa"
+        },
+      "geometry": {
+        "coordinates": [
+          22.897496198673778, 75.90308087968558
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Kaila Mata Mandir"
+        },
+      "geometry": {
+        "coordinates": [
+          22.67954576602406, 75.83930300138269
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Kaisarbagh Bridge"
+        },
+      "geometry": {
+        "coordinates": [
+          22.682474677779815, 75.8446194662891
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4036,
+          "name": "Kakad"
+        },
+      "geometry": {
+        "coordinates": [
+          22.6859266605322, 75.88194108916682
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4037,
+          "name": "Kalani Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.724304816578275, 75.82650126166129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Kalaria"
+        },
+      "geometry": {
+        "coordinates": [
+          22.67904838133777, 75.71730182211752
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4039,
+          "name": "Kali Puliya"
+        },
+      "geometry": {
+        "coordinates": [
+          22.698328570394878, 75.89039299143163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Kalidevi"
+        },
+      "geometry": {
+        "coordinates": [
+          22.763547762445647, 74.7124106096571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4460,
+          "name": "Kalindi Bypass"
+        },
+      "geometry": {
+        "coordinates": [
+          22.685692684374064, 75.9225128221173
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name": "Kalindi Mid Town"
+        },
+      "geometry": {
+        "coordinates": [
+          22.686259975186516, 75.92649982211015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4249,
+        "name": "Kampel"
+      },
+      "geometry": {
+        "coordinates": [
+          22.619788514507945,
+          76.05252406760025
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4396,
+        "name": "Kanad"
+      },
+      "geometry": {
+        "coordinates": [
+          22.480185572059895,
+          76.10515248919899
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4255,
+        "name": "Kanadiya Gaon"
+      },
+      "geometry": {
+        "coordinates": [
+          22.73592477994047,
+          75.96549464966755
+          
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4346,
+        "name": "Kanadiya Thana"
+      },
+      "geometry": {
+        "coordinates": [
+          22.730070929856197,
+          75.93682929568406
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3794,
+        "name": "Kandilpura"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72692714331401,
+          75.84137152971883
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4352,
+        "name": "Kankeshwari Devi Mandir Dham"
+      },
+      "geometry": {
+        "coordinates": [
+          22.75798596273163,
+          75.87111267116445
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kannod"
+      },
+      "geometry": {
+        "coordinates": [
+          22.66630251301777,
+          76.74577966322715
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karadiyagada"
+      },
+      "geometry": {
+        "coordinates": [
+          22.970330724812488,
+          76.38616239437384
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karnawad Road"
+      },
+      "geometry": {
+        "coordinates": [
+          22.737409478129422,
+          76.24239881820495
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4344,
+        "name": "Karuna Sagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.726823783152703,
+          75.9273057592462
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4042,
+        "name": "Kasturba Gram"
+      },
+      "geometry": {
+        "coordinates": [
+          22.645332735143533,
+          75.88744129099784
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {"stationid": 4366,
+        "name": "Kelod Kartal Or Lotus Garden"
+      },
+      "geometry": {
+        "coordinates": [
+          22.630167002146457,
+          75.88752306994857
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4043,
+        "name": "Kesherbagh Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          22.702158753595214,
+          75.84194388650775
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khade Ganpati Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71288945748297, 
+          75.86218076736795
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khadi Jod"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71902813041751,
+          75.85559454117845
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4045,
+        "name": "Khajrana Dargah"
+      },
+      "geometry": {
+        "coordinates": [
+          22.738943136546048, 
+          75.90939857037579
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4046,
+        "name": "Khajrana Ganesh Mandir"
+      },
+      "geometry": {
+        "coordinates": [
+          22.731237947750557,
+          75.90811671349225
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4047,4049, 4050],
+        "name": "Khajrana Ringroad"
+      },
+      "geometry": {
+        "coordinates": [
+          22.762558560150993,
+          75.90609495767183
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4050,
+        "name": "Khajrana Square Or Khajrana Ab Road"
+      },
+      "geometry": {
+        "coordinates": [
+          22.731673065861333,
+          75.90222055579204
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4050,
+        "name": "Khajrana Square Or Ring Road"
+      },
+      "geometry": {
+        "coordinates": [
+          22.731673065861333,
+          75.90222055579204
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4183,
+        "name": "Kharcha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.751086264841877,
+          75.84936104336265
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khakrod"
+      },
+      "geometry": {
+        "coordinates": [
+          22.858637158741043, 
+          75.90772525799107
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       "name": "Khudel"
+      },
+      "geometry": {
+       "coordinates": [
+        22.687800866053657,
+        76.02604299672939
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 3829,
+       "name": "Kila Maidan"
+      },
+      "geometry": {
+       "coordinates": [
+        22.7261948437995,
+        75.84568554232887
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 3829,
+       "name": "Kila Maidan Or Laxmibai Pratima"
+      },
+      "geometry": {
+       "coordinates": [
+        22.725957342814258,
+        75.8456533558222
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4137,
+       "name": "Kothari Market"
+      },
+      "geometry": {
+       "coordinates": [
+        22.718640286535184,
+        75.86255993918203
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4174,
+       "name": "Kothari Market Or Mth"
+      },
+      "geometry": {
+       "coordinates": [
+        22.718759043430236,
+        75.86240973548422
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Krishi College"
+      },
+      "geometry": {
+       "coordinates": [
+        22.709620951194037,
+        75.89080732588505
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4318,
+       "name": "Krishna Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.67163374952305,
+        75.82402518650667
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 3852,
+       "name": "Krishnapuri Colony Or Allahabad Bank"
+      },
+      "geometry": {
+       "coordinates": [
+        22.70278912426655,
+        75.82605534853168
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Kshipra"
+      },
+      "geometry": {
+       "coordinates": [
+        22.89840303283172,
+        75.97544721337704
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Kudana"
+      },
+      "geometry": {
+       "coordinates": [
+        22.959529397193858,
+        75.8589473998279
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4448,
+       "name": "Kudana Bypass"
+      },
+      "geometry": {
+       "coordinates": [
+        22.97770535892038,
+        75.84075129472058
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4187,
+       "name": "Kumar Khadi"
+      },
+      "geometry": {
+       "coordinates": [
+        22.73826636753131,
+        75.84959854232888
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4487,
+       "name": "Kundan Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.67631903572383,
+        75.81840898616842
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4184,
+       "name": "Kushwah Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.747443182240772,
+        75.8400490429737
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4060,
+       "name": "L I G Square"
+      },
+      "geometry": {
+       "coordinates": [
+        22.733916286468155,
+        75.88983028752365
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4267,
+       "name": "Lakhani Bypass"
+      },
+      "geometry": {
+       "coordinates": [
+        22.679749012638013,
+        75.92032612312234
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+      "stationid": [3833, 3814],
+       "name": "Lal Bagh"
+      },
+      "geometry": {
+       "coordinates": [
+        22.705250334913117,
+        75.84581804655753
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4058,
+       "name": "Lantern Chowk"
+      },
+      "geometry": {
+       "coordinates": [
+        22.724088051991007,
+        75.87402354222668
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4056,
+       "name": "Lasudia"
+      },
+      "geometry": {
+       "coordinates": [
+        22.784862783234434,
+        75.90560699959119
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4056,
+       "name": "Lasudiya Parmar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.848621678325355,
+        75.9493808526355
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4063,
+       "name": "Lavkush Chouraha"
+      },
+      "geometry": {
+       "coordinates": [
+        22.79019516315616,
+        75.84708722883555
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Laxmi Bai Railway Station"
+      },
+      "geometry": {
+       "coordinates": [
+        22.745496019091828,
+        75.85735894729407
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 3790,
+       "name": "Laxmibai Mandi"
+      },
+      "geometry": {
+       "coordinates": [
+        22.730419156660552,
+        75.83650972883555
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4062,
+       "name": "Lokhande Bridge"
+      },
+      "geometry": {
+       "coordinates": [
+        22.728195052139544,
+        75.85981618650666
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4088,
+       "name": "M I G Police Station Or Atal Dwar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.73701089535803,
+        75.88493709815108
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4065,
+       "name": "M O G Lines Road"
+      },
+      "geometry": {
+       "coordinates": [
+        22.70849135999333,
+        75.84156118650665
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4066,
+       "name": "M R 10"
+      },
+      "geometry": {
+       "coordinates": [
+        22.764127572483844,
+        75.87048999918237
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4063,
+       "name": "M R-10 Road Bridge"
+      },
+      "geometry": {
+       "coordinates": [
+        22.768797045048892,
+        75.86516849674531
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4225,
+       "name": "M R-10 Toll Plaza"
+      },
+      "geometry": {
+       "coordinates": [
+        22.77568224708019,
+        75.85993282499273
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4067,
+       "name": "M T H"
+      },
+      "geometry": {
+       "coordinates": [
+        22.718777330676225,
+        75.86457119118589
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4158,
+       "name": "M Y Chauraha"
+      },
+      "geometry": {
+       "coordinates": [
+        22.712306845306077,
+        75.88024110184892
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4068,
+       "name": "M Y Hospital"
+      },
+      "geometry": {
+       "coordinates": [
+        22.712781894250384,
+        75.87966174472875
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4064,
+       "name": "M Y Hospital Bus Stand"
+      },
+      "geometry": {
+       "coordinates": [
+        22.71307879900338,
+        75.87873906487071
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4068,
+       "name": "M Y Hospital Gate"
+      },
+      "geometry": {
+       "coordinates": [
+        22.712845434184647,
+        75.87855226491155
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4068,
+       "name": "M Y Tempo Stand"
+      },
+      "geometry": {
+       "coordinates": [
+        22.71215645805968,
+        75.88045345197273
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4070,
+       "name": "Machli Farm House"
+      },
+      "geometry": {
+       "coordinates": [
+        22.656817681596607,
+        75.8851211656177
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4071,
+       "name": "Madhumilan Chauraha"
+      },
+      "geometry": {
+       "coordinates": [
+        22.714334823190526,
+        75.87417892573106
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4254,
+       "name": "Mahak Vatika"
+      },
+      "geometry": {
+       "coordinates": [
+        22.740405526775866,
+        75.90865593243116
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4073,
+       "name": "Mahalaxmi Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.753783567294732,
+        75.90713449075545
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 3934,
+       "name": "Maharaja Ranjit Singh College"
+      },
+      "geometry": {
+       "coordinates": [
+        22.679732283978097,
+        75.87717689210574
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Maharana Pratap Chowk"
+      },
+      "geometry": {
+       "coordinates": [
+        22.073386374106477,
+        82.13794109999999
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4074,
+       "name": "Mahesh Gaurd Line Or Police Line Pump"
+      },
+      "geometry": {
+       "coordinates": [
+        22.73321989916602,
+        75.8465067475724
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4075,
+       "name": "Malganj Chouraha"
+      },
+      "geometry": {
+       "coordinates": [
+        22.71555957596517,
+        75.84634456616867
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4075,
+       "name": "Malgunj"
+      },
+      "geometry": {
+       "coordinates": [
+        22.7153872028726,
+        75.84619199961276
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": [4076,12],
+       "name": "Malviya Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.7420637579896,
+        75.89729726813754
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4358,4223],
+       "name": "Malviya Petrol Pump"
+      },
+      "geometry": {
+       "coordinates": [
+        22.742187170602236,
+        75.89580617250765
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4078,
+       "name": "Malwa Mill"
+      },
+      "geometry": {
+       "coordinates": [
+        22.734411687920105,
+        75.87495560252535
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 3769,
+       "name": "Mamaji Ka Dhaba"
+      },
+      "geometry": {
+       "coordinates": [
+        22.634030876279287,
+        75.80942845456279
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Mamta Colony Or Ganesh Mandir"
+      },
+      "geometry": {
+       "coordinates": [
+        22.731769153537737,
+        75.91307676951482
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4082,
+       "name": "Manavta Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.72687127073556,
+        75.92818028815117
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4357,
+       "name": "Mangliya"
+      },
+      "geometry": {
+       "coordinates": [
+        22.81778055691668,
+        75.92659059697853
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3824,
+       "name": "Manik Baag Bridge"
+      },
+      "geometry": {
+       "coordinates": [
+        22.69877115322802,
+        75.8549669998978
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4083,
+       "name": "Mari Mata Square"
+      },
+      "geometry": {
+       "coordinates": [
+        22.73396773826073,
+        75.84944764417779
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Marod Fata"
+      },
+      "geometry": {
+       "coordinates": [
+        22.68463390498018,
+        76.06459089698491
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Maruti Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.754898650173633,
+        75.87423890519148
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4084,
+       "name": "Mayur Hospital"
+      },
+      "geometry": {
+       "coordinates": [
+        22.725241753676894,
+        75.90530274103094
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 3800,
+       "name": "Medicaps College"
+      },
+      "geometry": {
+       "coordinates": [
+        22.6205123709968,
+        75.80110161015041
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4085,
+       "name": "Meghadut Garden"
+      },
+      "geometry": {
+       "coordinates": [
+        22.752454333901696,
+        75.88845565791084
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4235,3812, 4086],
+       "name": "Mhow Naka"
+      },
+      "geometry": {
+       "coordinates": [
+        22.704870394905182,
+        75.8425112221087
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4235, 4086],
+       "name": "Mhow Naka"
+      },
+      "geometry": {
+       "coordinates": [
+        22.7049478244194,
+        75.84301482595012
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4235,
+       "name": "Mhow Naka Annapurna Road"
+      },
+      "geometry": {
+       "coordinates": [
+        22.70490910966776,
+        75.84348065950344
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4235,
+       "name": "Mhow Naka Complex"
+      },
+      "geometry": {
+       "coordinates": [
+        22.705233683654036,
+        75.84413445372044
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4180,
+       "name": "Modern Square"
+      },
+      "geometry": {
+       "coordinates": [
+        22.76423783491123,
+        75.84760162950859
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4179,
+       "name": "Moni Baba Ashram"
+      },
+      "geometry": {
+       "coordinates": [
+        22.76878817244554,
+        75.84782831306453
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {"stationid": 4367,
+       "name": "Mppt"
+      },
+      "geometry": {
+       "coordinates": [
+        22.623853951626835,
+        75.886352
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4351,
+       "name": "Mukti Dham"
+      },
+      "geometry": {
+       "coordinates": [
+        22.74008016753057,
+        75.8712654455008
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4089,
+       "name": "Musakhedi Ring Road"
+      },
+      "geometry": {
+       "coordinates": [
+        22.692975538463003,
+        75.89960395035513
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4236,
+       "name": "Musakhedi Sabji Mandi"
+      },
+      "geometry": {
+       "coordinates": [
+        22.693819084035496,
+        75.89642556269682
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stationid": 4160,
+       "name": "Musakhedi Sawariya Mandir"
+      },
+      "geometry": {
+       "coordinates": [
+        22.692192241490158,
+        75.90887787623836
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4092,
+       "name": "Nagar Nigam"
+      },
+      "geometry": {
+       "coordinates": [
+        22.72402259416022,
+        75.85939899918236
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {"stationid": 4439,
+       "name": "Nai Duniya"
+      },
+      "geometry": {
+       "coordinates": [
+        22.748530612655642,
+        75.88994348500346
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4227,
+       "name": "Nai Sadak"
+      },
+      "geometry": {
+       "coordinates": [
+        22.766745411124962,
+        75.90046427116445
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4093,         
+"name": "Naka Bhatta"
+      },
+      "geometry": {
+       "coordinates": [
+        22.741397578799695,
+        75.86802377911103
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Nakhrali Dhani"
+      },
+      "geometry": {
+       "coordinates": [
+        22.637296048857618,
+        75.80075
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4094,
+       "name": "Nanda Nagar"
+      },
+      "geometry": {
+       "coordinates": [
+        22.742305167473116,
+        75.87641643678216
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "name": "Nandbagh Colony"
+      },
+      "geometry": {
+       "coordinates": [
+        22.75002295312389,
+        75.83460633215525
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4201,
+       "name": "Nandlalpura"
+      },
+      "geometry": {
+       "coordinates": [
+        22.716398344289097,
+        75.85814784127957
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+     {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4320,
+       "name": "Narmada Chouraha"
+      },
+      "geometry": {
+       "coordinates": [
+        22.675935603149277,
+        75.82557699553244
+       ],
+       "type": "Point"
+      },
+      "id": 3
+     },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "Narmada Chouraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.675824312872763,
+          75.82567866306078
+        ],
+        "type": "Point"
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4237,
+        "name": "Narmada Project"
+      },
+      "geometry": {
+        "coordinates": [
+          22.670992500741946,
+    75.83374944788096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4106,
+        "name": "Narsingh Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71556692696832,
+          75.84947474784235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "name": "Narsinghgarh"
+        },
+        "geometry": {
+          "coordinates": [
+            23.711805257787866, 77.09588406673349
+          ],
+          "type": "Point"
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4178,
+          "name": "Narval"
+        },
+        "geometry": {
+          "coordinates": [
+            22.798981139075526, 75.84276497785908
+          ],
+          "type": "Point"
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nasrullaganj"
+      },
+      "geometry": {
+        "coordinates": [
+          22.696059070792927,
+          77.2730069771523
+        ],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+"stationid": 4271,
+        "name": "Nath Mandir Or Samrat Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          22.719418687707204,
+          75.87732080243173
+        ],
+        "type": "Point"
+      }  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navda Panth"
+      },
+      "geometry": {
+        "coordinates": [
+          22.69106297300553,
+          75.76920669285113
+        ],
+        "type": "Point"
+      }  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4096,
+        "name": "Navlakha Bus Stand"
+      },
+      "geometry": {
+        "coordinates": [
+            22.70162865532776, 75.87655616425249
+        ],
+        "type": "Point"
+      }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": [32,4098],
+          "name": "Navlakha Chouraha"
+        },
+        "geometry": {
+          "coordinates": [
+            22.699228134620988, 75.87796520939557
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "name": "Navneet Garden Crossing"
+        },
+        "geometry": {
+          "coordinates": [
+            22.677258984766624, 75.83129103709445
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4208,
+          "name": "Navneet Tower Or Saket Nagar"
+        },
+        "geometry": {
+          "coordinates": [
+            22.735126379445607, 75.8909958009396
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+"stationid": 4348,
+          "name": "Naw Factory"
+        },
+        "geometry": {
+          "coordinates": [
+            22.695769801152476, 75.91421112904158
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4101,
+          "name": "Naya Basera"
+        },
+        "geometry": {
+          "coordinates": [
+            22.743370357668056, 75.89131939466708
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4256,
+          "name": "Nayta Mundla"
+        },
+        "geometry": {
+          "coordinates": [
+            22.664878758845973, 75.91567544393693
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4248,
+          "name": "Nayta Mundla By Pass"
+        },
+        "geometry": {
+          "coordinates": [
+            22.66527548881022, 75.91542653578482
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4332,
+          "name": "Nehru Park Railway Station"
+        },
+        "geometry": {
+          "coordinates": [
+            22.724812627822647, 75.86893668212626
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "name": "Nemawar"
+        },
+        "geometry": {
+          "coordinates": [
+            22.684169931859277, 75.91799873763256
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "name": "Netralaya"
+        },
+        "geometry": {
+          "coordinates": [
+            22.671372586313407, 75.89239573271598
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "name": "Nevri Fata"
+        },
+        "geometry": {
+          "coordinates": [
+            22.855334121058082, 76.25182791308322
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4103,
+          "name": "Nipania Bus Stop"
+        },
+        "geometry": {
+          "coordinates": [
+            22.74312822074487, 75.90238390161869
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "stationid": 4103,
+          "name": "Nipaniya Chouraha"
+        },
+        "geometry": {
+          "coordinates": [
+            22.818513209196837, 75.90765800301064
+          ],
+          "type": "Point"
+        }  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 4349,
+        "name": "Nirmal Dham"
+      },
+      "geometry": {
+        "coordinates": [
+          22.74423569785367, 75.95877027238501
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4105,
+        "name": "Noorani Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.704611389000743, 75.81066002568326
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Omax City By Pass"
+      },
+      "geometry": {
+        "coordinates": [
+          22.775478053060738, 75.93593733064348
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Pachore"
+      },
+      "geometry": {
+        "coordinates": [
+          23.7136658328664, 76.7307256507712
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Pagari"
+      },
+      "geometry": {
+        "coordinates": [
+          23.796622080414036, 76.97836714259972
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [20,4108, 21],
+        "name": "Palasia"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72380887309865, 75.88670037684862
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4108,
+        "name": "Palasia Badwani Plaza"
+      },
+      "geometry": {
+        "coordinates": [
+          22.724774418992375, 75.8889503803066
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "stationid": 3868,
+      "name": "Badwani Plaza"
+    },
+    "geometry": {
+      "coordinates": [
+        22.724774418992375, 75.8889503803066
+      ],
+      "type": "Point"
+    }  
+},
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4109,
+        "name": "Palda Naka"
+      },
+      "geometry": {
+        "coordinates": [
+          22.685509980995405, 75.88943418650972
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3820,
+        "name": "Palsikar Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          22.705156502009867, 75.85685545309528
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4028,
+        "name": "Palsikar School Or Jabran Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          22.70802723155158, 75.85890226681579
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4110,
+        "name": "Panch Sheel"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72731526575032, 75.83377059640983
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4111,
+        "name": "Panchwati"
+      },
+      "geometry": {
+        "coordinates": [
+          22.792545028000287, 75.90511074700312
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4015, 4193,4424],
+        "name": "Pandrinath"
+      },
+      "geometry": {
+        "coordinates": [
+          22.715082042798645, 75.85678507052799
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 4319,
+        "name": "Paraspar Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.67586133554041, 75.82350434998203
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4112,
+        "name": "Pardeshipura"
+      },
+      "geometry": {
+        "coordinates": [
+          22.74516384709389, 75.87173076732566
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4112, 4153],
+        "name": "Pardesipura Police Station"
+      },
+      "geometry": {
+        "coordinates": [
+          22.744683279372385, 75.8735589573527
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Parmanu Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.66390454795412, 75.81196653684424
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3844,
+        "name": "Patel Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          22.715959293401816, 75.86885049714408
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4114,
+        "name": "Patnipura"
+      },
+      "geometry": {
+        "coordinates": [
+          22.740451238012827, 75.88152115728765
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4118,
+        "name": "Patrakar Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72234638600653, 75.89534965427994
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Patwa"
+      },
+      "geometry": {
+        "coordinates": [
+          22.90496343663854, 75.90724219084917
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3907,
+        "name": "Pawanpuri Colony Or S R Pump"
+      },
+      "geometry": {
+        "coordinates": [
+          22.689834065885044, 75.8896945551809
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3917,4212,4213],
+        "name": "Phooti Kothi Chouraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.693923165284335, 75.82806684755023
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3917,
+        "name": "Phooti Kothi Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.693923165284335, 75.82806684755023
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4264,
+        "name": "Pink City"
+      },
+      "geometry": {
+        "coordinates": [
+          22.698679757345747, 75.90692637399046
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4119,
+        "name": "Pipli Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.716348498620146, 75.85353348191322
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {"stationid": 4121,
+        "name": "Piplyahana Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.70560825975034, 75.90534425111547
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirkaradiya"
+      },
+      "geometry": {
+        "coordinates": [
+          22.889094808387608, 75.9726205932266
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4385,
+        "name": "Pitra Parvat"
+      },
+      "geometry": {
+        "coordinates": [
+          22.757602596119984, 75.77256559565402
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4377,
+        "name": "Pivday"
+      },
+      "geometry": {
+        "coordinates": [
+          22.630277429799197, 76.0315952840155
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4123,
+        "name": "Polo Ground"
+      },
+      "geometry": {
+        "coordinates": [
+          22.73417937748688, 75.8498556941407
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4125, 4124],
+        "name": "Power House"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72155670733977, 75.8442734551819
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Power House Dudhiya"
+      },
+      "geometry": {
+        "coordinates": [
+          22.676699066788803, 75.95388679936337
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Patnipura"
+      },
+      "geometry": {
+        "coordinates": [
+          22.740451238012827, 75.88152115728765
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Prabhu Toll Kata"
+      },
+      "geometry": {
+        "coordinates": [
+          22.686803953814387, 75.90688001285397
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4128, 4127],
+        "name": "Prakash Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.69672008611144, 75.87991125372051
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Pratiksha Dhaba"
+      },
+      "geometry": {
+        "coordinates": [
+          22.73996339552919, 75.91038211642496
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3822,
+        "name": "Prem Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.701939891439107, 75.85247183260873
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4132,
+        "name": "Pushpkunj Hospital"
+      },
+      "geometry": {
+        "coordinates": [
+          22.65287190046575, 75.88482576681396
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Pushpratan Park"
+      },
+      "geometry": {
+        "coordinates": [
+          22.680423030413376, 75.93008580191334
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4156,
+        "name": "Radha Swami"
+      },
+      "geometry": {
+        "coordinates": [
+          22.68975225222711, 75.88280791867122
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3805,
+        "name": "Raj Mohalla Chowk"
+      },
+      "geometry": {
+        "coordinates": [
+          22.71539851246636, 75.84111024540348
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4375,
+        "name": "Rajdhara"
+      },
+      "geometry": {
+        "coordinates": [
+          22.638589772689233, 75.97205657092083
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3949, 3774],
+        "name": "Rajendra Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.671356966216162, 75.82741776852424
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajgarh"
+      },
+      "geometry": {
+        "coordinates": [
+          22.67880449628765, 74.9462270655901
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [38,39],
+        "name": "Rajiv Gandhi Chouraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.683021062282652, 75.85732003797831
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3948,
+        "name": "Rajkumar Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          22.728985279997122, 75.8686113596358
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3945,
+        "name": "Rajwada Circle"
+      },
+      "geometry": {
+        "coordinates": [
+          22.718540379388077, 75.8556478533258
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4305, 3943],
+        "name": "Ram Bagh"
+      },
+      "geometry": {
+        "coordinates": [
+          22.731766069490487, 75.85858338682247
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Ram Pipliya"
+      },
+      "geometry": {
+        "coordinates": [
+          22.84302109755709, 75.91849214770316
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3941,
+        "name": "Rambali Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.737461979374586, 75.84440572448985
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3938,
+        "name": "Ramchandra Pump Or A P T C"
+      },
+      "geometry": {
+        "coordinates": [
+          22.722333110113944, 75.83442403005743
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3936,
+        "name": "Rani Sati Garden"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72885520593089, 75.87480160678912
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3933,
+        "name": "Ranjeet Hanuman Mandir"
+      },
+      "geometry": {
+        "coordinates": [
+          22.700679423620738, 75.8355009463273
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3932,
+        "name": "Rasoma Chauraha"
+      },
+      "geometry": {
+        "coordinates": [
+          22.749321132925335, 75.89537113191433
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3773,
+        "name": "Rau Bus Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          22.639367259241865, 75.80678295017172
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3766,
+        "name": "Rau Bypass"
+      },
+      "geometry": {
+        "coordinates": [
+          22.628921743168963, 75.80724511099605
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {"stationid": 4435,
+        "name": "Rau Rangwasa Chourah"
+      },
+      "geometry": {
+        "coordinates": [
+          22.643302344653172, 75.79042800041964
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3915,4145],
+        "name": "Regal Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.719996383073227, 75.8710332324115
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3927,
+        "name": "Relax Garden Or Krishna Kunj Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          22.68958105127451, 75.8259574030758
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Renaissance College"
+      },
+      "geometry": {
+        "coordinates": [
+          22.736610181762074, 75.8961098379801
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4316,
+        "name": "Reti Mandi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.663242472494513, 75.82309231681428
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4316,
+        "name": "Reti Mandi Ab Road"
+      },
+      "geometry": {
+        "coordinates": [
+          22.663242472494513, 75.82309231681428
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4316,
+        "name": "Reti Mandi Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.663242472494513, 75.82309231681428
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 4499,
+        "name": "Rewati Range"
+      },
+      "geometry": {
+        "coordinates": [
+          22.80984676720837, 75.84769080914593
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4233, 4234],
+        "name": "River Side Or Krishnapura Pull"
+      },
+      "geometry": {
+        "coordinates": [
+          22.719811557365112, 75.85845965889388
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+         "stationid": 4263,
+        "name": "Roberts Nursing Home"
+      },
+      "geometry": {
+        "coordinates": [
+          22.711107294467226, 75.88918410072228
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3912,
+        "name": "Royal Bangla"
+      },
+      "geometry": {
+        "coordinates": [
+          22.765037425571986, 75.87546219719242
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": [3914, 3912],
+        "name": "Royal Bungalow"
+      },
+      "geometry": {
+        "coordinates": [
+          22.765037425571986, 75.87546219719242
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [3951, 4258],
+        "name": "Rto Office"
+      },
+      "geometry": {
+        "coordinates": [
+          22.675511377069654, 75.9095555398341
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4359,
+        "name": "Ruchi Soya"
+      },
+      "geometry": {
+        "coordinates": [
+          22.80520221182586, 75.91700253377216
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4190,
+        "name": "Sadar Bazar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.727094633876845, 75.85147901751486
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4189,
+        "name": "Sadar Bazar Water Tank"
+      },
+      "geometry": {
+        "coordinates": [
+          22.73067587838774, 75.85171503288075
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 4200,
+        "name": "Sai Niwas"
+      },
+      "geometry": {
+        "coordinates": [
+          22.686663460338956, 75.82482272448824
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3826,
+        "name": "Saifee Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.696724484094695, 75.85724867864695
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3826,
+        "name": "Saify Square"
+      },
+      "geometry": {
+        "coordinates": [
+          22.693680116297703, 75.85419222352202
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "name": "Salkanpur"
+      },
+      "geometry": {
+        "coordinates": [
+          22.698577947419988, 75.87831467609556
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4373,
+        "name": "Sanawadiya"
+      },
+      "geometry": {
+        "coordinates": [
+          22.660662388509845, 75.9383197147091
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": 3911,
+        "name": "Sanchar Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          22.720982765692515, 75.9180881902228
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+"stationid": [3786,3939],
+        "name": "Sangam Nagar Road"
+      },
+      "geometry": {
+        "coordinates": [
+          22.73746062497489, 75.83727494354821
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 3978,
+        "name": "Sanghi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.72951059004258, 75.88945147659467
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": [4205, 3976],
+        "name": "Sanjay Setu"
+      },
+      "geometry": {
+        "coordinates": [
+          22.718310522457006, 75.85948585518179
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {"stationid": 4501,
+        "name": "Sanwer"
+      },
+      "geometry": {
+        "coordinates": [
+          22.766596352346095, 75.84739868231148
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "stationid": 4315,
+        "name": "Sapna Sangeeta"
+      },
+      "geometry": {
+        "coordinates": [
+          22.699129104671627, 75.86712959193999
+        ],
+        "type": "Point"
+      }  
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Sarangpur"
+    },
+    "geometry": {
+      "coordinates": [
+        23.573282339449683, 76.47819116374717
+      ],
+      "type": "Point"
+    }  
+  },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "stationid": 4247,
+          "name": "Sarwate Bus Depot"
+        },
+      "geometry": {
+        "coordinates": [
+          22.714006558728627, 75.86952431380261
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [8,3973],
+          "name": "Satya Sai Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.714006558728627, 75.86952431380261
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3972,
+          "name": "Sayaji Petrol Pump"
+        },
+      "geometry": {
+        "coordinates": [
+          22.751925032215038, 75.89113818025902
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Scheme No 140"
+        },
+      "geometry": {
+        "coordinates": [
+          22.703820643657277, 75.91772524444747
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Scheme No 140 Jmb"
+        },
+      "geometry": {
+        "coordinates": [
+          22.704417692212825, 75.91290158768275
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3971,
+          "name": "Scheme No 51 Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.743596451148, 75.83694117363497
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 5,
+          "name": "Scheme Number 78"
+        },
+      "geometry": {
+        "coordinates": [
+          22.76575706472481, 75.88600629665606
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "School Of Pharmacy"
+        },
+      "geometry": {
+        "coordinates": [
+          22.79939484768898, 75.9331012744766
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Semliya Chau"
+        },
+      "geometry": {
+        "coordinates": [
+          22.76485126230484, 76.07420412719101
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4343,
+          "name": "Sewa Kunj"
+        },
+      "geometry": {
+        "coordinates": [
+          22.740373824896395, 75.97229113186151
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shajapur"
+        },
+      "geometry": {
+        "coordinates": [
+          23.422507098883354, 76.28810201227806
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shalby Hospital"
+        },
+      "geometry": {
+        "coordinates": [
+          22.729579813499974, 75.88020506569367
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [6,3969],
+          "name": "Shalimar Township"
+        },
+      "geometry": {
+        "coordinates": [
+          22.763034450270037, 75.89930173693554
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shangri La"
+        },
+      "geometry": {
+        "coordinates": [
+          22.796919733422488, 75.92184797125616
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3968,
+          "name": "Shanti Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.720486057672414, 75.89022315873433
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shastri Bridge"
+        },
+      "geometry": {
+        "coordinates": [
+          22.720065150654673, 75.86858954850213
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {"stationid": 4393,
+          "name": "Shell City"
+        },
+      "geometry": {
+        "coordinates": [
+          22.561847348963934, 75.91047273370577
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 1127,
+          "name": "Shikshak Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.725971894110636, 75.82546486510992
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [3966,4436],
+          "name": "Shiv Chowk Rangwasa"
+        },
+      "geometry": {
+        "coordinates": [
+          22.64346366591788, 75.78919706665644
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shiv Mandir 8 Meel"
+        },
+      "geometry": {
+        "coordinates": [
+          22.681841658253532, 75.99054620062522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"stationid": 3964,
+          "name": "Shiv Shakti Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.720002171022056, 75.91219634433044
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 26,
+          "name": "Shivaji Vatika"
+        },
+      "geometry": {
+        "coordinates": [
+          22.711476953707354, 75.88281723516586
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4451,
+          "name": "Shivalik Parishar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.67757794759435, 75.9406124565234
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shivnagar Chouraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.68558724730507, 75.90998572446397
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 3780,
+          "name": "Shramik Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.64303642805429, 75.81762516446909
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4191,
+          "name": "Shree Krishna Talkies"
+        },
+      "geometry": {
+        "coordinates": [
+          22.720147527710324, 75.85939445330051
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4054,
+          "name": "Shree Krishna Talkies Or Krishn Pura Or Sanjay Setu"
+        },
+      "geometry": {
+        "coordinates": [
+          22.71815670464345, 75.85936660007609
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4444,
+          "name": "Shree Vinayak"
+        },
+      "geometry": {
+        "coordinates": [
+          22.68394634755741, 75.93121211522234
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3781,
+          "name": "Shreenath Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.73620109861782, 75.83058831928611
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shri Vaishnav Dham"
+        },
+      "geometry": {
+        "coordinates": [
+          22.70197686375489, 75.92354699587675
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+         "stationid": 3876,
+          "name": "Shri Vidya Dham"
+        },
+      "geometry": {
+        "coordinates": [
+          22.72584421872209, 75.820527168643
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 4259,
+          "name": "Shubha City"
+        },
+      "geometry": {
+        "coordinates": [
+          22.678860207372075, 75.89967251375805
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Shyam Heights"
+        },
+      "geometry": {
+        "coordinates": [
+          22.692046095824935, 75.9294029408303
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4321,
+          "name": "Siddhipuram"
+        },
+      "geometry": {
+        "coordinates": [
+          22.655264337124294, 75.80602878958737
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3783,
+          "name": "Silicon City"
+        },
+        "geometry": {
+          "coordinates": [
+            22.648829719190225, 75.82045210182461
+          ],
+          "type": "Point"
+        }
+      
+},
+  
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3960,
+          "name": "Silicon City Gate"
+        },
+      "geometry": {
+        "coordinates": [
+          22.649142260776042, 75.82019810797055
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Silver Springs"
+        },
+      "geometry": {
+        "coordinates": [
+          22.658276920271796, 75.91025228616509
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {"stationid": 4265,
+          "name": "Simrol"
+        },
+      "geometry": {
+        "coordinates": [
+          22.538402132737104, 75.9127162929985
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3962,
+          "name": "Sindhi Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.70092265815289, 75.86294645753973
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3961,
+          "name": "Sirpur"
+        },
+      "geometry": {
+        "coordinates": [
+          22.707241548829384, 75.82083824135943
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3958,
+          "name": "Smriti Talkies"
+        },
+      "geometry": {
+        "coordinates": [
+          22.722797382405854, 75.85285199562941
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Sonkatch Bus Stand"
+        },
+      "geometry": {
+        "coordinates": [
+          22.97516822348979, 76.34331073796493
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4345,
+          "name": "Spring Valley"
+        },
+      "geometry": {
+        "coordinates": [
+          22.806179425265732, 75.85275224314523
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "St Norbert School"
+        },
+      "geometry": {
+        "coordinates": [
+          22.655489970411104, 75.80547315865692
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 4206,
+          "name": "Star Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.74580397418211, 75.92176092686483
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3956,
+          "name": "Subhash Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.743134654407942, 75.87048084090816
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": [3953, 4182],
+          "name": "Sukhliya"
+        },
+      "geometry": {
+        "coordinates": [
+          22.761515616412268, 75.87466199952702
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Sukliya"
+        },
+      "geometry": {
+        "coordinates": [
+          22.762742381188893, 75.87320287788901
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3937,
+          "name": "Summer Park"
+        },
+      "geometry": {
+        "coordinates": [
+          22.76310037508835, 75.92187989285787
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3952,
+          "name": "Sun City"
+        },
+      "geometry": {
+        "coordinates": [
+          22.753057087484578, 75.9151365314672
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Sunidhi Tol Kanta"
+        },
+      "geometry": {
+        "coordinates": [
+          22.67864668432741, 75.96865972446379
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {"stationid": 4382,
+          "name": "Super Corridor"
+        },
+      "geometry": {
+        "coordinates": [
+          22.736148596745945, 75.79544966050612
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 3759,
+          "name": "Suraj Bali Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.740084192117067, 75.82340862261641
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 4218,
+          "name": "Surya Dev Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.681015134047183, 75.82118010163325
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {"stationid": 4437,
+          "name": "Surya Mandir"
+        },
+      "geometry": {
+        "coordinates": [
+          22.661330083763783, 75.8036191711901
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": [4364, 4394],
+          "name": "Swami Vivekanand College"
+        },
+      "geometry": {
+        "coordinates": [
+          22.597591151728903, 75.8916183271144
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid":[ 4355,4480],
+          "name": "Talawali Chanda"
+        },
+      "geometry": {
+        "coordinates": [
+          22.799415415122116, 75.91786626890823
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4355,
+          "name": "Talawali Chanda Panchayat"
+        },
+      "geometry": {
+        "coordinates": [
+          22.80313421526819, 75.91443304152467
+        ],
+        "type": "Point"
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [3980,35],
+          "name": "Tantya Bheel Chouraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.692965925298033, 75.86878630534876
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3980,
+          "name": "Tantya Bheel Chouraha Police Station"
+        },
+      "geometry": {
+        "coordinates": [
+          22.691955848700555, 75.86792897663605
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3980,
+          "name": "Tantya Bheel Chouraha Tempo Stand"
+        },
+      "geometry": {
+        "coordinates": [
+          22.693231599886253, 75.867256963519
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4354,
+          "name": "Tata Tower And Godown"
+        },
+      "geometry": {
+        "coordinates": [
+          22.769978358283517, 75.84909151929385
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {"stationid": 4468,
+          "name": "Tcs Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.77238879655464, 75.8198223937817
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3903,
+          "name": "Teen Imli"
+        },
+      "geometry": {
+        "coordinates": [
+          22.68776985376947, 75.8842274263131
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3900,
+          "name": "Teen Puliya"
+        },
+      "geometry": {
+        "coordinates": [
+          22.74380840882222, 75.87430823481102
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 4260,
+          "name": "Tejaji Chowk"
+        },
+      "geometry": {
+        "coordinates": [
+          22.68154073160127, 75.89518211799935
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3899,
+          "name": "Tejaji Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.63919736702046, 75.88847438081481
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4135,
+          "name": "Telephone Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.72223940382575, 75.90233939505367
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4450,
+          "name": "Tigariya Badshah"
+        },
+      "geometry": {
+        "coordinates": [
+          22.76078729161285, 75.82904636543527
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3894,
+          "name": "Timber Market"
+        },
+      "geometry": {
+        "coordinates": [
+          22.711338545917208, 75.83488326864256
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [3891, 4331],
+          "name": "Tirupati Nagar Or Patel Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.723351546111903, 75.82975209278104
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Todi"
+        },
+      "geometry": {
+        "coordinates": [
+          22.863175207438996, 75.90627721392484
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4500,
+          "name": "Toll Naka"
+        },
+      "geometry": {
+        "coordinates": [
+          22.628215688281365, 75.78565553795578
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [3890, 3889],
+          "name": "Tower Chouraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.698815803034037, 75.86443324590387
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Treasure Island"
+        },
+      "geometry": {
+        "coordinates": [
+          22.721887603084305, 75.8786561398073
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4371,
+          "name": "Trenching Ground Indore"
+        },
+      "geometry": {
+        "coordinates": [
+          22.67846060718301, 75.92454387843684
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4496,
+          "name": "Trimala Pride"
+        },
+      "geometry": {
+        "coordinates": [
+          22.77833484498465, 75.87515510467748
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Triveni Square"
+        },
+      "geometry": {
+        "coordinates": [
+          22.742828767440358, 75.84069963980782
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3886,
+          "name": "Tulsi Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.753254438670627, 75.91903708422618
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Udankhedi"
+        },
+      "geometry": {
+        "coordinates": [
+          23.670678532263764, 76.62818787581821
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4370,
+          "name": "Udyog Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.68741592286151, 75.9002968132775
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4268,
+          "name": "Ujjaini"
+        },
+      "geometry": {
+        "coordinates": [
+          22.65096060442725, 75.99010664622911
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Umaria Phata"
+        },
+      "geometry": {
+        "coordinates": [
+          22.600848572578734, 75.79122524433903
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Umiya Girls College"
+        },
+      "geometry": {
+        "coordinates": [
+          22.641446861608085, 75.79980280912052
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {"stationid": 4364,
+          "name": "Umri Kheda"
+        },
+      "geometry": {
+        "coordinates": [
+          22.606271378411055, 75.89160467160058
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3884,
+          "name": "Usha Nagar Or Dashera Maidan"
+        },
+      "geometry": {
+        "coordinates": [
+          22.697013041076236, 75.83931118213548
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 3885,
+          "name": "Vaibhav Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.721553851051137, 75.91537757049187
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3881,
+          "name": "Vaishali Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.683376720410763, 75.8295197444061
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 4498,
+          "name": "Vaishnav Collage"
+        },
+      "geometry": {
+        "coordinates": [
+          22.717655931126465, 75.86423075879607
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 3878,           
+"name": "Veena Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.758976138835468, 75.87006743678043
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {"stationid": 3877,
+          "name": "Velocity Talkies"
+        },
+      "geometry": {
+        "coordinates": [
+          22.745525818555414, 75.90285977474068
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 3875,
+          "name": "Vidhyanjali School"
+        },
+      "geometry": {
+        "coordinates": [
+          22.698118504516927, 75.79316127105656
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": [10,4150],
+          "name": "Vijay Nagar"
+        },
+      "geometry": {
+        "coordinates": [
+          22.751047626071774, 75.8955075218485
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 4150,
+          "name": "Vijay Nagar Police Chowki"
+        },
+      "geometry": {
+        "coordinates": [
+          22.75160340103511, 75.89502299218316
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+       "stationid": 4198,
+          "name": "Vijay Nagar Police Station Or Mangal City"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7518507514796, 75.89590275670018
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+           "stationid": 4150,
+          "name": "Vijay Nagar Zonal"
+        },
+      "geometry": {
+        "coordinates": [
+          22.751187851280253, 75.89466894060922
+
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "stationid": 3874,
+          "name": "Vikas Pradhikaran"
+        },
+      "geometry": {
+        "coordinates": [
+          22.729330645566225, 75.8788683658315
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "Visranti Chauraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.7368327628535, 75.87079860542505
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 4186,
+          "name": "Vrindavan Colony"
+        },
+      "geometry": {
+        "coordinates": [
+          22.740200589406744, 75.8501466326102
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": [4158, 4269],
+          "name": "White Church"
+        },
+      "geometry": {
+        "coordinates": [
+          22.710522970402632, 75.88346890967262
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "White Church Chauraha"
+        },
+      "geometry": {
+        "coordinates": [
+          22.710899055853638, 75.88581852466324
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "name": "White Church Or Shivaji Park"
+        },
+      "geometry": {
+        "coordinates": [
+          22.71143349129619, 75.88357619802835
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 3760,
+          "name": "Yadav Dharmashala"
+        },
+      "geometry": {
+        "coordinates": [
+          22.738636513634276, 75.82530828268673
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+          "stationid": 4031,
+          "name": "Zam Zam Chauhara"
+        },
+      "geometry": {
+        "coordinates": [
+          22.731947783985778, 75.91311572446526
+        ],
+        "type": "Point"
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+"stationid": 3871,
+          "name": "Zoo"
+        },
+      "geometry": {
+        "coordinates": [
+          22.70454535257874, 75.87775630975136
+        ],
+        "type": "Point"
+      }
+    }
+    
+    
+
+  ]
+}
+

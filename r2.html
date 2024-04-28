@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Maps Route</title>
+    <style>
+        #map {
+            height: 700px;
+            width: 100%;
+
+        } 
+        .image-container {
+            display: inline-block;
+            overflow: hidden;
+        }
+        .minscale{
+            text-align: left;
+           
+        }
+        .maxscale{
+            text-align: right;
+            
+        }
+        
+    </style>
+
+    <script type="module" src="./m4.js" defer></script>
+</head>
+<body>
+    <form id="numberForm" style="display: none; top: 10px; padding-left: 25%; margin-top: 10px; margin-bottom: 10px; padding-right: 20%;" method="post">
+        <label for="numb">Enter a Starting time:</label>
+        <input type="time" id="numbstr" value="12:00" name="numbstr" required>
+        <label for="numb">Enter a Ending time:</label>
+        <input type="time" id="numbend"  value="13:00" name="numbend" required>
+        <button type="button" onclick="initMap()">Submit</button>
+    </form>
+    <div id="map"></div>
+    
+    <!-- <div class = "image-container" id="scale">
+        <img src="scale.png" class="bottom-right-image">
+    </div> -->
+    <div id="minmax">   </div>
+    <div id="scale">
+        
+        <img src="Science Google Form Header.png" alt="Italian Trulli" width="100%" height="200" >
+        
+        <!-- <table style="width:100%">
+            <td id="minscale" style="text-align:left; width:50%"></td>
+            <td id="maxscale" style="text-align:right; width:50%"></td>
+        </table> -->
+        <div id="minscale" style="text-align:left"></div>
+        <div id="maxscale" style="text-align:right"></div>
+    </div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtBAu7yPKe-hNQ9Xa3v70IhsXGgP9y1rE" async defer></script>
+    
+</body>
+</html>

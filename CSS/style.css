@@ -1,0 +1,2072 @@
+/* 
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com 
+Twitter: @rich_clark
+*/
+html {
+    width: 100%;
+    height: 100%;
+}
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+    nav ul {
+        list-style: none;
+    }
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after, q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    text-decoration: none;
+}
+/* change colours to suit your needs */
+ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+}
+/* change colours to suit your needs */
+mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom: 1px dotted;
+    cursor: help;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* change border colour to suit your needs */
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+input, select {
+    vertical-align: middle;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.overlay {
+    background: rgba(255,255,255,0.5);
+    float: left;
+    width: 100%;
+    height: 100vh;
+    z-index: 9;
+    position: absolute;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: #4f4f4f;
+}
+
+body {
+   /* background: url(../images/NewImages/video-img.jpg) no-repeat center;*/
+    width: 100%;
+    height: 100vh;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    transform: translate(0%, 0%);
+    z-index: -9;
+    min-height:100%;
+}
+
+#myvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.main {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    background: #81a527 !important;
+    z-index: 99;
+    padding: 0px;
+    width: 100%;
+    position: relative;
+    height: auto !important;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.logo {
+    background: url(../images/NewImages/logo-bg.png) no-repeat right top #fff;
+    margin: 0;
+    padding: 12px 15px 15px;
+    width: 18%;
+}
+
+    .logo h1 {
+        padding: 0;
+        margin: 0 0 0 18%;
+        float: left;
+    }
+
+.mid-title {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 60%;
+}
+
+    .mid-title h2 {
+        font-family: 'Noto Serif', serif;
+        font-size: 28px;
+        color: #fff;
+        font-weight: normal;
+        padding: 15px 0 0;
+    }
+
+.today-date {
+    margin: 0;
+    padding: 25px 30px 0 0;
+    float: right;
+}
+
+    .today-date span {
+        color: #85897b;
+        padding: 8px 15px;
+        border-radius: 5px;
+        background: #fff;
+    }
+
+.content {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.menu {
+    width: 100%;
+    padding: 10px 0 0;
+    margin: 0;
+    float: left;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+}
+
+    .menu ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+        .menu ul li {
+            display: inline-block;
+            padding: 0 12px;
+            margin: 20px 0;
+        }
+
+            .menu ul li a {
+                background: #fff;
+                color: #4d4d4d;
+                font-size: 18px;
+                padding: 10px 20px 10px 10px;
+                border-radius: 5px;
+                position: relative;
+                float: left;
+            }
+
+                .menu ul li a:hover, .menu ul li a.active {
+                    background: #808080;
+                    color: #fff;
+                }
+
+                .menu ul li a .search {
+                    background: url(../images/NewImages/search-icon.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+                .menu ul li a:hover .search, .menu ul li a.active .search {
+                    background: url(../images/NewImages/search-icon-white.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+                .menu ul li a .route {
+                    background: url(../images/NewImages/list-routes.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+                .menu ul li a:hover .route, .menu ul li a.active .route {
+                    background: url(../images/NewImages/list-routes-white.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+                .menu ul li a .location {
+                    background: url(../images/NewImages/list-stations.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+                .menu ul li a:hover .location, .menu ul li a.active .location {
+                    background: url(../images/NewImages/list-stations-white.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+                .menu ul li a .timing {
+                    background: url(../images/NewImages/bus-timing.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+                
+                .menu ul li a:hover .timing, .menu ul li a.active .timing {
+                    background: url(../images/NewImages/bus-timing-white.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+                   .menu ul li a .payment {
+                    background: url(../Images/NewImages/Payment.svg) no-repeat -10px center;
+                    width: 50px;
+                    height: 50px;
+                    padding: 5px 20px;
+                }
+
+footer {
+    z-index: 99;
+    padding: 0px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.buses-route {
+    width: 100%;
+    padding: 0;
+    float: left;
+}
+
+/*.buses-route-box {
+    width: 550px;
+    margin: 0 auto 3px;
+}*/
+.buses-route-box {
+    width: 58%;
+    margin: 0 auto;
+}
+
+.buses-part {
+    width: 100%;
+    padding: 20px 30px 0 0px;
+    margin: 0;
+    float: left;
+    background: rgba(0,0,0,0.5);
+    border-top: 2px solid #fff;
+    text-align: center;
+}
+
+    .buses-part ul {
+        list-style: none;
+        padding: 0;
+        /*margin: 0;*/
+        margin: 10px 22px;
+        width: 98%;
+        float: left;
+    }
+
+        .buses-part ul li {
+            width: 20%;
+            margin: 0;
+            padding: 0 0% 3%;
+            float: left;
+        }
+
+.icon-box {
+    width: 50px !important;
+    height: 50px;
+    background: #81a527;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    border-radius: 5px;
+}
+    .icon-box img {width:80%; height:auto;
+    }
+.buses-title {
+    width: 52%;
+    float: left;
+    padding: 0 0 0px 15px;
+    margin: 0;
+}
+
+    .buses-title h3 {
+        color: #fff;
+        font-size: 12px;
+        border-bottom: 1px solid #fff;
+        padding-bottom: 5px;
+        font-weight: normal;
+        text-align: left;
+    }
+
+.circle {
+    width: 5px;
+    height: 5px;
+    border-radius: 3px;
+    background: #fff;
+    margin: -3px 0 0;
+}
+
+.buses-count {
+    width: 50%;
+    padding: 8px 0 0 20px;
+    margin: 0px;
+    float: left;
+}
+
+    .buses-count h2 {
+        color: #fff;
+        font-size: 18px;
+        padding-bottom: 8px;
+        font-weight: 600 !important;
+        text-align: left;
+    }
+
+.footer-bg {
+    background: #4d4d4d;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    float: left;
+    border-top: 2px solid #fff;
+}
+
+    .footer-bg p {
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+
+        .footer-bg p span {
+            border-bottom: 1px solid #fff;
+            color: #fff;
+            font-weight: 600;
+        }
+
+.bottom-contact {
+    width: 100%;
+    padding: 2px 0 0;
+    margin: 0;
+    float: left;
+    text-align: center;
+}
+
+.address {
+    display: inline-block;
+    font-size: 10px;
+    color: #fff;
+    padding: 0 30px 0 0;
+    line-height: 18px;
+}
+
+    .address img {
+        width: 13px;
+        margin: 0 8px 0 0;
+    }
+
+.phone {
+    display: inline-block;
+    font-size: 10px;
+    color: #fff;
+    padding: 0 30px 0 0;
+    line-height: 18px;
+}
+
+    .phone img {
+        width: 13px;
+        margin: 0 8px -3px 0;
+    }
+
+.email {
+    display: inline-block;
+    font-size: 10px;
+    color: #fff;
+    padding: 0 30px 0 0;
+    line-height: 18px;
+}
+
+    .email img {
+        width: 13px;
+        margin: 0 8px -3px 0;
+    }
+
+    .email a {
+        color: #fff;
+    }
+
+        .email a:hover {
+            color: ##81a527;
+        }
+
+.web {
+    display: inline-block;
+    font-size: 10px;
+    color: #fff;
+    padding: 0 30px 0 0;
+    line-height: 18px;
+}
+
+    .web img {
+        width: 13px;
+        margin: 0px 8px -3 0;
+    }
+
+    .web a {
+        color: #fff;
+    }
+
+        .web a:hover {
+            color: ##81a527;
+        }
+
+.search-part {
+    width: 25%;
+    margin: 0 auto;
+    padding: 0;
+    z-index: 999;
+    position: relative;
+}
+
+.search-box {
+    background: #fff;
+    border-radius: 5px;
+    float: left;
+    width: 100%;
+    padding: 3px 0;
+}
+
+    .search-box input {
+        width: 88%;
+        border: 0;
+        outline: 0;
+        padding: 5px 10px;
+        border-radius: 8px;
+        font-size: 12px;
+    }
+
+    .search-box i {
+        color: #808080;
+    }
+
+.search-dropdown {
+    width: 100%;
+    padding: 0;
+    float: left;
+    background: #fff;
+    margin: 5px 0 0;
+    overflow: auto;
+    max-height:135px;
+   /* height: 196px;*/
+}
+
+    .search-dropdown table {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+        .search-dropdown table th {
+            background: #f2f2f2;
+            color: #000;
+            padding: 14px 5px;
+            border-bottom: 1px solid #f0f0f0;
+            text-align: center;
+        }
+
+        .search-dropdown table td {
+            color: #999;
+            padding: 9px 5px;
+            border-bottom: 1px solid #f0f0f0;
+            text-align: center;
+        }
+
+.map {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+    .map iframe {
+        width: 100%;
+        height: 92.5vh;
+        float: left;
+    }
+
+.place-card-large {
+    display: none !important;
+}
+
+#map {
+    width: 100%;
+    height: 94vh;
+    position: absolute;
+    top: 6%;
+}
+
+.map-search {
+    /*width: 300px;*/
+    width: 325px;
+    position: relative;
+    top: 8.6%;
+    left: 10px;
+    padding: 0px 0;
+    z-index: 999;
+    float: left;
+    margin: 7px 0 0;
+}
+
+    .map-search .tab {
+        overflow: hidden;
+        border-bottom: 1px solid #ccc;
+        width: 100%;
+        text-align: center;
+        background: #fff;
+    }
+
+        .map-search .tab ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+            .map-search .tab ul li {
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 10px 0%;
+                transition: 0.3s;
+                font-size: 12px;
+                display: inline-block;
+            }
+
+                .map-search .tab ul li a {
+                    color: #808080;
+                    padding: 0 5px;
+                    float: left;
+                }
+
+                    .map-search .tab ul li a .text {
+                        margin: 0;
+                        padding: 10px 0 0 0;
+                        float: left;
+                    }
+
+                    .map-search .tab ul li a .route-icon {
+                        background: url(../images/NewImages/routes-green.svg) no-repeat center;
+                        width: 24px;
+                        height: 24px;
+                        float: left;
+                        padding: 5px;
+                        border-radius: 10px;
+                        margin: 0 5px 0 0px;
+                    }
+
+                    .map-search .tab ul li a:hover .route-icon, .map-search .tab ul li a.active .route-icon {
+                        background: url(../images/NewImages/routes-white.svg) no-repeat center #81a527;
+                        width: 24px;
+                        height: 24px;
+                        float: left;
+                        padding: 5px;
+                        border-radius: 100%;
+                    }
+
+                    .map-search .tab ul li a .location-icon {
+                        background: url(../images/NewImages/location-green.svg) no-repeat center;
+                        width: 24px;
+                        height: 24px;
+                        float: left;
+                        padding: 5px;
+                        border-radius: 10px;
+                        margin: 0 5px 0 0px;
+                    }
+
+                    .map-search .tab ul li a .sutraseva-icon {
+                        background: url(../images/NewImages/Sutra-Seva-Full-Form-Logo-3-1.svg) no-repeat center;
+                        width: 24px;
+                        height: 24px;
+                        float: left;
+                        padding: 5px;
+                        border-radius: 10px;
+                        margin: 0 5px 0 0px;
+                    }
+
+                    .map-search .tab ul li a:hover .location-icon, .map-search .tab ul li a.active .location-icon {
+                        background: url(../images/NewImages/location-white.svg) no-repeat center #81a527;
+                        width: 24px;
+                        height: 24px;
+                        float: left;
+                        padding: 5px;
+                        border-radius: 100%;
+                    }
+
+.tab-search {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    background: #fff;
+}
+
+    .tab-search input {
+        width: 78%;
+        border: 0;
+        outline: 0;
+        margin: 0;
+        padding: 10px 5%;
+        float: left;
+        font-size: 12px;
+        color: #999;
+        background: transparent;
+    }
+
+    .tab-search i {
+        color: #999;
+        float: left;
+        font-size: 26px;
+        padding: 8px 0 0;
+    }
+
+.route-tab {
+    width: 100%;
+    padding: 0;
+    margin: 5px 0 0;
+    float: left;
+    display: none;
+    background: #fff;
+}
+
+    .route-tab ul, .location-tab ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .route-tab ul li, .location-tab ul li {
+            width: 100%;
+            padding: 0% 0% 0%;
+            float: left;
+        }
+
+            .route-tab ul li a, .location-tab ul li a {
+                color: #999;
+                float:left;
+                width:100%;
+                padding:5% 0 0 
+            }
+            .route-tab ul li a.active {
+                color: #999;
+                background:#f7f7f7;
+                
+            }
+
+
+                .route-tab ul li a img, .location-tab ul li a img {
+                    width: 20px;
+                    margin: 0 5%;
+                    float: left;
+                }
+
+                .route-tab ul li a span, .location-tab ul li a span {
+                    width: 83%;
+                    border-bottom: 1px solid #ddd;
+                    font-size: 12px;
+                    float: left;
+                    padding: 3px 0 10px;
+                }
+
+.gray-bg {
+    background: #f7f7f7;
+    float: left;
+    width: 100%;
+}
+
+.route-tab ul li ul.inner, .location-tab ul li ul.inner {
+    display: none;
+}
+
+ .route-tab ul li ul.inner li, .location-tab ul li ul.inner li {
+        width: 100%;
+        border-bottom: 1px solid #ddd;
+        font-size: 12px;
+        float: left;
+        padding: 5% 5% 5% 17%;
+    }
+
+ .route-tab ul li ul.inner li a.small-text {
+    font-size: 10px;
+    float: right !important;
+    padding:0 !important;
+    width:auto !important
+}
+
+.small-text {
+    font-size: 10px;
+    float: right;
+}
+
+.right-arrow {
+    font-size: 26px !important;
+    margin: -6px 0 -10px 7px;
+    color: #999;
+}
+
+a.toggle {
+    display: block;
+}
+
+.view-details {
+    width: 100%;
+    padding: 0;
+    margin: 5px 0 10px;
+    float: left;
+    display: none;
+    background: #fff;
+}
+
+.view-details-bg {
+    width: 100%;
+    padding: 0;
+    margin: 0px;
+    float: left;
+    background: #fff;
+}
+
+.view-detail-top-bg {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 5px;
+    margin: 0;
+    border-bottom: 2px solid #999;
+    float: left;
+}
+
+.view-detail-top {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
+
+    .view-detail-top img {
+        width: 20px;
+        height: auto;
+    }
+
+.buses-time {
+    width: 100%;
+    padding: 10px 0px;
+    margin: 0;
+    float: left;
+}
+
+    .buses-time h2 span {
+        text-transform: uppercase;
+        padding: 0 0px 0;
+        text-align: left;
+    }
+
+.light {
+    font-weight: 300;
+    text-transform: none !important;
+}
+
+.text-small {
+    font-size: 12px !important;
+    text-transform: none !important;
+}
+
+.mr {
+    margin-right: 10px;
+}
+
+.ml {
+    margin-left: 10px;
+}
+
+.mt {
+    margin-top: 10px;
+}
+
+.mb {
+    margin-bottom: 10px;
+}
+
+.buses-direction {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.from-location {
+    color: #81a527;
+    font-weight: 600;
+    font-size: 12px;
+    float: left;
+    padding: 0 0 0 20px;
+}
+
+.to-location {
+    color: #81a527;
+    font-weight: 600;
+    font-size: 12px;
+    float: right;
+    padding: 0 20px 0 0;
+}
+
+.route-time {
+    width: 100%;
+    padding: 20px 0 10px;
+    margin: 0;
+    float: left;
+}
+
+    .route-time ul {
+        list-style: none;
+        padding: 0;
+        margin: 0px;
+    }
+
+        .route-time ul li {
+            width: 100%;
+            padding: 0px 0;
+            margin: 0;
+            float: left;
+            font-size: 11px;
+            font-weight: normal;
+        }
+
+.time-duration {
+    width: 30%;
+    text-align: right;
+    border-right: 2px solid #81a527;
+    padding: 0px 5% 30px 0;
+    line-height: 12px;
+    top: 0px;
+    display: inline-block;
+}
+
+.route-name {
+    width: 58%;
+    text-align: left;
+    padding: 0px 0% 30px;
+    line-height: 14px;
+    display: inline-block;
+}
+
+    .route-name span.value {
+        text-align: right;
+        float: right;
+    }
+
+    .route-name span {
+        text-align: right;
+        float: right;
+    }
+
+.active-round {
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background: #666;
+    position: relative;
+    margin: 0px 0 0 0;
+    left: -2.5%;
+    border: 0;
+    display: inline-block;
+}
+
+.deactive-round {
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background: #fff;
+    border: 3px solid #666;
+    position: relative;
+    margin: 0 0 0 0;
+    left: -2.5%;
+    display: inline-block;
+}
+
+.green {
+    color: #81a527;
+}
+
+.route-list-part {
+    max-height: 80vh;
+    margin: 0;
+    padding: 0;
+}
+/******* Location part **********/
+.location-part {
+    display: none;
+}
+
+.location-tab {
+    width: 100%;
+    padding: 0;
+    margin: 0px 0 0;
+    float: left;
+    display: block;
+    background: #fff;
+}
+
+.location-tabcontent {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+.location-tab-search {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    background: #fff;
+}
+
+    .location-tab-search input {
+        width: 68%;
+        border: 0;
+        outline: 0;
+        margin: 0;
+        padding: 10px 5%;
+        float: left;
+        font-size: 12px;
+        color: #999;
+        background: transparent;
+    }
+
+    .location-tab-search i {
+        color: #999;
+        float: left;
+        font-size: 26px;
+        padding: 8px 0 0;
+    }
+
+.direction {
+    color: #999;
+}
+
+    .direction span {
+        padding: 10px 5px 0;
+        font-size: 22px;
+        float: left;
+    }
+
+    .direction img {
+        width: 20px;
+        margin: 15px 0 0;
+    }
+
+.search-location {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    background: #fff;
+}
+
+.search-location-bg {
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.search-direction {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.to-loc {
+    width: 100%;
+    margin: 0;
+    padding: 0 0 0px;
+    border-bottom: 1px solid #999;
+    float: left;
+}
+
+    .to-loc input {
+        width: 75%;
+        border: 0;
+        outline: 0;
+        margin: 0;
+        padding: 10px 5%;
+        font-size: 12px;
+        color: #999;
+        background: transparent;
+        float: left;
+    }
+
+    .to-loc img {
+        width: 30px;
+        float: left;
+        margin: 5px 0 00;
+        padding: 0;
+    }
+
+.from-loc {
+    width: 100%;
+    margin: 0;
+    padding: 0 0 0px;
+    float: left;
+}
+
+    .from-loc input {
+        width: 68%;
+        border: 0;
+        outline: 0;
+        margin: 0;
+        padding: 10px 5%;
+        float: left;
+        font-size: 12px;
+        color: #999;
+        background: transparent;
+    }
+
+    .from-loc i {
+        color: #999;
+        float: left;
+        font-size: 26px;
+        padding: 3px 0 0;
+    }
+
+    .from-loc .direction {
+        color: #999;
+    }
+
+        .from-loc .direction span {
+            padding: 5px 5px 0;
+            font-size: 16px;
+            float: left;
+        }
+
+        .from-loc .direction img {
+            width: 18px;
+            margin: 6px 0 0;
+        }
+
+.swipe {
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin: 25px 0 0;
+}
+
+    .swipe img {
+        width: 28px;
+    }
+
+.dest-buse {
+    width: 100%;
+    background: #fff;
+    margin: 5px 0 0;
+    padding: 0;
+    float: left;
+    display: none;
+}
+
+    .dest-buse ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .dest-buse ul li {
+            width: 100%;
+            padding: 0% 0% 0%;
+            float: left;
+        }
+
+            .dest-buse ul li a {
+                color: #999;
+            }
+
+                .dest-buse ul li a img {
+                    width: 20px;
+                    margin: 0 5%;
+                    float: left;
+                }
+
+                .dest-buse ul li a span {
+                    width: 100%;
+                    border-bottom: 1px solid #ddd;
+                    font-size: 12px;
+                    float: left;
+                    padding: 5% 5% 10px;
+                    background: #f7f7f7;
+                }
+
+.gray-bg {
+    background: #f7f7f7;
+    float: left;
+    width: 100%;
+}
+
+.dest-buse ul li ul.inner {
+    display: block;
+}
+
+    .dest-buse ul li ul.inner li {
+        width: 100%;
+        border-bottom: 1px solid #ddd;
+        font-size: 12px;
+        float: left;
+        padding: 5% 5% 5% 17%;
+    }
+
+        .dest-buse ul li ul.inner li a {
+            color: #666;
+        }
+
+.loc-view-details {
+    width: 100%;
+    padding: 0;
+    margin: 5px 0 0px;
+    float: left;
+    display: none;
+}
+
+.loc-view-details-bg {
+    width: 100%;
+    padding: 0;
+    margin: 0px;
+    float: left;
+    background: #fff;
+}
+
+.loc-view-detail-top-bg {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 5px;
+    margin: 0;
+    border-bottom: 2px solid #999;
+    float: left;
+}
+
+.loc-view-detail-top {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
+
+    .loc-view-detail-top img {
+        width: 20px;
+        height: auto;
+    }
+
+.gray-bg {
+    background: #f7f7f7;
+    float: left;
+    width: 100%;
+}
+
+.loc-time {
+    width: 100%;
+    padding: 20px 0 10px;
+    margin: 0;
+    float: left;
+}
+
+    .loc-time ul {
+        list-style: none;
+        padding: 0;
+        margin: 0px;
+    }
+
+        .loc-time ul li {
+            width: 100%;
+            padding: 0px 0;
+            margin: 0;
+            float: left;
+            font-size: 11px;
+            font-weight: normal;
+        }
+
+.loc-time-duration {
+    width: 30%;
+    text-align: right;
+    border-right: 2px solid #81a527;
+    padding: 0px 5% 30px 0;
+    line-height: 12px;
+    top: 0px;
+    display: inline-block;
+}
+
+.loc-name {
+    width: 58%;
+    text-align: left;
+    padding: 0px 0% 30px;
+    line-height: 14px;
+    display: inline-block;
+}
+
+    .loc-name span.value {
+        text-align: right;
+        float: right;
+    }
+
+    .loc-name span {
+        text-align: right;
+        float: right;
+    }
+
+.notfound {
+    width: 100%;
+    padding: 0;
+    margin: 5px 0 0 0;
+    float: left;
+    background: #fff;
+    text-align: center;
+    display: none;
+}
+
+.notfound-img {
+    width: 90%;
+    padding: 5%;
+    margin: 0;
+    float: left;
+}
+
+    .notfound-img img {
+        width: 80%;
+    }
+
+    .notfound-img p {
+        font-size: 12px;
+        font-weight: 400;
+        color: #666;
+        padding: 0px 0 10px;
+        margin: -10px 0 0;
+        text-transform: uppercase;
+    }
+
+.list-route-bg {
+    width: 300px;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.list-route {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.list-route-title {
+    width: 100%;
+    background: #f7f7f7;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+    .list-route-title h2 {
+        width: 90%;
+        float: left;
+        padding: 10px 0 10px 10%;
+    }
+
+        .list-route-title h2 span.text {
+            font-size: 18px;
+            color: #808080;
+            font-weight: 400;
+            padding: 5px;
+            margin: 0;
+            float: left;
+        }
+
+        .list-route-title h2 .route-img {
+            background: url(../images/NewImages/routes-white.svg) no-repeat center #81a527;
+            width: 25px;
+            height: 25px;
+            padding: 5px;
+            border-radius: 100%;
+            margin: 4px 10px 0;
+            float: left;
+        }
+
+.route-listing {
+    width: 100%;
+    padding: 0 0 10px;
+    margin: 0;
+    background: #fff;
+    float: left;
+}
+
+    .route-listing ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .route-listing ul li {
+            width: 100%;
+            padding: 5% 0% 0%;
+            float: left;
+        }
+
+            .route-listing ul li a {
+                color: #999;
+            }
+
+                .route-listing ul li a img {
+                    width: 20px;
+                    margin: 0 5%;
+                    float: left;
+                }
+
+                .route-listing ul li a span {
+                    width: 83%;
+                    border-bottom: 1px solid #ddd;
+                    font-size: 12px;
+                    float: left;
+                    padding: 3px 0 10px;
+                }
+
+            .route-listing ul li:last-child a span {
+                width: 83%;
+                border-bottom: 0px solid #ddd;
+                font-size: 12px;
+                float: left;
+                padding: 3px 0 10px;
+            }
+
+.list-route-timing {
+    width: 350px;
+    padding: 0;
+    margin: 10px 0 0;
+    position: absolute;
+    z-index: 9;
+    right: 10px;
+    display: none;
+}
+
+.route-from-location {
+    color: #81a527;
+    font-weight: 600;
+    font-size: 12px;
+    float: left;
+    padding: 0 0 0 10px;
+}
+
+.route-to-location {
+    color: #81a527;
+    font-weight: 600;
+    font-size: 12px;
+    float: right;
+    padding: 0 10px 0 0;
+}
+
+.route-km {
+    color: #000;
+    font-weight: 600;
+    font-size: 12px;
+    float: right;
+    padding: 0 10px 0 0;
+}
+
+.list-route-time {
+    width: 100%;
+    padding: 20px 0 10px;
+    margin: 0;
+    float: left;
+}
+
+    .list-route-time ul {
+        list-style: none;
+        padding: 0;
+        margin: 0px;
+    }
+
+        .list-route-time ul li {
+            width: 100%;
+            padding: 0px 0;
+            margin: 0;
+            float: left;
+            font-size: 10px;
+            font-weight: normal;
+        }
+
+.list-time-duration {
+    width: 22%;
+    text-align: right;
+    border-right: 2px solid #808080;
+    padding: 0px 5% 10px 0;
+    line-height: 12px;
+    top: 0px;
+    display: inline-block;
+}
+
+.list-route-name {
+    width: 64%;
+    text-align: left;
+    padding: 0px 0% 10px;
+    line-height: 14px;
+    display: inline-block;
+}
+
+    .list-route-name span.value {
+        text-align: right;
+        float: right;
+    }
+
+    .list-route-name span {
+        text-align: right;
+        float: right;
+    }
+
+.list-active-round {
+    width: 5px;
+    height: 5px;
+    border-radius: 100%;
+    background: #fff;
+    position: relative;
+    margin: 0px 0 0 0;
+    left: -4px;
+    border: 0;
+    display: inline-block;
+    border: 1px solid #808080;
+    top: -5px;
+}
+
+.list-time {
+    float: right;
+    padding: 0 0 0 20px;
+}
+
+.list-loc-bg {
+    width: 300px;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.list-loc {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.list-loc-title {
+    width: 100%;
+    background: #f7f7f7;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+    .list-loc-title h2 {
+        width: 90%;
+        float: left;
+        padding: 10px 0 10px 10%;
+    }
+
+        .list-loc-title h2 span.text {
+            font-size: 18px;
+            color: #808080;
+            font-weight: 400;
+            padding: 5px;
+            margin: 0;
+            float: left;
+        }
+
+        .list-loc-title h2 .loc-img {
+            background: url(../images/NewImages/location-white.svg) no-repeat center #81a527;
+            width: 25px;
+            height: 25px;
+            padding: 5px;
+            border-radius: 100%;
+            margin: 4px 10px 0;
+            float: left;
+        }
+
+
+.location-listing {
+    width: 100%;
+    padding: 0 0 10px;
+    margin: 0;
+    background: #fff;
+    float: left;
+}
+
+    .location-listing ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .location-listing ul li {
+            width: 100%;
+            padding: 5% 0% 0%;
+            float: left;
+        }
+
+            .location-listing ul li a {
+                color: #999;
+            }
+
+                .location-listing ul li a img {
+                    width: 20px;
+                    margin: 0 5%;
+                    float: left;
+                }
+
+                .location-listing ul li a span {
+                    width: 83%;
+                    border-bottom: 1px solid #ddd;
+                    font-size: 12px;
+                    float: left;
+                    padding: 3px 0 10px;
+                }
+
+            .location-listing ul li:last-child a span {
+                width: 83%;
+                border-bottom: 0px solid #ddd;
+                font-size: 12px;
+                float: left;
+                padding: 3px 0 10px;
+            }
+
+/********* Select Box ********/
+.cont_select_center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -30px;
+    margin-left: -150px;
+}
+
+.cont_heg_50 {
+    position: absolute;
+    height: 50%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: #fd7b52;
+}
+/* ///  END DECORATION CSS  ///  */
+
+.icon_select_mate {
+    position: absolute;
+    top: 12px;
+    right: 2%;
+    font-size: 16px;
+    height: 22px;
+    transition: all 275ms;
+}
+
+.select_mate {
+    position: relative;
+    float: left;
+    min-width: 300px;
+    width: 300px;
+    min-height: 40px;
+    font-family: 'Roboto';
+    color: #777;
+    font-weight: 300;
+    background-color: #fff;
+   /* box-shadow: 1px 2px 10px -2px rgba(0,0,0,0.3);*/
+    border-radius: 0px;
+    transition: all 375ms ease-in-out;
+}
+    /* Oculto el elemento select */
+    .select_mate select {
+        position: absolute;
+        overflow: hidden;
+        height: 0px;
+        opacity: 0;
+        z-index: -1;
+    }
+
+.cont_list_select_mate {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.cont_select_int {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 999;
+    overflow: hidden;
+    height: 0px;
+    width: 100%;
+    background-color: #fff;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-radius: 0px 0px 3px 3px;
+    /*box-shadow: 1px 4px 10px -2px rgba(0, 0, 0, 0.2);*/
+    transition: all 375ms ease-in-out;
+}
+
+    .cont_select_int li {
+        position: relative;
+        float: left;
+        width: 96%;
+        border-bottom: 1px solid #E0E0E0;
+        background-color: #fff;
+        list-style-type: none;
+        padding: 10px 2%;
+        margin: 0px;
+        transition: all 275ms ease-in-out;
+        display: block;
+        cursor: pointer;
+    }
+
+        .cont_select_int li:last-child {
+            border-radius: 3px;
+            border-bottom: 0px;
+        }
+
+        .cont_select_int li:hover {
+            background-color: #EEEEEE;
+        }
+
+        .cont_select_int li .active {
+            background-color: #EEEEEE;
+        }
+/* etiqueta <p> con la opcion selecionada  */
+.selecionado_opcion {
+    padding: 14px 6%;
+    width: 88%;
+    display: block;
+    margin: 0px;
+    cursor: pointer;
+}
+
+
+.loc-select_mate {
+    position: relative;
+    float: left;
+    min-width: 88%;
+    width: 88%;
+    min-height: 36px;
+    font-family: 'Roboto';
+    color: #777;
+    font-weight: 300;
+    background-color: #fff;
+    /* box-shadow: 1px 2px 10px -2px rgba(0,0,0,0.3);*/
+    border-radius: 0px;
+    transition: all 375ms ease-in-out;
+}
+    /* Oculto el elemento select */
+    .loc-select_mate select {
+        position: absolute;
+        overflow: hidden;
+        height: 0px;
+        opacity: 0;
+        z-index: -1;
+    }
+
+    .loc-select_mate .selecionado_opcion {
+        padding: 12px 6%;
+        width: 88%;
+        display: block;
+        margin: 0px;
+        cursor: pointer;
+    }
+
+    .loc-select_mate .icon_select_mate {
+        top: 8px;
+    }
+
+    .loc-select_mate .cont_select_int {
+        width: 300px;
+    }
+
+.full-select_mate {
+    position: relative;
+    float: left;
+    min-width: 100%;
+    width: 100%;
+    min-height: 36px;
+    font-family: 'Roboto';
+    color: #777;
+    font-weight: 300;
+    background-color: #fff;
+    /* box-shadow: 1px 2px 10px -2px rgba(0,0,0,0.3);*/
+    border-radius: 0px;
+    transition: all 375ms ease-in-out;
+}
+    /* Oculto el elemento select */
+    .full-select_mate select {
+        position: absolute;
+        overflow: hidden;
+        height: 0px;
+        opacity: 0;
+        z-index: -1;
+    }
+
+    .full-select_mate .selecionado_opcion {
+        padding: 12px 6%;
+        width: 88%;
+        display: block;
+        margin: 0px;
+        cursor: pointer;
+    }
+
+    .full-select_mate .icon_select_mate {
+        top: 8px;
+    }
+
+    .full-select_mate .cont_select_int {
+        width: 300px;
+    }
+
+.bustime-select_mate {
+    position: relative;
+    float: left;
+    min-width: 100%;
+    width: 100%;
+    min-height: 36px;
+    font-family: 'Roboto';
+    color: #777;
+    font-weight: 300;
+    background-color: #fff;
+    /* box-shadow: 1px 2px 10px -2px rgba(0,0,0,0.3);*/
+    border-radius: 0px;
+    transition: all 375ms ease-in-out;
+}
+    /* Oculto el elemento select */
+    .bustime-select_mate select {
+        position: absolute;
+        overflow: hidden;
+        height: 0px;
+        opacity: 0;
+        z-index: -1;
+    }
+
+    .bustime-select_mate .selecionado_opcion {
+        padding: 12px 6%;
+        width: 88%;
+        display: block;
+        margin: 0px;
+        cursor: pointer;
+    }
+
+    .bustime-select_mate .icon_select_mate {
+        top: 8px;
+    }
+
+    .bustime-select_mate .cont_select_int {
+        width: 300px;
+    }
+
+.k-dropdown-wrap, .k-dropdown-wrap:focus {
+    background: #fff !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.k-combobox .k-select, .k-combobox .k-select:focus {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.k-combobox .k-input {
+    position: absolute;
+}
+
+.right-space {
+    margin-left: 10px;
+    float: right;
+    width: auto;
+}
+/********* Select Box End ********/
+
+@media (max-width:1600px) {
+    .logo {
+        width: 25%;
+    }
+
+    .search-part {
+        width: 40%;
+    }
+}
+
+@media (max-width:1300px) {
+    .logo {
+        width: 20%;
+    }
+
+        .logo h1 {
+            margin: 0;
+        }
+
+    .mid-title {
+        width: 45%;
+    }
+
+        .mid-title h2 {
+            font-size: 22px;
+        }
+
+    .today-date {
+        padding-right: 20px;
+    }
+}
+
+@media (max-width:1024px) {
+    .logo {
+        width: 240px;
+    }
+
+        .logo h1 {
+            margin: 0;
+        }
+
+    .mid-title {
+        width: 45%;
+    }
+
+        .mid-title h2 {
+            font-size: 22px;
+        }
+
+    .today-date {
+        padding-right: 20px;
+    }
+
+    .search-part {
+        width: 50%;
+    }
+}
+
+@media (max-width:767px) {
+    .logo {
+        width: 100%;
+        background: #fff;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+        .logo h1 {
+            margin: 0;
+            width: 100%;
+            text-align: center;
+        }
+
+    .mid-title {
+        width: 100%;
+    }
+
+        .mid-title h2 {
+            line-height: 30px;
+        }
+
+    .today-date {
+        width: 100%;
+        text-align: center;
+        padding: 25px 0;
+    }
+
+    .menu {
+        padding: 10px 0 0;
+    }
+
+        .menu ul li {
+            margin: 10px 0 10px;
+            padding: 0 5px;
+        }
+
+            .menu ul li a {
+                font-size: 12px;
+                padding: 10px 10px 10px 5px;
+            }
+
+                .menu ul li a .search {
+                    padding: 5px 15px;
+                }
+
+                .menu ul li a .route {
+                    padding: 5px 15px;
+                }
+
+                .menu ul li a .location {
+                    padding: 5px 15px;
+                }
+
+                .menu ul li a .timing {
+                    padding: 5px 15px;
+                }
+
+                .menu ul li a:hover {
+                    font-size: 12px;
+                    padding: 10px 10px 10px 5px;
+                }
+
+                    .menu ul li a:hover .search {
+                        padding: 5px 15px;
+                    }
+
+                    .menu ul li a:hover .route {
+                        padding: 5px 15px;
+                    }
+
+                    .menu ul li a:hover .location {
+                        padding: 5px 15px;
+                    }
+
+                    .menu ul li a:hover .timing {
+                        padding: 5px 15px;
+                    }
+
+    footer {
+        position: relative;
+    }
+
+    .buses-route-box {
+        width: 94%;
+    }
+
+    .buses-part {
+        width: 90%;
+        padding: 5%;
+    }
+
+        .buses-part ul li {
+            width: 100%;
+        }
+
+    .footer-bg p {
+        font-size: 12px;
+    }
+
+    .address, .phone, .email, .web {
+        padding-bottom: 5px;
+    }
+
+    .search-part {
+        width: 90%;
+    }
+
+    .search-box input {
+        width: 85%;
+    }
+
+    .search-dropdown {
+        margin-bottom: 20px;
+    }
+}
+.width_sutraseva{
+    width: 22px;
+    float: left;
+    margin: 0 6px 0 0;
+}

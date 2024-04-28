@@ -1,0 +1,756 @@
+
+
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/bundles/scripts/jqueryui?v=dQKB3IDa_SCXsqj8JbbP1CA8xpRJ7OQ9cpknBrUrF7w1"></script>
+
+    <script src="/bundles/scripts/kendoui?v=bYo0IjIFI77Bw8qOsIxOPCohi3VWr5E0Xq--_GaCLRA1"></script>
+
+    <script src="/bundles/scripts/bootstrap?v=CfXQhsuKprfn0X8c2q1RS2XfuPTs6D3FTl18cAegzpI1"></script>
+
+    <script src="/bundles/scripts/flot?v=buFBoN8C1kkdAy-ssqood9t5LAQ-czOcAdkOxdtL_ys1"></script>
+
+    <script src="/bundles/scripts/datatables?v=_9fiTSR0uRU819Ix9HruKCYsPxZRRr_-B8iQTkuCvVU1"></script>
+
+    <script src="/bundles/scripts/misc?v=K2riItSD3LvRCIZXc75z8YeKhVaj_gcg8Wc66cg4-zg1"></script>
+
+    <script src="/bundles/scripts/select?v=_PiqmTFnfQ0bRLyVqLPNY7grb1KvVoHncAg2fBJ_E6w1"></script>
+
+
+    <!--Render bundled styles-->
+    <link href="/bundles/css/font_icon?v=ibpnLZTSzkUNxtDCMVK_tuHXqvnj6Fh47aBr3h10Iyo1" rel="stylesheet"/>
+
+    <link href="/bundles/css/bootstrap?v=ZiBpHRo-tS6r5e6BTvZnlJ-crEsD6KGQZa-tBAuUDAA1" rel="stylesheet"/>
+
+    <link href="/bundles/css/kendoui?v=uml5Rr0taddvYIiD0QEwzDBVOOb5pdeaVDN01IiTAW01" rel="stylesheet"/>
+
+    <link href="/bundles/css/datatables?v=blIm5ydGRZTJObaz1dVxQuwl8bNniy2tPRGBL8-YXF01" rel="stylesheet"/>
+
+    <link href="/bundles/css/plugins?v=DDL-apkfqaiussFAdcMnVtUG3WSlfRGrjPuOGzQHmaI1" rel="stylesheet"/>
+
+
+
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtBAu7yPKe-hNQ9Xa3v70IhsXGgP9y1rE"></script>
+
+    <title>AiCTSL</title>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700|Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="/CSS/font-awesome.css">
+</head>
+<body>
+    <div class="main">
+        <header class="left header">
+            <div class="logo left">
+                <h1 class="left"><a href='/Home/Index'>
+                    <img src="/Images/NewImages/logo.svg" alt="AiCTSL Logo" title="AiCTSL Logo"></a></h1>
+            </div>
+
+            <div class="mid-title center">
+                <h2>अटल इंदौर सिटी ट्रांसपोर्ट सर्विसिस लिमिटेड</h2>
+            </div>
+            <div class="today-date"><span id="divtime">29/11/2017</span></div>
+        </header>
+        <div class="content">
+            <div id="map"></div>
+            <div class="map-search">
+                <div class="list-route-bg">
+                    <div class="list-route">
+                        <div class="list-route-title">
+                            <h2><span class="route-img"></span><span class="text">Routes</span></h2>
+                        </div>
+                        <div class="route-listing">
+
+                            <ul id="ulListOfRoutes">
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list-route-timing">
+                <div class="view-details-bg">
+                    <div class="view-detail-top-bg">
+                        <div class="view-detail-top">
+                            <div class="buses-direction">
+                                <span class="route-from-location"></span><span class="route-arrow">
+                                    <img src="/Images/NewImages/route-arrow.svg" alt="" title=""></span><span class="route-km"></span>
+                                <span class="route-to-location"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="list-route-time">
+                        <ul id="ulRouteTime">
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="/Scripts/javascript.util.min.js"></script>
+    <script src="/Scripts/jsts.min.js"></script>
+    <script src="/Scripts/infobubble.js"></script>
+    <script src="/Scripts/Map_ListOfRoutes.js"></script>
+    <script src="/Scripts/js/jquery.nicescroll.min.js"></script>
+    <script src="/Scripts/js/custom.js"></script>
+    <script>
+
+        var infoBubbleStationArray = [];
+        var markerArray = [];
+        var markerArray1 = [];
+        var stationnamelatoffset = 0.0025;
+        var infoBubbleStation1;
+        var intNew3;
+        var PolygonStationArray = [];
+        var ltlng = [];
+        var latLng = [];
+        var lats = [];
+        var longs = [];
+
+        var latByRouteId = [];
+        var longsByRouteId = [];
+        var stationNameByRouteId = [];
+        var RouteIdByRouteId = [];
+        var RouteTypeByRouteId = [];
+
+        var iStation = 0;
+        var RouteMarker = 0;
+        var ArrayMarker = [];
+        var stationName = [];
+        var RouteType = [];
+        var directionsDisplay = [], directionsService = [];
+        var directionsDisplayRoute = [];
+        var routeList = [];
+        var mapStationArray = new Map();
+
+        var map;
+        function initialize() {
+            var directionsService = new google.maps.DirectionsService();
+            directionsService[0] = directionsService;
+            directionsDisplay[0] = new google.maps.DirectionsRenderer();
+
+            var mapCanvas = document.createElement("div");
+            mapCanvas.id = "map";
+
+            document.body.appendChild(mapCanvas);
+
+            mapOptions = {
+                zoom: 14,
+                mapTypeId: 'styled_map',
+                center: new google.maps.LatLng(22.7196, 75.8577),
+                mapTypeControlOptions: {
+                    mapTypeIds: ['styled_map', 'satellite']
+                },
+            }
+
+            map = new google.maps.Map(mapCanvas, mapOptions);
+            map.mapTypes.set('styled_map', CreateStyledMapType());
+            PlotAllRoutes(map);
+        }
+
+        function DomainUrl() {
+            var location = window.location;
+            var domainName = location.protocol + "//" + location.hostname + ":" + location.port + "/";
+
+            var arrHrefParameters = location.href.split("/");
+            if (arrHrefParameters != null && arrHrefParameters.length >= 6)
+                domainName += arrHrefParameters[3] + "/";
+
+            return domainName;
+        }
+
+        $(document).ready(function () {
+            ShowCurrentTime();
+            initialize();
+
+            //display all routes 
+            /* $.ajax({
+                type: "GET",
+                url: '/ListofRoutesLocations/GetRoutes',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    var htmlstring = $("#ulListOfRoutes").html('');
+                    for (var i = 0; i < data.length ; i++) {
+                        htmlstring.append("<li><a href='javascript:void(0);' onclick='GetStations(" + data[i].RouteId + ",\"" + data[i].RouteName + "\");'><img src='../Images/NewImages/route-dropdown.svg' alt='' title=''><span>" + data[i].RouteName + "</span></a></li>");
+                    }
+                }
+            }); */
+            $.getJSON("GetRoutes.json", function(data) {
+                var htmlstring = $("#ulListOfRoutes").html('');
+                for (var i = 0; i < data.length; i++) {
+                    htmlstring.append("<li><a href='javascript:void(0);' onclick='GetStations(" + data[i].RouteId + ",\"" + data[i].RouteName + "\");'><img src='../Images/NewImages/route-dropdown.svg' alt='' title=''><span>" + data[i].RouteName + "</span></a></li>");
+                }
+            });
+
+            //display all unique routes
+            $.ajax({
+                type: "GET",
+                url: '/ListofRoutes/GetUniqueRoutes',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    for (var i = 0; i < data.length ; i++) {
+                        if ((jQuery.inArray(data[i].RouteId, routeList)) == -1) {
+                            routeList.push(data[i].RouteId);
+                        }
+                    }
+                    getStation();
+                }
+            });
+
+            $('.tab1').click(function () {
+                $('.route-part').show();
+                $('.location-part').hide();
+                $('.search-location').hide();
+                $(".route-tab").getNiceScroll().resize();
+                $(".dest-buse").getNiceScroll().resize();
+                $(".route-time").getNiceScroll().resize();
+                $(".loc-time").getNiceScroll().resize();
+
+
+            });
+            $('.tab2').click(function () {
+                $('.route-part').hide();
+                $('.location-part ').show();
+                $('.search-location').show();
+                $(".route-tab").getNiceScroll().resize();
+                $(".dest-buse").getNiceScroll().resize();
+                $(".route-time").getNiceScroll().resize();
+                $(".loc-time").getNiceScroll().resize();
+            })
+            /******** accordion  **********/
+            $(".route-part .tab-input").click(function () {
+                $(".route-part .route-tab").show();
+                $(".location-part .dest-buse").hide();
+            });
+            $(".route-part .accordion a.small-text").click(function () {
+                $(".route-part .view-details").show();
+                $(".route-part .route-tab").hide();
+
+                setTimeout(function () {
+                    $(".route-time ul li").each(function (index) {
+                        var minHeight = 15;
+                        var firstValue = $(this).find('.value').text();
+                        var SecountValue = $(this).next('li').find('.value').text();
+                        var finalValue = SecountValue - firstValue;
+                        heightCal = finalValue * 10;
+                        $(this).find('.time-duration').height(minHeight + heightCal);
+                        $(this).find('.route-name').height(minHeight + heightCal);
+                    });
+                    $(".route-time").getNiceScroll().resize();
+                }, 300);
+            });
+
+            $(".location-part .dest-buse a.small-text").click(function () {
+                $(".location-part .loc-view-details").show();
+                $(".location-part .dest-buse").hide();
+
+                setTimeout(function () {
+                    $(".dest-buse ul li").each(function (index) {
+                        var minHeight = 15;
+                        var firstValue = $(this).find('.value').text();
+                        var SecountValue = $(this).next('li').find('.value').text();
+                        var finalValue = SecountValue - firstValue;
+                        heightCal = finalValue * 10;
+                        $(this).find('.time-duration').height(minHeight + heightCal);
+                        $(this).find('.route-name').height(minHeight + heightCal);
+                    });
+                    $(".loc-time").getNiceScroll().resize();
+                }, 300);
+            });
+
+            $('.search-loc').click(function () {
+                $('.dest-buse').show();
+
+            });
+            /******** accordion  **********/
+            $('.toggle').click(function (e) {
+                e.preventDefault();
+
+                var $this = $(this);
+
+                if ($this.next().hasClass(600)) {
+                    $this.next().removeClass(600);
+                    $this.next().slideUp();
+                } else {
+                    $this.parent().parent().find('li .inner').removeClass(600);
+                    $this.parent().parent().find('li .inner').slideUp();
+                    $this.next().toggleClass(600);
+                    $this.next().slideToggle();
+                }
+                setTimeout(function () {
+                    $(".route-tab").getNiceScroll().resize();
+                }, 600);
+            });
+
+            /*********** Route Time **********/
+
+            $(".back").click(function () {
+                $(".route-part .view-details").hide();
+                $(".route-part .route-tab").show();
+                $(".route-tab").getNiceScroll().resize();
+                $(".dest-buse").getNiceScroll().resize();
+                $(".route-time").getNiceScroll().resize();
+                $(".loc-time").getNiceScroll().resize();
+            });
+            $(".back1").click(function () {
+                $(".location-part .loc-view-details").hide();
+                $(".location-part .dest-buse").show();
+                $(".route-tab").getNiceScroll().resize();
+                $(".dest-buse").getNiceScroll().resize();
+                $(".route-time").getNiceScroll().resize();
+                $(".loc-time").getNiceScroll().resize();
+            });
+
+            $(function () {                       //run when the DOM is ready
+                $(".tab-search").click(function () {  //use a class, since your ID gets mangled
+                    $(this).addClass("gray-bg");      //add the class to the clicked element
+                });
+                var windowW = $(window).height();
+                var headerH = $('.header').height();
+            });
+
+            $(".route-tab").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+            $(".route-time").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+            $(".dest-buse").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+            $(".loc-time").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+
+            /*************** ****************/
+            $('.route-listing ul li a').click(function () {
+                alert(111);
+                $('.list-route-timing').show()
+            });
+            $(".list-route-time").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+
+            $(".route-listing ul li a ").click(function () {
+                $(".list-route-timing .list-route-time").show();
+
+                setTimeout(function () {
+                    $(".list-route-time ul li").each(function (index) {
+                        var minHeight = 15;
+                        var firstValue = $(this).find('.value').text();
+                        var SecountValue = $(this).next('li').find('.value').text();
+                        var finalValue = SecountValue - firstValue;
+                        heightCal = finalValue * 10;
+                        $(this).find('.list-time-duration').height(minHeight + heightCal);
+                        $(this).find('.list-route-name').height(minHeight + heightCal);
+                    });
+                    $(".list-route-time").getNiceScroll().resize();
+                }, 300);
+            });
+
+            $(".route-listing").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+
+            $(".location-listing").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+
+            $('.location-listing ul li a').click(function () {
+                $('.list-route-timing').show()
+            });
+            $(".list-route-time").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+
+            $(".location-listing ul li a ").click(function () {
+                $(".list-route-timing .list-route-time").show();
+
+                setTimeout(function () {
+                    $(".list-route-time ul li").each(function (index) {
+                        var minHeight = 15;
+                        var firstValue = $(this).find('.value').text();
+                        var SecountValue = $(this).next('li').find('.value').text();
+                        var finalValue = SecountValue - firstValue;
+                        heightCal = finalValue * 10;
+                        $(this).find('.list-time-duration').height(minHeight + heightCal);
+                        $(this).find('.list-route-name').height(minHeight + heightCal);
+                    });
+                    $(".list-route-time").getNiceScroll().resize();
+                }, 300);
+            });
+
+           
+
+            $(".location-listing").niceScroll({ touchbehavior: false, cursorcolor: "#000", cursoropacitymax: 0.7, cursorwidth: 6, background: "#fff", border: '0px', autohidemode: false });
+
+            $("#Route").change(function (e) {
+               
+            });
+        });
+
+        /******* Video js *************/
+        var fade_in_videos = document.querySelectorAll('.fade-in-video');
+        for (i = 0; i < fade_in_videos.length; i++) {
+            fade_in_videos[i].addEventListener("playing", function () {
+                this.className += ' is-playing';
+            });
+        }
+        var iOS = /iPad|iPhone|iPod/.test(navigator.platform);
+        if (iOS) {
+            var background_videos = document.querySelectorAll('.video-bg video');
+            for (i = 0; i < background_videos.length; i++) {
+                background_videos[i].parentNode.removeChild(background_videos[i]);
+            }
+        }
+
+        function ShowRouteDetailsOnRightSide(RouteId, RouteName) {
+            debugger
+            var varRouteName = RouteName.toLowerCase();
+            var RouteNameArr = varRouteName.split(' to '); //split routename by to
+
+            $('.route-from-location').html('');
+            $('.route-from-location').html(RouteNameArr[0]); //split from route into lable from routename
+            $('.route-to-location').html('');
+            $('.route-to-location').html(RouteNameArr[1]); //split to route into lable from routename
+
+            $('.route-from-location').css('textTransform', 'capitalize'); //first letter capital
+            $('.route-to-location').css('textTransform', 'capitalize');   //first letter capital
+
+            $.ajax({
+                type: "GET",
+                url: '/ListofRoutes/GetRoutesDetails',
+                data: { RouteId: RouteId },
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    var htmlstring = $("#ulRouteTime").html("");
+                    if (data.length > 0) {
+                        $('.list-route-timing').show();
+                        var totalkm = 0;
+                        for (var i = 0; i < data.length ; i++) {
+                            htmlstring.append("<li><div class='list-time-duration'>Stop " + i + "</div><div class='list-active-round'></div><div class='list-route-name'>" + data[i].stationname + "<div class='right-space'><span class='value'>" + data[i].totaltime + " min</div><span> <span style='padding-left:2px;'> km</span> <span class='list-time'>" + data[i].totaldistance + "</span></div></li>");
+                            totalkm = parseFloat(data[i].totaldistance);
+                        }
+                        $('.route-km').html('');
+                        $('.route-km').html(totalkm.toFixed(2) + " km");
+
+                        $(".list-route-time").getNiceScroll().resize();
+                    }
+                }
+            });
+        }
+
+        var showicon = "";
+        var routetypecolor = "";
+        function createMarkerForAllRoutes(map, latlng, label, html, color, RouteId, routetype, stations, index) {
+            if (routetype == "iBus Feeder") {
+                showicon = "../Images/NewImages/Blue-11.svg";
+                routetypecolor = "#2631FF";
+            }
+            else if (routetype == "iBus") {
+                showicon = "../Images/NewImages/Green-10.svg";
+                routetypecolor = "#00CC66";
+            }
+            else if (routetype == "Atal City Bus") {
+                showicon = "../Images/NewImages/Pink-09.svg";
+                routetypecolor = "#FF008C";
+            }
+            else if (routetype == "Atal City Bus(CNG)") {
+                showicon = "../Images/NewImages/Orange-12.svg";
+                routetypecolor = "#DB701D";
+            }
+            else {
+                showicon = "../Images/NewImages/Grey-08.svg";
+                routetypecolor = "#666666";
+            }
+            var image = {
+                url: showicon,
+                anchor: new google.maps.Point(10, 10)
+            };
+
+            var contentString = '<b>' + label + '</b><br>' + html;
+            var marker = new google.maps.Marker({
+                position: latlng,
+                map: map,
+                icon: image,
+                optimized: false,
+                zIndex: 0
+            });
+
+            if (stations != null) {
+                a = "<div id='content' style='border-radius:10px;margin-left:2px;'>"
+                           + "<table><tr>"
+                           + "<td><div style='margin-top:5px;padding:2px 5px;border-left:2px solid " + routetypecolor + "; font-size:12px;margin-left:30px;background-color:white;color:" + routetypecolor + ";'>" + stations + "</div></td>"
+                           + "</td></tr></table></div>";
+
+                infoBubbleStation = new InfoBubble({
+                    maxWidth: 185,
+                    minWidth: 150,
+                    minHeight: 30,
+                    maxHeight: 20,
+                    map: map,
+                    position: latlng,
+                    shadowStyle: 0,
+                    padding: 2,
+                    backgroundColor: 'transparent',
+                    borderRadius: 4,
+                    arrowSize: 5,
+                    borderWidth: 0,
+                    borderColor: '#414141',
+                    disableAutoPan: false,
+                    hideCloseButton: true,
+                    arrowPosition: 10,
+                    arrowStyle: 0,
+                }, 1);
+                infoBubbleStation.setContent(a);
+                infoBubbleStation.open(map, marker);
+                infoBubbleStationArray[index] = infoBubbleStation;
+            }
+            google.maps.event.addListener(marker, 'click', function () {
+                infowindow.setContent(contentString);
+                infowindow.open(map, marker);
+            });
+            if (RouteMarker == 0) {
+                RouteMarker++;
+            }
+            else {
+                RouteMarker++;
+            }
+            iStation++;
+            return marker;
+        }
+
+        function plotRouteOnMap(stops, iCount, RouteId, routetype, stations) {
+            //directionsDisplay[iCount] = new window.google.maps.DirectionsRenderer({
+            //    draggable: false, suppressMarkers: true, preserveViewport: true,
+            //    polylineOptions: {
+            //        strokeColor: '#AFAFAF', // UnComment 
+            //        strokeWeight: 5,
+            //        strokeOpacity: 0.5
+            //    }
+            //});
+            //directionsService = new window.google.maps.DirectionsService();
+            //directionsService[iCount] = directionsService;
+            //directionsDisplay[iCount].setMap(map);
+            //// add route to array
+            //directionsDisplayRoute[iCount] = directionsDisplay[iCount];
+
+            for (var i = 0; i < stops.length; i++) {
+                //createMarkerForAllRoutes(directionsDisplay[iCount].getMap(), stops[i], "marker" + i, "some text for marker " + i + "<br>", "", "", routetype[i], null, i);
+                createMarkerForAllRoutes(map, stops[i], "marker" + i, "some text for marker " + i + "<br>", "", "", null, null, i);
+                var millisecondsToWait = 1;
+                setTimeout(function () {
+                    plotStation('Disable');
+                }, millisecondsToWait);
+            }
+        }
+
+        function DrawRoute() {
+            var stops = [];
+            var RouteId = 0, iCount = 0;
+            var routetype = [];
+            var stations = [];
+            if (lats.length > 1) {
+                RouteId = RouteIdArray[0];
+                iCount = 1;
+            }
+
+            for (var i = 0; i < lats.length; i++) {
+                if (RouteId == RouteIdArray[i]) {
+                    stops.push(new google.maps.LatLng(lats[i], longs[i]));
+                    routetype.push(RouteType[i]);
+                    stations.push(stationName[i]);
+                }
+                else {
+                    plotRouteOnMap(stops, iCount, RouteId, routetype, stations);
+                    stops = [];
+                    stops.push(new google.maps.LatLng(lats[i], longs[i]));
+                    RouteId = RouteIdArray[i];
+                    routetype.push(RouteType[i]);
+                    stations.push(stationName[i]);
+                    iCount = iCount + 1;
+                }
+            }
+            if (stops.length > 1) {
+                plotRouteOnMap(stops, iCount, RouteId, routetype, stations);
+            }
+        }
+
+        function getStation() {     //gets the planned route data by the routeid passed
+            try {
+                
+                /*$.ajax({
+                    type: "GET",
+                    url: '/ListofRoutes/getAllStation',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    beforeSend: function () {
+                    },
+                    success: function (data) {
+                        lats = [];
+                        longs = [];
+                        stationName = [];
+                        RouteIdArray = [];
+                        RouteType = [];
+                        var PolygonStationArray = [];
+
+                        $.each(data, function (index, value) {
+                            lats.push(value.Lat1);
+                            longs.push(value.Long1);
+                            stationName.push(value.StationName);
+                            RouteType.push(value.route_type_name);
+                            PolygonStationArray.push([new google.maps.LatLng(value.Lat1, value.Long1), value.StationName, value.route_type_name, null, ]);
+                        });
+                        DrawRoute();
+                    },
+                    failure: function (msg) {   // if routeid by chance is null then the bus will be displayed but all other data will be rubbed out of map
+                        if (markerArray != undefined) {
+                            for (var i = 0; i < markerArray.length; i++) {
+                                if (markerArray[i]) {
+                                    markerArray[i][0].setMap(null);
+                                    markerArray[i][1].setMap(null);
+                                }
+                            }
+                        }
+                        if (infowindow2Array != undefined) {
+                            for (var i = 0; i < infowindow2Array.length; i++) {
+                                if (infowindow2Array[i])
+                                    infowindow2Array[i].setMap(null);
+                            }
+                        }
+                        for (var i = 0; i < RoutePolygonArray.length; i++) {    //clears whole route polygon
+                            if (RoutePolygonArray[i])
+                                RoutePolygonArray[i].setMap(null);
+                        }
+                        RoutePolygonArray = [];
+                    }
+                })*/
+                // Assuming you have a JSON file named 'stations.json'
+$.getJSON("getAllStations.json", function(data) {
+    lats = [];
+    longs = [];
+    stationName = [];
+    RouteIdArray = [];
+    RouteType = [];
+    var PolygonStationArray = [];
+
+    $.each(data, function(index, value) {
+        lats.push(value.Lat1);
+        longs.push(value.Long1);
+        stationName.push(value.StationName);
+        RouteType.push(value.route_type_name);
+        PolygonStationArray.push([new google.maps.LatLng(value.Lat1, value.Long1), value.StationName, value.route_type_name, null, ]);
+    });
+
+    DrawRoute();
+}).fail(function(jqxhr, textStatus, error) {
+    // Handle the case when the JSON file cannot be loaded or an error occurs.
+    console.log("Failed to load JSON: " + textStatus + ", " + error);
+    // You can put your error handling code here.
+});
+
+            } catch (e) {
+                //alert(e);
+            }
+        }
+
+        function plotStation(paraEnable, ltlng) {
+            clearInterval(intNew3);
+            for (var i = 0; i < infoBubbleStationArray.length; i++) {
+                infoBubbleStationArray[i].setMap(map);
+            }
+        }
+
+        function ClearMarkers() {
+            var length = markerArray1.length;
+            var length1 = infoBubbleStationArray.length;
+            // var polygonArrLen = arrPolygon.length;
+
+            for (var i = 0; i < length; i++) {
+                if (markerArray1[i][0] != null) {
+                    markerArray1[i][0].setMap(null);
+                    markerArray1[i][0] = null;
+                }
+                if (infoBubbleStationArray[i] != null) {
+                    infoBubbleStationArray[i].setMap(null);
+                    infoBubbleStationArray[i] = null;
+                }
+            }
+
+            for (var i = 0; i < ArrayMarker.length; i++) {
+                if (ArrayMarker[i][1] != null) {
+                    ArrayMarker[i][1].setMap(null);
+                    ArrayMarker[i][1] = null;
+                }
+            }
+
+            //for (var i = 0; i < polygonArrLen; i++) {
+            //    arrPolygon[i][0].setMap(null);
+            //    arrPolygon[i] = null;
+            //}
+
+            //arrPolygon.length = 0;
+            ArrayMarker.length = 0;
+            markerArray1.length = 0;
+            infoBubbleStationArray.length = 0;
+        }
+
+        //function Calculates Date/month/year/HH/MM/SS Seperately and We can parse it to Desired Format
+        function ShowCurrentTime() {
+            var date = new Date();
+            var month = (date.getMonth() + 1) > 9 ? (date.getMonth() + 1) : "0" + (date.getMonth() + 1);
+            var day = (date.getDate()) > 9 ? (date.getDate()) : "0" + (date.getDate());
+            var hours = (date.getHours()) > 9 ? (date.getHours()) : "0" + (date.getHours());
+            var minutes = (date.getMinutes()) > 9 ? (date.getMinutes()) : "0" + (date.getMinutes());
+            var seconds = (date.getSeconds()) > 9 ? (date.getSeconds()) : "0" + (date.getSeconds());
+
+            var dateString =
+                day + "/" +
+                 month + "/" +
+                date.getFullYear() + " ";
+            //hours + ":" +
+            //minutes + ":" +
+            //seconds;
+            var dt = new Date();
+
+            document.getElementById("divtime").innerHTML = dateString;
+            window.setTimeout("ShowCurrentTime()", 1000); // Here 1000(milliseconds) means one 1 Sec  
+        }
+
+        function GetStations(RouteId,RouteName) {
+            debugger
+            var arrStationData = null;
+            var arrStations = [];
+            //var routeidval = parseInt($("#Route").val());
+            ShowRouteDetailsOnRightSide(RouteId, RouteName);
+
+            ClearMarkers();
+
+            $.ajax({
+                type: "GET",
+                url: '/ListofRoutes/getStation',
+                data: { RouteId: RouteId },
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (data) {
+                    latByRouteId = [];
+                    longsByRouteId = [];
+                    stationNameByRouteId = [];
+                    RouteIdByRouteId = [];
+                    RouteTypeByRouteId = [];
+
+                    $.each(data, function (index, value) {
+                        latByRouteId.push(value.Lat1);
+                        longsByRouteId.push(value.Long1);
+                        stationNameByRouteId.push(value.StationName);
+                        RouteIdByRouteId.push(value.RouteId)
+                        RouteTypeByRouteId.push(value.route_type_name);
+                    });
+                    for (var i = 0; i < latByRouteId.length; i++) {
+                        marker = createMarkerForAllRoutes(map, new google.maps.LatLng(latByRouteId[i], longsByRouteId[i]), "marker" + i, "some text for marker " + i + "<br>", "", RouteIdByRouteId[i], RouteTypeByRouteId[i], stationNameByRouteId[i], i);
+                        markerArray1[i] = [marker, stationNameByRouteId];
+                    }
+
+                    PlotAllRoutes(map, parseInt(RouteId));
+                }
+            });
+        }
+    </script>
+</body>
+</html>
+
